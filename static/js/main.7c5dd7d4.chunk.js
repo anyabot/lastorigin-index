@@ -344,7 +344,7 @@
                                 id: "type"
                             }, t.type)), l.a.createElement("div", {
                                 className: "name"
-                            }, l.a.createElement("h2", {
+                            }, l.a.createElement("h3", {
                                 id: "name"
                             }, t.name)), l.a.createElement("div", {
                                 className: "LVL"
