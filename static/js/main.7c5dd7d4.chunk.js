@@ -211,7 +211,7 @@
                             }, "close")), l.a.createElement("input", {
                                 type: "text",
                                 className: "navbar-input",
-                                placeholder: "\uc774\ub984\uc744 \uc785\ub825\ud558\uc138\uc694.",
+                                placeholder: "Enter Enemy's Name",
                                 onFocus: this.handleInputFocus,
                                 onChange: this.handleInputChange
                             }), l.a.createElement("div", {
@@ -298,7 +298,7 @@
                                 className: "tooltip tooltip-stat"
                             }, this.props.children, l.a.createElement("div", {
                                 className: "tooltip-innertext tooltip-innertext-right"
-                            }, "\uae30\ubcf8: ", e, l.a.createElement("br", null), "\ub808\ubca8\ub2f9 \uc99d\uac00\ub7c9: ", t))
+                            }, "Base: ", e, l.a.createElement("br", null), "Growth per Level: ", t))
                         }
                     }]), t
                 }(l.a.Component),
@@ -367,7 +367,7 @@
                                 onChange: this.handleLvlChange
                             }), l.a.createElement("div", {
                                 className: "tooltip-innertext tooltip-innertext-bottom"
-                            }, "\uac12\uc744 \uc9c1\uc811 \uc785\ub825\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4"))), l.a.createElement("button", {
+                            }, "You can enter value directly"))), l.a.createElement("button", {
                                 className: "lvl-change lvl-plus",
                                 onClick: this.handleLvlPlus
                             }, l.a.createElement("i", {
@@ -398,7 +398,7 @@
                             }, l.a.createElement("img", {
                                 src: "images/icon_ATK2.png",
                                 alt: "ATK Icon"
-                            }), l.a.createElement("div", null, "\uacf5\uaca9\ub825")), l.a.createElement("div", {
+                            }), l.a.createElement("div", null, "ATK")), l.a.createElement("div", {
                                 className: "spec-item",
                                 id: "ATK"
                             }, l.a.createElement(k, {
@@ -412,7 +412,7 @@
                             }, l.a.createElement("img", {
                                 src: "images/icon_CRT2.png",
                                 alt: "CRT Icon"
-                            }), l.a.createElement("div", null, "\uce58\uba85\ud0c0")), l.a.createElement("div", {
+                            }), l.a.createElement("div", null, "CRIT")), l.a.createElement("div", {
                                 className: "spec-item",
                                 id: "CRT"
                             }, t.CRT, " %"), l.a.createElement("div", {
@@ -420,7 +420,7 @@
                             }, l.a.createElement("img", {
                                 src: "images/icon_DEF2.png",
                                 alt: "DEF Icon"
-                            }), l.a.createElement("div", null, "\ubc29\uc5b4\ub825")), l.a.createElement("div", {
+                            }), l.a.createElement("div", null, "DEF")), l.a.createElement("div", {
                                 className: "spec-item",
                                 id: "DEF"
                             }, l.a.createElement(k, {
@@ -434,7 +434,7 @@
                             }, l.a.createElement("img", {
                                 src: "images/icon_HIT2.png",
                                 alt: "HIT Icon"
-                            }), l.a.createElement("div", null, "\uc801\uc911\ub960")), l.a.createElement("div", {
+                            }), l.a.createElement("div", null, "ACC")), l.a.createElement("div", {
                                 className: "spec-item",
                                 id: "HIT"
                             }, t.HIT, " %"), l.a.createElement("div", {
@@ -442,7 +442,7 @@
                             }, l.a.createElement("img", {
                                 src: "images/icon_AGI.png",
                                 alt: "AGI Icon"
-                            }), l.a.createElement("div", null, "\ud589\ub3d9\ub825")), l.a.createElement("div", {
+                            }), l.a.createElement("div", null, "SPD")), l.a.createElement("div", {
                                 className: "spec-item",
                                 id: "AGI"
                             }, t.AGI), l.a.createElement("div", {
@@ -450,14 +450,14 @@
                             }, l.a.createElement("img", {
                                 src: "images/icon_DOD2.png",
                                 alt: "DOD Icon"
-                            }), l.a.createElement("div", null, "\ud68c\ud53c\uc728")), l.a.createElement("div", {
+                            }), l.a.createElement("div", null, "EVA")), l.a.createElement("div", {
                                 className: "spec-item",
                                 id: "DOD"
                             }, t.DOD, " %"), l.a.createElement("div", {
                                 className: "spec-item resist-wrap"
                             }, l.a.createElement("div", {
                                 className: "spec-item resist resist-header"
-                            }, "\uc18d\uc131 \uc800\ud56d"), l.a.createElement("div", {
+                            }, "Resist"), l.a.createElement("div", {
                                 className: "spec-item resist",
                                 id: "fire"
                             }, l.a.createElement("img", {
@@ -540,7 +540,7 @@
                                 className: "skill-container"
                             }, l.a.createElement("div", {
                                 className: "skill-header"
-                            }, l.a.createElement("h3", null, "\ubcf4\uc720 \uc2a4\ud0ac")), l.a.createElement("div", {
+                            }, l.a.createElement("h3", null, "Skills")), l.a.createElement("div", {
                                 className: r
                             }, l.a.createElement("nav", {
                                 className: "skill-nav"
@@ -613,13 +613,13 @@
                                 style: i[2]
                             }))))), l.a.createElement("div", {
                                 className: "skill-description"
-                            }, l.a.createElement("p", null, e.description.replace(/\$\((\d+\.*\d*)\)/g, n + " ($1\ubc30)").split("<br>").map((function(e, t) {
+                            }, l.a.createElement("p", null, e.description.replace(/\$\((\d+\.*\d*)\)/g, n + " ($1 times ATK)").split("<br>").map((function(e, t) {
                                 return l.a.createElement("span", {
                                     key: t
                                 }, e, l.a.createElement("br", null))
                             })))), l.a.createElement("div", {
                                 className: "skill-range"
-                            }, "\uc0ac\uc815\uac70\ub9ac ", e.range, l.a.createElement("br", null), "AP-", e.AP))
+                            }, "Range ", e.range, l.a.createElement("br", null), "AP-", e.AP))
                         }
                     }]), t
                 }(l.a.Component),
@@ -632,7 +632,7 @@
                         value: function() {
                             return l.a.createElement("div", {
                                 className: "skillview-container info-description"
-                            }, l.a.createElement("h3", null, "\ub300\uc0c1 \uc815\ubcf4"), l.a.createElement("p", null, this.props.enemyInfo.split("<br>").map((function(e, t) {
+                            }, l.a.createElement("h3", null, "Target Information"), l.a.createElement("p", null, this.props.enemyInfo.split("<br>").map((function(e, t) {
                                 return l.a.createElement("span", {
                                     key: t
                                 }, e, l.a.createElement("br", null))
@@ -788,7 +788,7 @@
                         className: "stage-inner" + (e.isStageExpanded ? "" : " stage-inner-hidden")
                     }, 0 === e.SpottedStage.size ? l.a.createElement("table", {
                         key: "stagetable"
-                    }, l.a.createElement("thead", null, l.a.createElement("tr", null, l.a.createElement("th", null, "\uc601\uc6d0\uc758 \uc804\uc7a5 (\uc5c5\ub370\uc774\ud2b8 \uc608\uc815)")))) : Array.from(e.SpottedStage, (function(e) {
+                    }, l.a.createElement("thead", null, l.a.createElement("tr", null, l.a.createElement("th", null, "Endless War (To be Updated)")))) : Array.from(e.SpottedStage, (function(e) {
                         var t = Object(m.a)(e, 2),
                             a = t[0],
                             n = t[1];
@@ -796,7 +796,7 @@
                             key: a
                         }, l.a.createElement("thead", null, a.includes("Daily") ? "" : l.a.createElement("tr", null, l.a.createElement("th", {
                             colSpan: n.length
-                        }, a + (isNaN(a) ? "" : "\uc9c0\uc5ed")))), l.a.createElement("tbody", null, l.a.createElement("tr", null, n.map((function(e) {
+                        }, a + (isNaN(a) ? "" : "Area")))), l.a.createElement("tbody", null, l.a.createElement("tr", null, n.map((function(e) {
                             return l.a.createElement("td", {
                                 key: e.title
                             }, l.a.createElement("a", {
