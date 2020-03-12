@@ -782,7 +782,7 @@
                     }, l.a.createElement("div", {
                         className: "stage-header",
                         onClick: e.toggleExpandStage
-                    }, "\ub4f1\uc7a5 \uc2a4\ud14c\uc774\uc9c0", l.a.createElement("i", {
+                    }, "Appearance", l.a.createElement("i", {
                         className: "material-icons"
                     }, e.isStageExpanded ? "expand_less" : "expand_more")), l.a.createElement("div", {
                         className: "stage-inner" + (e.isStageExpanded ? "" : " stage-inner-hidden")
