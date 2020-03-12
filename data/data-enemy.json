@@ -1,8 +1,8 @@
 ﻿{
   "NightChickM_N": {
-    "name": "나이트 칙 런처",
+    "name": "Night Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 50,
@@ -32,9 +32,9 @@
     ]
   },
   "NightChick_N": {
-    "name": "나이트 칙",
+    "name": "Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 50,
@@ -64,9 +64,9 @@
     ]
   },
   "NightChickS_N": {
-    "name": "나이트 칙 실더",
+    "name": "Night Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "이 자식들 짜증나 방패를 들고 앞을 자꾸 가로막거든? 다행히 머리가 나빠서 바로 뒤만 가로 막지만… 어쨌든 이 녀석들이 방어 자세를 취하기 전에 뒤를 정리해 두라고!<br><br><br>- 보고자 그리폰",
     "HP": {
       "base": 100,
@@ -96,9 +96,9 @@
     ]
   },
   "NightChick_TU": {
-    "name": "나이트 칙",
+    "name": "Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 68,
@@ -128,9 +128,9 @@
     ]
   },
   "NightChickM_TU": {
-    "name": "나이트 칙 런처",
+    "name": "Night Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 70,
@@ -160,9 +160,9 @@
     ]
   },
   "BigChick_N": {
-    "name": "빅 칙",
+    "name": "Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 290,
@@ -191,9 +191,9 @@
     ]
   },
   "Stalker_B0108": {
-    "name": "스토커",
+    "name": "Stalker",
     "img": "Stalker_B0108",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "철충 연결체입니다. 힘을 모아서 엄청난 한 방을 노리는 비열한 타입의 적입니다. 하지만 힘을 모으고 있는 시간은 짧으니 최대한 공격을 늦춰서 제 포를 이용해 처리하는 게 가장 좋아 보이는군요.<br><br><br>- 보고자 비스트 헌터",
     "HP": {
       "base": 100,
@@ -223,9 +223,9 @@
     ]
   },
   "NightChickS_TU2": {
-    "name": "나이트 칙 실더",
+    "name": "Night Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "이 자식들 짜증나 방패를 들고 앞을 자꾸 가로막거든? 다행히 머리가 나빠서 바로 뒤만 가로 막지만… 어쨌든 이 녀석들이 방어 자세를 취하기 전에 뒤를 정리해 두라고!<br><br><br>- 보고자 그리폰",
     "HP": {
       "base": 230,
@@ -255,9 +255,9 @@
     ]
   },
   "Scout_N": {
-    "name": "스카우트",
+    "name": "Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 100,
@@ -286,9 +286,9 @@
     ]
   },
   "Harvester_N": {
-    "name": "하베스터",
+    "name": "Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 200,
@@ -317,9 +317,9 @@
     ]
   },
   "NightChick_TU2": {
-    "name": "나이트 칙",
+    "name": "Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 130,
@@ -349,9 +349,9 @@
     ]
   },
   "NightChickM_TU2": {
-    "name": "나이트 칙 런처",
+    "name": "Night Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 150,
@@ -381,9 +381,9 @@
     ]
   },
   "NightChickC_N": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 120,
@@ -413,9 +413,9 @@
     ]
   },
   "FABigChick_N": {
-    "name": "풀아머 빅 칙",
+    "name": "Full-Armored Big Chick",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 1000,
@@ -445,9 +445,9 @@
     ]
   },
   "BigChick_TU2": {
-    "name": "빅 칙",
+    "name": "Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 500,
@@ -476,9 +476,9 @@
     ]
   },
   "Predator_B0208": {
-    "name": "프레데터",
+    "name": "Predator",
     "img": "Predator_B0208",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 40,
@@ -510,9 +510,9 @@
     ]
   },
   "NightChick_TU3": {
-    "name": "나이트 칙",
+    "name": "Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 225,
@@ -542,9 +542,9 @@
     ]
   },
   "NightChickSI_TU2": {
-    "name": "나이트 칙 실더 개",
+    "name": "Upgraded Night Chick Shielder",
     "img": "NightChickSI",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반 칙 실더보다 큰 방패 때문에 뒤의 대상들을 공격하기 위해서는 더 용맹한 정신이 필요하다. 나이트 칙 실더와 헷갈리지 않도록 지휘 콘솔을 반드시 확인해야 함.<br><br><br>- 마리 ",
     "HP": {
       "base": 250,
@@ -574,9 +574,9 @@
     ]
   },
   "NightChickC_TU3": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 180,
@@ -606,9 +606,9 @@
     ]
   },
   "Legion_N": {
-    "name": "레기온",
+    "name": "Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 180,
@@ -638,9 +638,9 @@
     ]
   },
   "NightChickM_TU3": {
-    "name": "나이트 칙 런처",
+    "name": "Night Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 250,
@@ -670,9 +670,9 @@
     ]
   },
   "Scout_TU3": {
-    "name": "스카우트",
+    "name": "Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 150,
@@ -701,9 +701,9 @@
     ]
   },
   "Zapper_N": {
-    "name": "재퍼",
+    "name": "Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?<br><br><br>- 보고자 블랙 리리스",
     "HP": {
       "base": 200,
@@ -733,9 +733,9 @@
     ]
   },
   "Phalangites_TU": {
-    "name": "팔랑스",
+    "name": "Phalanx",
     "img": "Phalangites",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.<br><br><br>- 블러디팬서",
     "HP": {
       "base": 400,
@@ -765,9 +765,9 @@
     ]
   },
   "Harvester_TU3": {
-    "name": "하베스터",
+    "name": "Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 275,
@@ -796,9 +796,9 @@
     ]
   },
   "Centurion_N": {
-    "name": "센츄리온",
+    "name": "Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 2500,
@@ -828,9 +828,9 @@
     ]
   },
   "NightChickSI_TU3": {
-    "name": "나이트 칙 실더 개",
+    "name": "Upgraded Night Chick Shielder",
     "img": "NightChickSI",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반 칙 실더보다 큰 방패 때문에 뒤의 대상들을 공격하기 위해서는 더 용맹한 정신이 필요하다. 나이트 칙 실더와 헷갈리지 않도록 지휘 콘솔을 반드시 확인해야 함.<br><br><br>- 마리 ",
     "HP": {
       "base": 350,
@@ -860,9 +860,9 @@
     ]
   },
   "HeavyScout_TU": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스카우트와 비슷해요. 탄종은 좀 다른 것 같지만. 뭘 쏘길래 모두 피해냈어요. 별로 정확하진 않은 것 같군요. 주변 철충들과 대열을 갖추려고 하면 주의해 주세요.<br><br><br>- 페로 드림",
     "HP": {
       "base": 250,
@@ -892,9 +892,9 @@
     ]
   },
   "Kidnapper_CH": {
-    "name": "트릭스터",
+    "name": "Trickster",
     "img": "Kidnapper_B0308",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "요원 암살용 철충 연결체. 빠르고 민첩하다. 나와 우리 부대처럼 기동전이 가능한 부대가 맡는 게 좋을 것 같군. 포획이든 파괴든 쉽지 않다.<br><br><br>- 칸",
     "HP": {
       "base": 100,
@@ -926,9 +926,9 @@
     ]
   },
   "Scout_TU4": {
-    "name": "스카우트",
+    "name": "Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 200,
@@ -957,9 +957,9 @@
     ]
   },
   "NightChickM_TU4": {
-    "name": "나이트 칙 런처",
+    "name": "Night Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 300,
@@ -989,9 +989,9 @@
     ]
   },
   "NightChickSP_N": {
-    "name": "칙 스나이퍼",
+    "name": "Chick Sniper",
     "img": "NightChickSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "엄폐와 위장 능력이 좋음. 빠르게 한 방으로 처치하는 게 좋을 것 같음.<br><br><br>- 발키리",
     "HP": {
       "base": 180,
@@ -1021,9 +1021,9 @@
     ]
   },
   "NightChickDE_TU2": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 160,
@@ -1054,9 +1054,9 @@
     ]
   },
   "Harvester_TU4": {
-    "name": "하베스터",
+    "name": "Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 380,
@@ -1085,9 +1085,9 @@
     ]
   },
   "NightChickC_TU4": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 247.5,
@@ -1117,9 +1117,9 @@
     ]
   },
   "FABigChick_TU4": {
-    "name": "풀아머 빅 칙",
+    "name": "Full-Armored Big Chick",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 1750,
@@ -1149,9 +1149,9 @@
     ]
   },
   "Wasp_N": {
-    "name": "와습",
+    "name": "Wasp",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 200,
@@ -1181,9 +1181,9 @@
     ]
   },
   "BigChick_TU3": {
-    "name": "빅 칙",
+    "name": "Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 1000,
@@ -1212,9 +1212,9 @@
     ]
   },
   "NightChick_TU4": {
-    "name": "나이트 칙",
+    "name": "Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 275,
@@ -1244,9 +1244,9 @@
     ]
   },
   "Legion_TU4": {
-    "name": "레기온",
+    "name": "Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 270,
@@ -1276,9 +1276,9 @@
     ]
   },
   "Centurion_TU4": {
-    "name": "센츄리온",
+    "name": "Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 3000,
@@ -1308,9 +1308,9 @@
     ]
   },
   "Scarab_N": {
-    "name": "스캐럽",
+    "name": "Scarab",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 315,
@@ -1340,9 +1340,9 @@
     ]
   },
   "NightChickCM_TU2": {
-    "name": "케미컬 칙",
+    "name": "Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 300,
@@ -1372,9 +1372,9 @@
     ]
   },
   "BigChick_TU4": {
-    "name": "빅 칙",
+    "name": "Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 1500,
@@ -1403,9 +1403,9 @@
     ]
   },
   "Raider_B04": {
-    "name": "레이더",
+    "name": "Raider",
     "img": "Raider_B04",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "고속 교란용 연결체. 지휘 능력이 제법 뛰어나 대량의 철충 부대와 함께 다니기 때문에 주의하는 게 좋아. 보기보다 겁쟁이라 위협을 느끼면 닥치는대로 전격탄을 난사하니 대비하는 작전을 세우면 그럭저럭 상대할 만 할 거야.<br><br><br>- 레오나",
     "HP": {
       "base": 13385,
@@ -1437,9 +1437,9 @@
     ]
   },
   "Scout_TU5": {
-    "name": "스카우트",
+    "name": "Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 250,
@@ -1468,9 +1468,9 @@
     ]
   },
   "Raider_CH": {
-    "name": "광폭화 레이더",
+    "name": "Berserk Raider",
     "img": "Raider_B04",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "고속 교란용 연결체. 지휘 능력이 제법 뛰어나 대량의 철충 부대와 함께 다니기 때문에 주의하는 게 좋아. 보기보다 겁쟁이라 위협을 느끼면 닥치는대로 전격탄을 난사하니 대비하는 작전을 세우면 그럭저럭 상대할 만 할 거야.<br><br><br>- 레오나",
     "HP": {
       "base": 8385,
@@ -1502,9 +1502,9 @@
     ]
   },
   "NightChickMEX_TU": {
-    "name": "강화형 칙 런쳐",
+    "name": "Enhanced Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 205,
@@ -1534,9 +1534,9 @@
     ]
   },
   "NightChickEX_TU": {
-    "name": "강화형 나이트 칙",
+    "name": "Enhanced Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 200,
@@ -1566,9 +1566,9 @@
     ]
   },
   "NightChickMEX_TU2": {
-    "name": "강화형 칙 런쳐",
+    "name": "Enhanced Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 260,
@@ -1598,9 +1598,9 @@
     ]
   },
   "NightChickEX_TU2": {
-    "name": "강화형 나이트 칙",
+    "name": "Enhanced Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 240,
@@ -1630,9 +1630,9 @@
     ]
   },
   "ScoutEX_TU": {
-    "name": "강습형 스카우트",
+    "name": "Enhanced Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 150,
@@ -1662,9 +1662,9 @@
     ]
   },
   "NightChickCM_TU": {
-    "name": "케미컬 칙",
+    "name": "Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 250,
@@ -1694,9 +1694,9 @@
     ]
   },
   "HarvesterEX_TU": {
-    "name": "아머드 하베스터",
+    "name": "Armored Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 500,
@@ -1726,9 +1726,9 @@
     ]
   },
   "NightChickCEX_TU": {
-    "name": "개량형 칙 캐논",
+    "name": "Enhanced Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 250,
@@ -1759,9 +1759,9 @@
     ]
   },
   "FABigChickEX_TU": {
-    "name": "FA 빅 칙 II",
+    "name": "FA Big Chick II",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 1500,
@@ -1792,9 +1792,9 @@
     ]
   },
   "BigChickM_TU": {
-    "name": "빅 칙 런쳐",
+    "name": "Big Chick Launcher",
     "img": "BigChickM",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청나게 피하기 힘든 미사일을 마구 쏴댐. 멀리서 처리하는 게 제일 좋을 것 같아.<br><br><br>- 핀토가 정찰 중 보고",
     "HP": {
       "base": 1250,
@@ -1824,9 +1824,9 @@
     ]
   },
   "BigChickEX_TU": {
-    "name": "시작형 빅 칙",
+    "name": "Prototype Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 1000,
@@ -1856,9 +1856,9 @@
     ]
   },
   "ScoutEX_TU2": {
-    "name": "강습형 스카우트",
+    "name": "Enhanced Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 200,
@@ -1888,9 +1888,9 @@
     ]
   },
   "Juggernaut_TU": {
-    "name": "저거너트",
+    "name": "Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 1750,
@@ -1921,9 +1921,9 @@
     ]
   },
   "NightChickMEX_TU3": {
-    "name": "강화형 칙 런쳐",
+    "name": "Enhanced Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 320,
@@ -1953,9 +1953,9 @@
     ]
   },
   "LegionEX_TU": {
-    "name": "정예 레기온",
+    "name": "Top Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 300,
@@ -1985,9 +1985,9 @@
     ]
   },
   "NightChickEX_TU3": {
-    "name": "강화형 나이트 칙",
+    "name": "Enhanced Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 300,
@@ -2017,9 +2017,9 @@
     ]
   },
   "NightChickDE_TU3": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 275,
@@ -2050,9 +2050,9 @@
     ]
   },
   "CenturionEX_TU": {
-    "name": "엘리트 센츄리온",
+    "name": "Elite Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 3000,
@@ -2083,9 +2083,9 @@
     ]
   },
   "Phalangites_TU2": {
-    "name": "팔랑스",
+    "name": "Phalanx",
     "img": "Phalangites",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.<br><br><br>- 블러디팬서",
     "HP": {
       "base": 600,
@@ -2115,9 +2115,9 @@
     ]
   },
   "LegionEX_TU2": {
-    "name": "정예 레기온",
+    "name": "Top Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 450,
@@ -2147,9 +2147,9 @@
     ]
   },
   "NightChickCEX_TU3": {
-    "name": "개량형 칙 캐논",
+    "name": "Enhanced Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 425,
@@ -2180,9 +2180,9 @@
     ]
   },
   "HeavyScout_TU2": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스카우트와 비슷해요. 탄종은 좀 다른 것 같지만. 뭘 쏘길래 모두 피해냈어요. 별로 정확하진 않은 것 같군요. 주변 철충들과 대열을 갖추려고 하면 주의해 주세요.<br><br><br>- 페로 드림",
     "HP": {
       "base": 375,
@@ -2212,9 +2212,9 @@
     ]
   },
   "ZapperEX_TU": {
-    "name": "강화형 재퍼",
+    "name": "Enhanced Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?<br><br><br>- 보고자 블랙 리리스",
     "HP": {
       "base": 350,
@@ -2244,9 +2244,9 @@
     ]
   },
   "BigChickM_TU2": {
-    "name": "빅 칙 런쳐",
+    "name": "Big Chick Launcher",
     "img": "BigChickM",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청나게 피하기 힘든 미사일을 마구 쏴댐. 멀리서 처리하는 게 제일 좋을 것 같아.<br><br><br>- 핀토가 정찰 중 보고",
     "HP": {
       "base": 1750,
@@ -2276,9 +2276,9 @@
     ]
   },
   "Mammoth_TU": {
-    "name": "매머드",
+    "name": "Mammoth",
     "img": "Mammoth",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "한 방이 엄청나게 무서운데다 장갑도 두꺼워서 장갑 사이에 치명타를 먹이거나 아니면 관통할 수 있는 무기가 좋아 보이네. 뭐, 못 피하면 죽으니까 조심하라고.<br><br><br>- 보고자 샌드걸",
     "HP": {
       "base": 1000,
@@ -2308,9 +2308,9 @@
     ]
   },
   "ScoutEX_TU3": {
-    "name": "강습형 스카우트",
+    "name": "Enhanced Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 250,
@@ -2340,9 +2340,9 @@
     ]
   },
   "ZapperEX_TU2": {
-    "name": "강화형 재퍼",
+    "name": "Enhanced Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?<br><br><br>- 보고자 블랙 리리스",
     "HP": {
       "base": 525,
@@ -2372,9 +2372,9 @@
     ]
   },
   "HarvesterEX_TU2": {
-    "name": "아머드 하베스터",
+    "name": "Armored Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 750,
@@ -2404,9 +2404,9 @@
     ]
   },
   "BigChickM_TU3": {
-    "name": "빅 칙 런쳐",
+    "name": "Big Chick Launcher",
     "img": "BigChickM",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청나게 피하기 힘든 미사일을 마구 쏴댐. 멀리서 처리하는 게 제일 좋을 것 같아.<br><br><br>- 핀토가 정찰 중 보고",
     "HP": {
       "base": 2750,
@@ -2436,9 +2436,9 @@
     ]
   },
   "NightChickDE_N": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 120,
@@ -2469,9 +2469,9 @@
     ]
   },
   "Zapper_TU4": {
-    "name": "재퍼",
+    "name": "Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?<br><br><br>- 보고자 블랙 리리스",
     "HP": {
       "base": 250,
@@ -2501,9 +2501,9 @@
     ]
   },
   "NightChickSI_TU4": {
-    "name": "나이트 칙 실더 개",
+    "name": "Upgraded Night Chick Shielder",
     "img": "NightChickSI",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반 칙 실더보다 큰 방패 때문에 뒤의 대상들을 공격하기 위해서는 더 용맹한 정신이 필요하다. 나이트 칙 실더와 헷갈리지 않도록 지휘 콘솔을 반드시 확인해야 함.<br><br><br>- 마리 ",
     "HP": {
       "base": 450,
@@ -2533,9 +2533,9 @@
     ]
   },
   "Mammoth_TU2": {
-    "name": "매머드",
+    "name": "Mammoth",
     "img": "Mammoth",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "한 방이 엄청나게 무서운데다 장갑도 두꺼워서 장갑 사이에 치명타를 먹이거나 아니면 관통할 수 있는 무기가 좋아 보이네. 뭐, 못 피하면 죽으니까 조심하라고.<br><br><br>- 보고자 샌드걸",
     "HP": {
       "base": 1500,
@@ -2565,9 +2565,9 @@
     ]
   },
   "Wasp_TU5": {
-    "name": "와습",
+    "name": "Wasp",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 275,
@@ -2597,9 +2597,9 @@
     ]
   },
   "Phalangites_TU3": {
-    "name": "팔랑스",
+    "name": "Phalanx",
     "img": "Phalangites",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.<br><br><br>- 블러디팬서",
     "HP": {
       "base": 800,
@@ -2629,9 +2629,9 @@
     ]
   },
   "NightChickSP_TU6": {
-    "name": "칙 스나이퍼",
+    "name": "Chick Sniper",
     "img": "NightChickSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "엄폐와 위장 능력이 좋음. 빠르게 한 방으로 처치하는 게 좋을 것 같음.<br><br><br>- 발키리",
     "HP": {
       "base": 275,
@@ -2661,9 +2661,9 @@
     ]
   },
   "NightChickCM_TU3": {
-    "name": "케미컬 칙",
+    "name": "Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 400,
@@ -2693,9 +2693,9 @@
     ]
   },
   "NightChickC_TU5": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 350,
@@ -2725,9 +2725,9 @@
     ]
   },
   "Harvester_TU5": {
-    "name": "하베스터",
+    "name": "Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 550,
@@ -2756,9 +2756,9 @@
     ]
   },
   "NightChickDE_TU4": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 350,
@@ -2789,9 +2789,9 @@
     ]
   },
   "HeavyScout_TU3": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스카우트와 비슷해요. 탄종은 좀 다른 것 같지만. 뭘 쏘길래 모두 피해냈어요. 별로 정확하진 않은 것 같군요. 주변 철충들과 대열을 갖추려고 하면 주의해 주세요.<br><br><br>- 페로 드림",
     "HP": {
       "base": 500,
@@ -2821,9 +2821,9 @@
     ]
   },
   "Legion_TU5": {
-    "name": "레기온",
+    "name": "Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 350,
@@ -2853,9 +2853,9 @@
     ]
   },
   "Kidnapper_B0308": {
-    "name": "트릭스터",
+    "name": "Trickster",
     "img": "Kidnapper_B0308",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "요원 암살용 철충 연결체. 빠르고 민첩하다. 나와 우리 부대처럼 기동전이 가능한 부대가 맡는 게 좋을 것 같군. 포획이든 파괴든 쉽지 않다.<br><br><br>- 칸",
     "HP": {
       "base": 2850,
@@ -2887,9 +2887,9 @@
     ]
   },
   "Stalker_TU2": {
-    "name": "스토커",
+    "name": "Stalker",
     "img": "Stalker_B0108",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "철충 연결체입니다. 힘을 모아서 엄청난 한 방을 노리는 비열한 타입의 적입니다. 하지만 힘을 모으고 있는 시간은 짧으니 최대한 공격을 늦춰서 제 포를 이용해 처리하는 게 가장 좋아 보이는군요.<br><br><br>- 보고자 비스트 헌터",
     "HP": {
       "base": 160,
@@ -2919,9 +2919,9 @@
     ]
   },
   "NightChickSP_TU5": {
-    "name": "칙 스나이퍼",
+    "name": "Chick Sniper",
     "img": "NightChickSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "엄폐와 위장 능력이 좋음. 빠르게 한 방으로 처치하는 게 좋을 것 같음.<br><br><br>- 발키리",
     "HP": {
       "base": 240,
@@ -2951,9 +2951,9 @@
     ]
   },
   "Mammoth_TU3": {
-    "name": "매머드",
+    "name": "Mammoth",
     "img": "Mammoth",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "한 방이 엄청나게 무서운데다 장갑도 두꺼워서 장갑 사이에 치명타를 먹이거나 아니면 관통할 수 있는 무기가 좋아 보이네. 뭐, 못 피하면 죽으니까 조심하라고.<br><br><br>- 보고자 샌드걸",
     "HP": {
       "base": 2000,
@@ -2983,9 +2983,9 @@
     ]
   },
   "Scarab_TU5": {
-    "name": "스캐럽",
+    "name": "Scarab",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 500,
@@ -3015,9 +3015,9 @@
     ]
   },
   "Juggernaut_TU2": {
-    "name": "저거너트",
+    "name": "Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 2750,
@@ -3048,9 +3048,9 @@
     ]
   },
   "NightChickSI_N": {
-    "name": "나이트 칙 실더 개",
+    "name": "Upgraded Night Chick Shielder",
     "img": "NightChickSI",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반 칙 실더보다 큰 방패 때문에 뒤의 대상들을 공격하기 위해서는 더 용맹한 정신이 필요하다. 나이트 칙 실더와 헷갈리지 않도록 지휘 콘솔을 반드시 확인해야 함.<br><br><br>- 마리 ",
     "HP": {
       "base": 150,
@@ -3080,9 +3080,9 @@
     ]
   },
   "WaspEX_TU": {
-    "name": "와습 HM",
+    "name": "Wasp HM",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 300,
@@ -3112,9 +3112,9 @@
     ]
   },
   "HarvesterEX_TU3": {
-    "name": "아머드 하베스터",
+    "name": "Armored Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 1000,
@@ -3144,9 +3144,9 @@
     ]
   },
   "NightChickEX_TU4": {
-    "name": "강화형 나이트 칙",
+    "name": "Enhanced Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 350,
@@ -3176,9 +3176,9 @@
     ]
   },
   "NightChickMEX_TU4": {
-    "name": "강화형 칙 런쳐",
+    "name": "Enhanced Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 400,
@@ -3208,9 +3208,9 @@
     ]
   },
   "LegionEX_TU3": {
-    "name": "정예 레기온",
+    "name": "Top Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 600,
@@ -3240,9 +3240,9 @@
     ]
   },
   "Juggernaut_TU3": {
-    "name": "저거너트",
+    "name": "Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 3750,
@@ -3273,9 +3273,9 @@
     ]
   },
   "FABigChickEX_TU3": {
-    "name": "FA 빅 칙 II",
+    "name": "FA Big Chick II",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 3250,
@@ -3306,9 +3306,9 @@
     ]
   },
   "ScarabEX_TU2": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 650,
@@ -3338,9 +3338,9 @@
     ]
   },
   "WaspEX_TU2": {
-    "name": "와습 HM",
+    "name": "Wasp HM",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 400,
@@ -3370,9 +3370,9 @@
     ]
   },
   "ScoutEX_TU4": {
-    "name": "강습형 스카우트",
+    "name": "Enhanced Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "저 망할 날파리들! 엄청 빨라서 잘 맞지도 않고 뭐만 하려하면 방해해서 진짜 짜증나는 녀석들이야. 백발백중인 미호가 필요해!<br><br><br>- 스틸 드라코",
     "HP": {
       "base": 300,
@@ -3402,9 +3402,9 @@
     ]
   },
   "Fallen_TU4": {
-    "name": "경비용 폴른",
+    "name": "Security Fallen",
     "img": "Fallen",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "폴른의 자율 경비용 기종이다.",
     "HP": {
       "base": 700,
@@ -3433,9 +3433,9 @@
     ]
   },
   "Rampart_TU4": {
-    "name": "경비용 램파트",
+    "name": "Security Rampart",
     "img": "Rampart",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "램파트의 자율 경비용 기종이다.",
     "HP": {
       "base": 1100,
@@ -3464,9 +3464,9 @@
     ]
   },
   "Drone_TU4": {
-    "name": "경비용 드론",
+    "name": "Security Drone",
     "img": "Drone",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "드론의 자율 경비용 기종이다.",
     "HP": {
       "base": 400,
@@ -3495,9 +3495,9 @@
     ]
   },
   "AMG11_TU4": {
-    "name": "경비용 AMG-11",
+    "name": "Security AMG-11",
     "img": "AMG11",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "AMG-11의 자율 경비용 기종이다.",
     "HP": {
       "base": 450,
@@ -3526,9 +3526,9 @@
     ]
   },
   "PuppHead_TU4": {
-    "name": "경비용 펍 헤드",
+    "name": "Security Pupp Head",
     "img": "PuppHead",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "펍 헤드의 자율 경비용 기종이다.",
     "HP": {
       "base": 450,
@@ -3557,9 +3557,9 @@
     ]
   },
   "Stinger_TU4": {
-    "name": "양산형 스팅어",
+    "name": "Mass Produced Stinger",
     "img": "Stinger",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스팅어의 양산형 기종이다.",
     "HP": {
       "base": 430,
@@ -3589,9 +3589,9 @@
     ]
   },
   "Gigantes_TU4": {
-    "name": "양산형 기간테스",
+    "name": "Mass Produced Gigantes",
     "img": "Gigantes",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "기간테스의 양산형 기종이다.",
     "HP": {
       "base": 2150,
@@ -3621,9 +3621,9 @@
     ]
   },
   "Seljuq_TU4": {
-    "name": "양산형 셀주크",
+    "name": "Mass Produced Seljuq",
     "img": "Seljuq",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "셀주크의 양산형 기종이다.",
     "HP": {
       "base": 1300,
@@ -3653,9 +3653,9 @@
     ]
   },
   "Scarab_TU6": {
-    "name": "스캐럽",
+    "name": "Scarab",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 650,
@@ -3685,9 +3685,9 @@
     ]
   },
   "Centurion_TU5": {
-    "name": "센츄리온",
+    "name": "Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 3750,
@@ -3717,9 +3717,9 @@
     ]
   },
   "UnderWatcherSensor_B05": {
-    "name": "언더왓쳐 센서",
+    "name": "Underwatcher Sensor",
     "img": "UnderWatcherSensor_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "조준용 센서가 달린 파츠네요. 피해를 주거나 파괴하면 공격을 피하기 쉬워질거에요.<br><br><br>- 스카디",
     "HP": {
       "base": 19030,
@@ -3750,9 +3750,9 @@
     ]
   },
   "UnderWatcher_B05": {
-    "name": "언더왓쳐",
+    "name": "Underwatcher",
     "img": "UnderWatcher_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "제 해킹으로 성능이 저하된 상태지만, 에너지 충전이 완료되면 여전히 무시무시한 공격을 할 거예요. 충전을 막기 위해 제네레이터를 공격하는 것도 좋겠네요. 본체는 공격 직후를 노리면 더 많은 타격을 줄 수 있을 것 같네요.<br><br><br>- 스카디",
     "HP": {
       "base": 46200,
@@ -3784,9 +3784,9 @@
     ]
   },
   "UnderWatcherGenerator_B05": {
-    "name": "언더왓쳐 제네레이터",
+    "name": "Underwatcher Generator",
     "img": "UnderWatcherGenerator_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "에너지 공급용 제네레이터네요. 계속 공격해보면 에너지 공급을 멈출 수 있을 것 같네요.<br><br><br>- 스카디",
     "HP": {
       "base": 39305,
@@ -3818,9 +3818,9 @@
     ]
   },
   "UnderWatcherArm_B05": {
-    "name": "언더왓쳐 암",
+    "name": "Underwatcher Arm",
     "img": "UnderWatcherArm_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "언더왓쳐의 공격용 암 파츠네요. 대공 기능이 있는 것 같으니 주의하세요.<br><br><br>- 스카디",
     "HP": {
       "base": 25650,
@@ -3851,9 +3851,9 @@
     ]
   },
   "Zapper_TU5": {
-    "name": "재퍼",
+    "name": "Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?<br><br><br>- 보고자 블랙 리리스",
     "HP": {
       "base": 300,
@@ -3883,9 +3883,9 @@
     ]
   },
   "NightChickCM_TU4": {
-    "name": "케미컬 칙",
+    "name": "Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 500,
@@ -3915,9 +3915,9 @@
     ]
   },
   "NightChickCEX_TU4": {
-    "name": "개량형 칙 캐논",
+    "name": "Enhanced Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 550,
@@ -3948,9 +3948,9 @@
     ]
   },
   "BigChickEX_TU4": {
-    "name": "시작형 빅 칙",
+    "name": "Prototype Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 4250,
@@ -3980,9 +3980,9 @@
     ]
   },
   "FABigChickEX_TU4": {
-    "name": "FA 빅 칙 II",
+    "name": "FA Big Chick II",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 4500,
@@ -4013,9 +4013,9 @@
     ]
   },
   "BigChickM_TU4": {
-    "name": "빅 칙 런쳐",
+    "name": "Big Chick Launcher",
     "img": "BigChickM",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청나게 피하기 힘든 미사일을 마구 쏴댐. 멀리서 처리하는 게 제일 좋을 것 같아.<br><br><br>- 핀토가 정찰 중 보고",
     "HP": {
       "base": 4000,
@@ -4045,9 +4045,9 @@
     ]
   },
   "LegionEX_TU4": {
-    "name": "정예 레기온",
+    "name": "Top Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 750,
@@ -4077,9 +4077,9 @@
     ]
   },
   "Phalangites_TU4": {
-    "name": "팔랑스",
+    "name": "Phalanx",
     "img": "Phalangites",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.<br><br><br>- 블러디팬서",
     "HP": {
       "base": 1000,
@@ -4109,9 +4109,9 @@
     ]
   },
   "HarvesterEX_TU4": {
-    "name": "아머드 하베스터",
+    "name": "Armored Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 1250,
@@ -4141,9 +4141,9 @@
     ]
   },
   "WaspEX_TU3": {
-    "name": "와습 HM",
+    "name": "Wasp HM",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 500,
@@ -4173,9 +4173,9 @@
     ]
   },
   "HeavyScout_TU4": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스카우트와 비슷해요. 탄종은 좀 다른 것 같지만. 뭘 쏘길래 모두 피해냈어요. 별로 정확하진 않은 것 같군요. 주변 철충들과 대열을 갖추려고 하면 주의해 주세요.<br><br><br>- 페로 드림",
     "HP": {
       "base": 625,
@@ -4205,9 +4205,9 @@
     ]
   },
   "CenturionEX_TU4": {
-    "name": "엘리트 센츄리온",
+    "name": "Elite Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 5000,
@@ -4238,9 +4238,9 @@
     ]
   },
   "NightChick_RV": {
-    "name": "나이트 칙 Type-S",
+    "name": "Night Chick Type-S",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 41835,
@@ -4272,9 +4272,9 @@
     ]
   },
   "NightChickSP_TU8": {
-    "name": "칙 스나이퍼",
+    "name": "Chick Sniper",
     "img": "NightChickSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "엄폐와 위장 능력이 좋음. 빠르게 한 방으로 처치하는 게 좋을 것 같음.<br><br><br>- 발키리",
     "HP": {
       "base": 325,
@@ -4304,9 +4304,9 @@
     ]
   },
   "Juggernaut_TU4": {
-    "name": "저거너트",
+    "name": "Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 5000,
@@ -4337,9 +4337,9 @@
     ]
   },
   "NightChickS_TU3": {
-    "name": "나이트 칙 실더",
+    "name": "Night Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "이 자식들 짜증나 방패를 들고 앞을 자꾸 가로막거든? 다행히 머리가 나빠서 바로 뒤만 가로 막지만… 어쨌든 이 녀석들이 방어 자세를 취하기 전에 뒤를 정리해 두라고!<br><br><br>- 보고자 그리폰",
     "HP": {
       "base": 350,
@@ -4369,9 +4369,9 @@
     ]
   },
   "UnderWatcherSensor_TU2": {
-    "name": "언더왓쳐 센서",
+    "name": "Underwatcher Sensor",
     "img": "UnderWatcherSensor_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "조준용 센서가 달린 파츠네요. 피해를 주거나 파괴하면 공격을 피하기 쉬워질거에요.<br><br><br>- 스카디",
     "HP": {
       "base": 24730,
@@ -4403,9 +4403,9 @@
     ]
   },
   "UnderWatcher_TU2": {
-    "name": "언더왓쳐",
+    "name": "Underwatcher",
     "img": "UnderWatcher_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "에너지 충전이 완료되면 무시무시한 공격을 할 거예요. 충전을 막기 위해 제네레이터를 공격하는 것도 좋겠네요. 본체는 공격 직후를 노리면 더 많은 타격을 줄 수 있을 것 같네요.<br><br><br>- 스카디",
     "HP": {
       "base": 49200,
@@ -4437,9 +4437,9 @@
     ]
   },
   "UnderWatcherGenerator_TU2": {
-    "name": "언더왓쳐 제네레이터",
+    "name": "Underwatcher Generator",
     "img": "UnderWatcherGenerator_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "에너지 공급용 제네레이터네요. 계속 공격해보면 에너지 공급을 멈출 수 있을 것 같네요.<br><br><br>- 스카디",
     "HP": {
       "base": 47755,
@@ -4471,9 +4471,9 @@
     ]
   },
   "UnderWatcherArm_TU2": {
-    "name": "언더왓쳐 암",
+    "name": "Underwatcher Arm",
     "img": "UnderWatcherArm_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "언더왓쳐의 공격용 암 파츠네요. 대공 기능이 있는 것 같으니 주의하세요.<br><br><br>- 스카디",
     "HP": {
       "base": 25650,
@@ -4505,9 +4505,9 @@
     ]
   },
   "Legion_TU6": {
-    "name": "레기온",
+    "name": "Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "공중의 적만 집요하게 노리니 공중 부대 운용 시 주의해! 구리게 보이는 점착제를 떼느라 이틀이나 고생했어. 그거 묻으면 진짜 아싸처럼 보이니 주의하라고!<br><br><br>- 실피드",
     "HP": {
       "base": 400,
@@ -4537,9 +4537,9 @@
     ]
   },
   "NightChickM_TU5": {
-    "name": "나이트 칙 런처",
+    "name": "Night Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
     "HP": {
       "base": 276,
@@ -4568,9 +4568,9 @@
     ]
   },
   "NightChickQM_N": {
-    "name": "칙 쿼터마스터",
+    "name": "Chick Quartermaster",
     "img": "NightChickQM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "철충의 보급 기체네요. 공격 저지 능력이 뛰어나니 주력 공격기를 잘 보호해야 장기전을 방지할 수 있어요.<br><br><br>- 실키",
     "HP": {
       "base": 288,
@@ -4602,9 +4602,9 @@
     ]
   },
   "NightChick_TU5": {
-    "name": "나이트 칙",
+    "name": "Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 255,
@@ -4633,9 +4633,9 @@
     ]
   },
   "LegionSP_N": {
-    "name": "레기온 스나이퍼",
+    "name": "Legion Sniper",
     "img": "LegionSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "적의 빈틈을 노리는 용의주도한 개체입니다. 대물 저격총을 가지고 있으니 중장갑 전투원을 운용할 때는 주의해주세요.<br><br><br>- 팬텀",
     "HP": {
       "base": 216,
@@ -4665,9 +4665,9 @@
     ]
   },
   "NightChickDE_TU5": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 305,
@@ -4697,9 +4697,9 @@
     ]
   },
   "NightChickSI_TU5": {
-    "name": "나이트 칙 실더 개",
+    "name": "Upgraded Night Chick Shielder",
     "img": "NightChickSI",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반 칙 실더보다 큰 방패 때문에 뒤의 대상들을 공격하기 위해서는 더 용맹한 정신이 필요하다. 나이트 칙 실더와 헷갈리지 않도록 지휘 콘솔을 반드시 확인해야 함.<br><br><br>- 마리 ",
     "HP": {
       "base": 396,
@@ -4729,9 +4729,9 @@
     ]
   },
   "ProgramMobTS_N": {
-    "name": "철충 사념체 (보병)",
+    "name": "Ironworm Thought Entity (Infantry)",
     "img": "ProgramMobTS",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 331,
@@ -4761,9 +4761,9 @@
     ]
   },
   "ProgramMobTN_N": {
-    "name": "철충 사념체 (저격병)",
+    "name": "Ironworm Thought Entity (Sniper)",
     "img": "ProgramMobTN",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 288,
@@ -4794,9 +4794,9 @@
     ]
   },
   "ProgramMobMT_N": {
-    "name": "철충 사념체 (호위기)",
+    "name": "Ironworm Thought Entity (Escort)",
     "img": "ProgramMobMT",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 684,
@@ -4826,9 +4826,9 @@
     ]
   },
   "ProgramMobTT_N": {
-    "name": "철충 사념체 (장갑병)",
+    "name": "Ironworm Thought Entity (Armored)",
     "img": "ProgramMobTT",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 540,
@@ -4858,9 +4858,9 @@
     ]
   },
   "ProgramMobMN_N": {
-    "name": "철충 사념체 (폭격기)",
+    "name": "Ironworm Thought Entity (Bomber)",
     "img": "ProgramMobMN",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 489,
@@ -4891,9 +4891,9 @@
     ]
   },
   "ProgramMobMS_N": {
-    "name": "철충 사념체 (정찰기)",
+    "name": "Ironworm Thought Entity (Recon)",
     "img": "ProgramMobMS",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 288,
@@ -4925,9 +4925,9 @@
     ]
   },
   "NightChick_TU6": {
-    "name": "나이트 칙",
+    "name": "Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "하아… 이 예쁜 애의 이름은 나이트 칙입니당. 예쁘지만 더 예쁜 폴른이를 잡아먹은 무서운 녀석들이에용. 쉬지않고 기관총을 난사하니 주의해 주세용~!<br><br><br>- 보고자 그렘린입니당! ",
     "HP": {
       "base": 307,
@@ -4956,9 +4956,9 @@
     ]
   },
   "NightChickDE_TU6": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 360,
@@ -4988,9 +4988,9 @@
     ]
   },
   "Tortoise_N": {
-    "name": "토터스",
+    "name": "Tortoise",
     "img": "Tortoise",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "장갑이 활성화 되었을 땐 유효 피해를 주기 힘들어요! 장갑을 비활성화 시킨 후에 한 번에 해치워야 해요!<br><br><br>- 켈베로스",
     "HP": {
       "base": 2880,
@@ -5021,9 +5021,9 @@
     ]
   },
   "NightChickSI_TU6": {
-    "name": "나이트 칙 실더 개",
+    "name": "Upgraded Night Chick Shielder",
     "img": "NightChickSI",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반 칙 실더보다 큰 방패 때문에 뒤의 대상들을 공격하기 위해서는 더 용맹한 정신이 필요하다. 나이트 칙 실더와 헷갈리지 않도록 지휘 콘솔을 반드시 확인해야 함.<br><br><br>- 마리 ",
     "HP": {
       "base": 468,
@@ -5053,9 +5053,9 @@
     ]
   },
   "ProgramMobAS_N": {
-    "name": "철충 사념체 (돌격병)",
+    "name": "Ironworm Thought Entity (Assault)",
     "img": "ProgramMobAS",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 612,
@@ -5086,9 +5086,9 @@
     ]
   },
   "ProgramMobTT_TU2": {
-    "name": "철충 사념체 (장갑병)",
+    "name": "Ironworm Thought Entity (Armored)",
     "img": "ProgramMobTT",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 593,
@@ -5118,9 +5118,9 @@
     ]
   },
   "ProgramMobMN_TU2": {
-    "name": "철충 사념체 (폭격기)",
+    "name": "Ironworm Thought Entity (Bomber)",
     "img": "ProgramMobMN",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 518,
@@ -5151,9 +5151,9 @@
     ]
   },
   "ProgramMobMS_TU2": {
-    "name": "철충 사념체 (정찰기)",
+    "name": "Ironworm Thought Entity (Recon)",
     "img": "ProgramMobMS",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 324,
@@ -5185,9 +5185,9 @@
     ]
   },
   "ProgramMobAN_TU2": {
-    "name": "철충 사념체 (포병)",
+    "name": "Ironworm Thought Entity (Artillery)",
     "img": "ProgramMobAN",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 619,
@@ -5219,9 +5219,9 @@
     ]
   },
   "ProgramMobMT_TU2": {
-    "name": "철충 사념체 (호위기)",
+    "name": "Ironworm Thought Entity (Escort)",
     "img": "ProgramMobMT",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 756,
@@ -5251,9 +5251,9 @@
     ]
   },
   "ProgramMobTS_TU2": {
-    "name": "철충 사념체 (보병)",
+    "name": "Ironworm Thought Entity (Infantry)",
     "img": "ProgramMobTS",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 345,
@@ -5283,9 +5283,9 @@
     ]
   },
   "ProgramMobAS_TU2": {
-    "name": "철충 사념체 (돌격병)",
+    "name": "Ironworm Thought Entity (Assault)",
     "img": "ProgramMobAS",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 648,
@@ -5316,9 +5316,9 @@
     ]
   },
   "ProgramMobTN_TU2": {
-    "name": "철충 사념체 (저격병)",
+    "name": "Ironworm Thought Entity (Sniper)",
     "img": "ProgramMobTN",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 324,
@@ -5349,9 +5349,9 @@
     ]
   },
   "ProgramMobAT_TU2": {
-    "name": "철충 사념체 (중장갑병)",
+    "name": "Ironworm Thought Entity (Heavy Armored)",
     "img": "ProgramMobAT",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 5400,
@@ -5383,9 +5383,9 @@
     ]
   },
   "ProgramMobAT_N": {
-    "name": "철충 사념체 (중장갑병)",
+    "name": "Ironworm Thought Entity (Heavy Armored)",
     "img": "ProgramMobAT",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 4680,
@@ -5417,9 +5417,9 @@
     ]
   },
   "ProgramMobAN_N": {
-    "name": "철충 사념체 (포병)",
+    "name": "Ironworm Thought Entity (Artillery)",
     "img": "ProgramMobAN",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 590,
@@ -5451,9 +5451,9 @@
     ]
   },
   "LegionSP_TU2": {
-    "name": "레기온 스나이퍼",
+    "name": "Legion Sniper",
     "img": "LegionSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "적의 빈틈을 노리는 용의주도한 개체입니다. 대물 저격총을 가지고 있으니 중장갑 전투원을 운용할 때는 주의해주세요.<br><br><br>- 팬텀",
     "HP": {
       "base": 288,
@@ -5483,9 +5483,9 @@
     ]
   },
   "NightChickQM_TU2": {
-    "name": "칙 쿼터마스터",
+    "name": "Chick Quartermaster",
     "img": "NightChickQM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "철충의 보급 기체네요. 공격 저지 능력이 뛰어나니 주력 공격기를 잘 보호해야 장기전을 방지할 수 있어요.<br><br><br>- 실키",
     "HP": {
       "base": 360,
@@ -5517,9 +5517,9 @@
     ]
   },
   "Tortoise_TU2": {
-    "name": "토터스",
+    "name": "Tortoise",
     "img": "Tortoise",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "장갑이 활성화 되었을 땐 유효 피해를 주기 힘들어요! 장갑을 비활성화 시킨 후에 한 번에 해치워야 해요!<br><br><br>- 켈베로스",
     "HP": {
       "base": 4320,
@@ -5550,9 +5550,9 @@
     ]
   },
   "CenturionCF_TU2": {
-    "name": "센츄리온 치프틴",
+    "name": "Centurion Chieftain",
     "img": "CenturionCF",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "센츄리온에서 지휘 능력이 더 강화된 기종입니다. 포착 당한 후에는 공격을 피하기 힘드니 주의하셔야 합니다. 본 기종에도 안테나 도입을 검토하면 감사하겠습니다.<br><br><br>- 램파트",
     "HP": {
       "base": 6720,
@@ -5583,9 +5583,9 @@
     ]
   },
   "ExpGoblinT_N": {
-    "name": "실험체 고블린",
+    "name": "Experimental Goblin",
     "img": "ExpGoblinT",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "고블린이었던 것으로 보인다. 더 이상 생물체라고 할 수 있을지는 모르겠다…",
     "HP": {
       "base": 360,
@@ -5616,9 +5616,9 @@
     ]
   },
   "ExpGoblinA_N": {
-    "name": "실험체 고블린 파쇄병",
+    "name": "Experimental Goblin Destroyer",
     "img": "ExpGoblinA",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "고블린이었던 것으로 보인다. 더 이상 생물체라고 할 수 있을지는 모르겠다…",
     "HP": {
       "base": 684,
@@ -5649,9 +5649,9 @@
     ]
   },
   "ExpGenerator2_N": {
-    "name": "수상한 실험체",
+    "name": "Suspicious Experiment",
     "img": "ExpGenerator2",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 10800,
@@ -5683,9 +5683,9 @@
     ]
   },
   "ExecutionerRB_B06": {
-    "name": "익스큐셔너 실드 블레이드",
+    "name": "Executioner Shield Blade",
     "img": "ExecutionerLB_B06",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 19000,
@@ -5717,9 +5717,9 @@
     ]
   },
   "Executioner_B06": {
-    "name": "익스큐셔너",
+    "name": "Executioner",
     "img": "Executioner_B06",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 9775,
@@ -5751,9 +5751,9 @@
     ]
   },
   "ExecutionerLB_B06": {
-    "name": "익스큐셔너 롱 블레이드",
+    "name": "Executioner Long Blade",
     "img": "ExecutionerRB_B06",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 19250,
@@ -5785,9 +5785,9 @@
     ]
   },
   "FABigChick_TU3": {
-    "name": "풀아머 빅 칙",
+    "name": "Full-Armored Big Chick",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 1250,
@@ -5817,9 +5817,9 @@
     ]
   },
   "ScarabEX_TU4": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 950,
@@ -5849,9 +5849,9 @@
     ]
   },
   "CenturionCF_N": {
-    "name": "센츄리온 치프틴",
+    "name": "Centurion Chieftain",
     "img": "CenturionCF",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "센츄리온에서 지휘 능력이 더 강화된 기종입니다. 포착 당한 후에는 공격을 피하기 힘드니 주의하셔야 합니다. 본 기종에도 안테나 도입을 검토하면 감사하겠습니다.<br><br><br>- 램파트",
     "HP": {
       "base": 6240,
@@ -5882,9 +5882,9 @@
     ]
   },
   "Scout_EV1": {
-    "name": "스카우트",
+    "name": "Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 250,
@@ -5913,9 +5913,9 @@
     ]
   },
   "NightChickS_TU4": {
-    "name": "나이트 칙 실더",
+    "name": "Night Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "이 자식들 짜증나 방패를 들고 앞을 자꾸 가로막거든? 다행히 머리가 나빠서 바로 뒤만 가로 막지만… 어쨌든 이 녀석들이 방어 자세를 취하기 전에 뒤를 정리해 두라고!<br><br><br>- 보고자 그리폰",
     "HP": {
       "base": 470,
@@ -5945,9 +5945,9 @@
     ]
   },
   "ScoutEX_EV1": {
-    "name": "강습형 스카우트",
+    "name": "Enhanced Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 300,
@@ -5977,9 +5977,9 @@
     ]
   },
   "BigChickM_EV1": {
-    "name": "빅 칙 런쳐",
+    "name": "Big Chick Launcher",
     "img": "BigChickM",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 2750,
@@ -6009,9 +6009,9 @@
     ]
   },
   "HeavyScout_EV1": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 375,
@@ -6041,9 +6041,9 @@
     ]
   },
   "Spector_N": {
-    "name": "스펙터",
+    "name": "Spectre",
     "img": "Spector",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "방어막을 걷어내지 않으면 격추하기 힘든 개체야. 유령같은 움직임 때문에 맞추기 힘들테니 주의해.<br><br><br>- 네오딤",
     "HP": {
       "base": 197,
@@ -6075,9 +6075,9 @@
     ]
   },
   "NightChickEX_EV1": {
-    "name": "강화형 나이트 칙",
+    "name": "Enhanced Night Chick",
     "img": "NightChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 350,
@@ -6107,9 +6107,9 @@
     ]
   },
   "LegionSP_EV1": {
-    "name": "레기온 스나이퍼",
+    "name": "Legion Sniper",
     "img": "LegionSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 435,
@@ -6139,9 +6139,9 @@
     ]
   },
   "HeavyScout_EV2": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 500,
@@ -6171,9 +6171,9 @@
     ]
   },
   "CenturionEX_TU3": {
-    "name": "엘리트 센츄리온",
+    "name": "Elite Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 4375,
@@ -6204,9 +6204,9 @@
     ]
   },
   "BigChickEX_TU3": {
-    "name": "시작형 빅 칙",
+    "name": "Prototype Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 3000,
@@ -6236,9 +6236,9 @@
     ]
   },
   "WaspEX_EV1": {
-    "name": "와습 HM",
+    "name": "Wasp HM",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 1050,
@@ -6268,9 +6268,9 @@
     ]
   },
   "ZapperEX_EV1": {
-    "name": "강화형 재퍼",
+    "name": "Enhanced Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 100,
@@ -6300,9 +6300,9 @@
     ]
   },
   "NightChickQM_EV1": {
-    "name": "칙 쿼터마스터",
+    "name": "Chick Quartermaster",
     "img": "NightChickQM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 18150,
@@ -6333,9 +6333,9 @@
     ]
   },
   "NightChickC_EV2": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -6365,9 +6365,9 @@
     ]
   },
   "ScarabEX_EV1": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 8100,
@@ -6397,9 +6397,9 @@
     ]
   },
   "NightChickC_EV1": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -6429,9 +6429,9 @@
     ]
   },
   "Predator_EV1": {
-    "name": "프레데터",
+    "name": "Predator",
     "img": "Predator_B0208",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 18150,
@@ -6463,9 +6463,9 @@
     ]
   },
   "NightChickC_EV3": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -6495,9 +6495,9 @@
     ]
   },
   "NightChickC_EV4": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -6527,9 +6527,9 @@
     ]
   },
   "NightChickSP_EV1": {
-    "name": "칙 스나이퍼",
+    "name": "Chick Sniper",
     "img": "NightChickSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 5600,
@@ -6559,9 +6559,9 @@
     ]
   },
   "Centurion_TU6": {
-    "name": "센츄리온",
+    "name": "Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 4500,
@@ -6591,9 +6591,9 @@
     ]
   },
   "HeavyScout_EV3": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 625,
@@ -6623,9 +6623,9 @@
     ]
   },
   "BigChickSP_EV1": {
-    "name": "강화형 빅 칙",
+    "name": "Enhanced Big Chick",
     "img": "BigChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 15100,
@@ -6655,9 +6655,9 @@
     ]
   },
   "Predator_EV2": {
-    "name": "프레데터",
+    "name": "Predator",
     "img": "Predator_B0208",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 16650,
@@ -6689,9 +6689,9 @@
     ]
   },
   "NightChickC_EV6": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -6721,9 +6721,9 @@
     ]
   },
   "NightChickDE_EV1": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 27980,
@@ -6754,9 +6754,9 @@
     ]
   },
   "NightChickC_EV5": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -6786,9 +6786,9 @@
     ]
   },
   "ScarabEX_EV2": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 8100,
@@ -6818,9 +6818,9 @@
     ]
   },
   "Stalker_EV1": {
-    "name": "스토커",
+    "name": "Stalker",
     "img": "Stalker_B0108",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 10320,
@@ -6850,9 +6850,9 @@
     ]
   },
   "NightChickQM_EV2": {
-    "name": "칙 쿼터마스터",
+    "name": "Chick Quartermaster",
     "img": "NightChickQM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 26650,
@@ -6883,9 +6883,9 @@
     ]
   },
   "NightChickC_EV8": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -6915,9 +6915,9 @@
     ]
   },
   "EmperorChick_EV1": {
-    "name": "칙 엠페러",
+    "name": "Chick Emperor",
     "img": "EmperorChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 17980,
@@ -6949,9 +6949,9 @@
     ]
   },
   "Spector_EV1": {
-    "name": "스펙터",
+    "name": "Spectre",
     "img": "Spector",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 17200,
@@ -6983,9 +6983,9 @@
     ]
   },
   "NightChickC_EV7": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 440,
@@ -7015,9 +7015,9 @@
     ]
   },
   "Kidnapper_EV1": {
-    "name": "트릭스터",
+    "name": "Trickster",
     "img": "Kidnapper_B0308",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 30150,
@@ -7049,9 +7049,9 @@
     ]
   },
   "EmperorChick_TU2": {
-    "name": "칙 엠페러",
+    "name": "Chick Emperor",
     "img": "EmperorChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 48200,
@@ -7083,9 +7083,9 @@
     ]
   },
   "NightChickCEX_EV1": {
-    "name": "개량형 칙 캐논",
+    "name": "Enhanced Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 550,
@@ -7115,9 +7115,9 @@
     ]
   },
   "HarvesterEX_TU5": {
-    "name": "아머드 하베스터",
+    "name": "Armored Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 1500,
@@ -7147,9 +7147,9 @@
     ]
   },
   "NightChickCEX_TU5": {
-    "name": "개량형 칙 캐논",
+    "name": "Enhanced Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 675,
@@ -7180,9 +7180,9 @@
     ]
   },
   "ZapperEX_TU5": {
-    "name": "강화형 재퍼",
+    "name": "Enhanced Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 105,
@@ -7212,9 +7212,9 @@
     ]
   },
   "NightChickSI_TU7": {
-    "name": "나이트 칙 실더 개",
+    "name": "Upgraded Night Chick Shielder",
     "img": "NightChickSI",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반 칙 실더보다 큰 방패 때문에 뒤의 대상들을 공격하기 위해서는 더 용맹한 정신이 필요하다. 나이트 칙 실더와 헷갈리지 않도록 지휘 콘솔을 반드시 확인해야 함.<br><br><br>- 마리 ",
     "HP": {
       "base": 540,
@@ -7244,9 +7244,9 @@
     ]
   },
   "BigChickSP_TU2": {
-    "name": "강화형 빅 칙",
+    "name": "Enhanced Big Chick",
     "img": "BigChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 5500,
@@ -7276,9 +7276,9 @@
     ]
   },
   "HeavyScout_TU5": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스카우트와 비슷해요. 탄종은 좀 다른 것 같지만. 뭘 쏘길래 모두 피해냈어요. 별로 정확하진 않은 것 같군요. 주변 철충들과 대열을 갖추려고 하면 주의해 주세요.<br><br><br>- 페로 드림",
     "HP": {
       "base": 750,
@@ -7308,9 +7308,9 @@
     ]
   },
   "WaspEX_TU5": {
-    "name": "와습 HM",
+    "name": "Wasp HM",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 700,
@@ -7340,9 +7340,9 @@
     ]
   },
   "Mammoth_TU5": {
-    "name": "매머드",
+    "name": "Mammoth",
     "img": "Mammoth",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "한 방이 엄청나게 무서운데다 장갑도 두꺼워서 장갑 사이에 치명타를 먹이거나 아니면 관통할 수 있는 무기가 좋아 보이네. 뭐, 못 피하면 죽으니까 조심하라고.<br><br><br>- 보고자 샌드걸",
     "HP": {
       "base": 2750,
@@ -7372,9 +7372,9 @@
     ]
   },
   "Juggernaut_TU5": {
-    "name": "저거너트",
+    "name": "Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 6250,
@@ -7405,9 +7405,9 @@
     ]
   },
   "BigChickM_TU5": {
-    "name": "빅 칙 런쳐",
+    "name": "Big Chick Launcher",
     "img": "BigChickM",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청나게 피하기 힘든 미사일을 마구 쏴댐. 멀리서 처리하는 게 제일 좋을 것 같아.<br><br><br>- 핀토가 정찰 중 보고",
     "HP": {
       "base": 4500,
@@ -7437,9 +7437,9 @@
     ]
   },
   "ScoutEX_TU5": {
-    "name": "강습형 스카우트",
+    "name": "Enhanced Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 5000,
@@ -7469,9 +7469,9 @@
     ]
   },
   "NightChickCM_TU5": {
-    "name": "케미컬 칙",
+    "name": "Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 600,
@@ -7501,9 +7501,9 @@
     ]
   },
   "CenturionEX_TU5": {
-    "name": "엘리트 센츄리온",
+    "name": "Elite Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 5500,
@@ -7534,9 +7534,9 @@
     ]
   },
   "Centurion_TU7": {
-    "name": "센츄리온",
+    "name": "Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 5250,
@@ -7566,9 +7566,9 @@
     ]
   },
   "NightChickQMEX_N": {
-    "name": "개량형 칙 쿼터마스터",
+    "name": "Enhanced Chick Quartermaster",
     "img": "NightChickQM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 10000,
@@ -7600,9 +7600,9 @@
     ]
   },
   "SpectorBS_N": {
-    "name": "스펙터 BS",
+    "name": "Spectre BS",
     "img": "Spector",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 200,
@@ -7634,9 +7634,9 @@
     ]
   },
   "ScarabEX_TU5": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 1100,
@@ -7666,9 +7666,9 @@
     ]
   },
   "Tortoise_TU3": {
-    "name": "토터스",
+    "name": "Tortoise",
     "img": "Tortoise",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "장갑이 활성화 되었을 땐 유효 피해를 주기 힘들어요! 장갑을 비활성화 시킨 후에 한 번에 해치워야 해요!<br><br><br>- 켈베로스",
     "HP": {
       "base": 4000,
@@ -7699,9 +7699,9 @@
     ]
   },
   "BigChickSP_TU3": {
-    "name": "강화형 빅 칙",
+    "name": "Enhanced Big Chick",
     "img": "BigChick",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 25000,
@@ -7731,9 +7731,9 @@
     ]
   },
   "Mammoth_TU6": {
-    "name": "매머드",
+    "name": "Mammoth",
     "img": "Mammoth",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "한 방이 엄청나게 무서운데다 장갑도 두꺼워서 장갑 사이에 치명타를 먹이거나 아니면 관통할 수 있는 무기가 좋아 보이네. 뭐, 못 피하면 죽으니까 조심하라고.<br><br><br>- 보고자 샌드걸",
     "HP": {
       "base": 25000,
@@ -7763,9 +7763,9 @@
     ]
   },
   "Phalangites_TU6": {
-    "name": "팔랑스",
+    "name": "Phalanx",
     "img": "Phalangites",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.<br><br><br>- 블러디팬서",
     "HP": {
       "base": 20000,
@@ -7795,9 +7795,9 @@
     ]
   },
   "NightChickQM_TU3": {
-    "name": "칙 쿼터마스터",
+    "name": "Chick Quartermaster",
     "img": "NightChickQM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "철충의 보급 기체네요. 공격 저지 능력이 뛰어나니 주력 공격기를 잘 보호해야 장기전을 방지할 수 있어요.<br><br><br>- 실키",
     "HP": {
       "base": 432,
@@ -7828,9 +7828,9 @@
     ]
   },
   "BigChickEX_TU5": {
-    "name": "시작형 빅 칙",
+    "name": "Prototype Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 7500,
@@ -7860,9 +7860,9 @@
     ]
   },
   "NightChickDE_TU7": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 1000,
@@ -7893,9 +7893,9 @@
     ]
   },
   "LegionSPEX_N": {
-    "name": "개량형 레기온 스나이퍼",
+    "name": "Improved Legion Sniper",
     "img": "LegionSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 10000,
@@ -7926,9 +7926,9 @@
     ]
   },
   "NightChickMEX_TU5": {
-    "name": "강화형 칙 런쳐",
+    "name": "Enhanced Chick Launcher",
     "img": "NightChickM",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 457.5,
@@ -7958,9 +7958,9 @@
     ]
   },
   "Phalangites_TU5": {
-    "name": "팔랑스",
+    "name": "Phalanx",
     "img": "Phalangites",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.<br><br><br>- 블러디팬서",
     "HP": {
       "base": 1200,
@@ -7990,9 +7990,9 @@
     ]
   },
   "FABigChick_TU5": {
-    "name": "풀아머 빅 칙",
+    "name": "Full-Armored Big Chick",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 20000,
@@ -8022,9 +8022,9 @@
     ]
   },
   "CenturionCF_TU3": {
-    "name": "센츄리온 치프틴",
+    "name": "Centurion Chieftain",
     "img": "CenturionCF",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "센츄리온에서 지휘 능력이 더 강화된 기종입니다. 포착 당한 후에는 공격을 피하기 힘드니 주의하셔야 합니다. 본 기종에도 안테나 도입을 검토하면 감사하겠습니다.<br><br><br>- 램파트",
     "HP": {
       "base": 7200,
@@ -8055,9 +8055,9 @@
     ]
   },
   "BigChickEX_TU6": {
-    "name": "시작형 빅 칙",
+    "name": "Prototype Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 25000,
@@ -8087,9 +8087,9 @@
     ]
   },
   "FABigChick_TU6": {
-    "name": "풀아머 빅 칙",
+    "name": "Full-Armored Big Chick",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 40000,
@@ -8119,9 +8119,9 @@
     ]
   },
   "ScarabEX_TU6": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 11250,
@@ -8151,9 +8151,9 @@
     ]
   },
   "ZapperEX_TU6": {
-    "name": "강화형 재퍼",
+    "name": "Enhanced Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 10000,
@@ -8183,9 +8183,9 @@
     ]
   },
   "NightChickSP_TU9": {
-    "name": "칙 스나이퍼",
+    "name": "Chick Sniper",
     "img": "NightChickSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "엄폐와 위장 능력이 좋음. 빠르게 한 방으로 처치하는 게 좋을 것 같음.<br><br><br>- 발키리",
     "HP": {
       "base": 350,
@@ -8215,9 +8215,9 @@
     ]
   },
   "NightChickDE_TU8": {
-    "name": "나이트 칙 디텍터",
+    "name": "Night Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "그 아이는 별로 위험한 아인 아니거든? 근데 자꾸 우리를 방해하는 공격을 하니까 다른 애들이랑 있으면 주의해야 하거든? 맞으면 다른 철충한테 지원 요청하는 못된 아이니까 혼내줘야행! 누나 보고 있을께~!<br><br><br>- 예쁜 누나 포츈이 보고해용~!",
     "HP": {
       "base": 1500,
@@ -8248,9 +8248,9 @@
     ]
   },
   "FABigChickEX_TU5": {
-    "name": "FA 빅 칙 II",
+    "name": "FA Big Chick II",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 10000,
@@ -8281,9 +8281,9 @@
     ]
   },
   "EmperorChick_TU3": {
-    "name": "칙 엠페러",
+    "name": "Chick Emperor",
     "img": "EmperorChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 17500,
@@ -8315,9 +8315,9 @@
     ]
   },
   "CenturionCF_TU4": {
-    "name": "센츄리온 치프틴",
+    "name": "Centurion Chieftain",
     "img": "CenturionCF",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "센츄리온에서 지휘 능력이 더 강화된 기종입니다. 포착 당한 후에는 공격을 피하기 힘드니 주의하셔야 합니다. 본 기종에도 안테나 도입을 검토하면 감사하겠습니다.<br><br><br>- 램파트",
     "HP": {
       "base": 10680,
@@ -8348,9 +8348,9 @@
     ]
   },
   "Tortoise_TU4": {
-    "name": "토터스",
+    "name": "Tortoise",
     "img": "Tortoise",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "장갑이 활성화 되었을 땐 유효 피해를 주기 힘들어요! 장갑을 비활성화 시킨 후에 한 번에 해치워야 해요!<br><br><br>- 켈베로스",
     "HP": {
       "base": 15000,
@@ -8381,9 +8381,9 @@
     ]
   },
   "LegionSPEX_TU2": {
-    "name": "개량형 레기온 스나이퍼",
+    "name": "Improved Legion Sniper",
     "img": "LegionSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 20000,
@@ -8414,9 +8414,9 @@
     ]
   },
   "NightChickQMEX_TU2": {
-    "name": "개량형 칙 쿼터마스터",
+    "name": "Enhanced Chick Quartermaster",
     "img": "NightChickQM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 19500,
@@ -8448,9 +8448,9 @@
     ]
   },
   "ScoutSP_TU2": {
-    "name": "지원형 스카우트",
+    "name": "Support Scout",
     "img": "Scout",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 25000,
@@ -8481,9 +8481,9 @@
     ]
   },
   "CenturionCF_TU5": {
-    "name": "센츄리온 치프틴",
+    "name": "Centurion Chieftain",
     "img": "CenturionCF",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "센츄리온에서 지휘 능력이 더 강화된 기종입니다. 포착 당한 후에는 공격을 피하기 힘드니 주의하셔야 합니다. 본 기종에도 안테나 도입을 검토하면 감사하겠습니다.<br><br><br>- 램파트",
     "HP": {
       "base": 20000,
@@ -8514,9 +8514,9 @@
     ]
   },
   "SpectorMS_N": {
-    "name": "스펙터 MS",
+    "name": "Spectre MS",
     "img": "Spector",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 18000,
@@ -8548,9 +8548,9 @@
     ]
   },
   "EmperorChick_TU4": {
-    "name": "칙 엠페러",
+    "name": "Chick Emperor",
     "img": "EmperorChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 62500,
@@ -8582,9 +8582,9 @@
     ]
   },
   "NightChickAQ_TU": {
-    "name": "아쿠아 칙",
+    "name": "Aqua Chick",
     "img": "NightChickAQ",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "물을 운반하는 철충인가봐. 철충들은 주변에 물이 새면 안절부절못하니 이걸 이용하면 좋을 것 같아!<br><br><br> - 아쿠아 보고함",
     "HP": {
       "base": 250,
@@ -8615,9 +8615,9 @@
     ]
   },
   "NightChickTD_TU": {
-    "name": "썬더 칙",
+    "name": "Thunder Chick",
     "img": "NightChickTD",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "으아~ 촙 메이커로 때리니 갑자기 날뛰어서 큰일 날 뻔 했어요! 전기에 반응하는 것 같던데...아 참! 서펀트씨가 물을 뿌린 녀석은 갑자기 자폭해버리더라구요.<br><br><br> - 켈베로스 보고함",
     "HP": {
       "base": 200,
@@ -8648,9 +8648,9 @@
     ]
   },
   "NightChickDEG_TU": {
-    "name": "나이트 칙 디텍터 G",
+    "name": "Night Chick Detector G",
     "img": "NightChickDEG",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "지상전용 레이더 철충이네요. 공중 공격엔 취약하니 기동 부대를 동원해 처리하는 것을 추천드려요.<br><br><br> - 다이카 보고함",
     "HP": {
       "base": 250,
@@ -8681,9 +8681,9 @@
     ]
   },
   "BigChickS_TU": {
-    "name": "빅 칙 실더",
+    "name": "Big Chick Shielder",
     "img": "BigChickS",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "제법 근성이 있는 녀석이야! 아무리 때려도 잘 쓰러지지 않던데 미호는 잘 처리하더라구. 쓸데 없이 계속 치치말라나 뭐라나…하지만 한 번 붙으면 물러날 내가 아니지~!<br><br><br> - 스틸 드라코 보고함",
     "HP": {
       "base": 1000,
@@ -8714,9 +8714,9 @@
     ]
   },
   "Drone_TU2": {
-    "name": "경비용 드론",
+    "name": "Security Drone",
     "img": "Drone",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "드론의 자율 경비용 기종이다.",
     "HP": {
       "base": 150,
@@ -8745,9 +8745,9 @@
     ]
   },
   "Fallen_TU2": {
-    "name": "경비용 폴른",
+    "name": "Security Fallen",
     "img": "Fallen",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "폴른의 자율 경비용 기종이다.",
     "HP": {
       "base": 200,
@@ -8776,9 +8776,9 @@
     ]
   },
   "Rampart_TU2": {
-    "name": "경비용 램파트",
+    "name": "Security Rampart",
     "img": "Rampart",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "램파트의 자율 경비용 기종이다.",
     "HP": {
       "base": 250,
@@ -8807,9 +8807,9 @@
     ]
   },
   "PuppHead_TU2": {
-    "name": "경비용 펍 헤드",
+    "name": "Security Pupp Head",
     "img": "PuppHead",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "펍 헤드의 자율 경비용 기종이다.",
     "HP": {
       "base": 200,
@@ -8838,9 +8838,9 @@
     ]
   },
   "AMG11_TU2": {
-    "name": "경비용 AMG-11",
+    "name": "Security AMG-11",
     "img": "AMG11",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "AMG-11의 자율 경비용 기종이다.",
     "HP": {
       "base": 175,
@@ -8869,9 +8869,9 @@
     ]
   },
   "FallenC_EV1": {
-    "name": "폴른 커스텀",
+    "name": "Fallen Custom",
     "img": "FallenC",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "조준은 엉망이지만 화력은 강력하니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 240,
@@ -8902,9 +8902,9 @@
     ]
   },
   "PuppHeadC_EV1": {
-    "name": "펍 헤드 커스텀",
+    "name": "Pupp Head Custom",
     "img": "PuppHeadC",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석과 같이 다니는 적들은 신속하게 움직이는 것 같군. 신속히 처리하는 것이 좋겠어.<br><br><br> - 칸 보고함",
     "HP": {
       "base": 210,
@@ -8935,9 +8935,9 @@
     ]
   },
   "RampartC_EV1": {
-    "name": "램파트 커스텀",
+    "name": "Rampart Custom",
     "img": "RampartC",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 400,
@@ -8968,9 +8968,9 @@
     ]
   },
   "Stinger_TU2": {
-    "name": "양산형 스팅어",
+    "name": "Mass Produced Stinger",
     "img": "Stinger",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스팅어의 양산형 기종이다.",
     "HP": {
       "base": 150,
@@ -9000,9 +9000,9 @@
     ]
   },
   "Rampart_TU3": {
-    "name": "경비용 램파트",
+    "name": "Security Rampart",
     "img": "Rampart",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "램파트의 자율 경비용 기종이다.",
     "HP": {
       "base": 500,
@@ -9031,9 +9031,9 @@
     ]
   },
   "AMG11_TU3": {
-    "name": "경비용 AMG-11",
+    "name": "Security AMG-11",
     "img": "AMG11",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "AMG-11의 자율 경비용 기종이다.",
     "HP": {
       "base": 300,
@@ -9062,9 +9062,9 @@
     ]
   },
   "DroneM_EV1": {
-    "name": "드론 커스텀",
+    "name": "Drone Custom",
     "img": "DroneM",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…<br><br><br> - 익스프레스 76 보고함",
     "HP": {
       "base": 240,
@@ -9095,9 +9095,9 @@
     ]
   },
   "PuppHead_TU3": {
-    "name": "경비용 펍 헤드",
+    "name": "Security Pupp Head",
     "img": "PuppHead",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "펍 헤드의 자율 경비용 기종이다.",
     "HP": {
       "base": 375,
@@ -9126,9 +9126,9 @@
     ]
   },
   "Seljuq_TU2": {
-    "name": "양산형 셀주크",
+    "name": "Mass Produced Seljuq",
     "img": "Seljuq",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "셀주크의 양산형 기종이다.",
     "HP": {
       "base": 300,
@@ -9158,9 +9158,9 @@
     ]
   },
   "AMG11AA_EV1": {
-    "name": "대공용 AMG-11",
+    "name": "Anti-Aircraft AMG-11",
     "img": "AMG11AA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "오~ 이 녀석들 왠지 마음에 드는데? 몇 대 가져가서 네리의 부하로 쓰면 되겠어! 네리 대신 일하게 해야지!<br><br><br> - 네레이드 보고함",
     "HP": {
       "base": 300,
@@ -9191,9 +9191,9 @@
     ]
   },
   "Fallen_TU3": {
-    "name": "경비용 폴른",
+    "name": "Security Fallen",
     "img": "Fallen",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "폴른의 자율 경비용 기종이다.",
     "HP": {
       "base": 400,
@@ -9222,9 +9222,9 @@
     ]
   },
   "Drone_TU3": {
-    "name": "경비용 드론",
+    "name": "Security Drone",
     "img": "Drone",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "드론의 자율 경비용 기종이다.",
     "HP": {
       "base": 275,
@@ -9253,9 +9253,9 @@
     ]
   },
   "DroneM_EV2": {
-    "name": "드론 커스텀",
+    "name": "Drone Custom",
     "img": "DroneM",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…<br><br><br> - 익스프레스 76 보고함",
     "HP": {
       "base": 560,
@@ -9286,9 +9286,9 @@
     ]
   },
   "RampartC_EV2": {
-    "name": "램파트 커스텀",
+    "name": "Rampart Custom",
     "img": "RampartC",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 800,
@@ -9319,9 +9319,9 @@
     ]
   },
   "FallenC_EV2": {
-    "name": "폴른 커스텀",
+    "name": "Fallen Custom",
     "img": "FallenC",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "조준은 엉망이지만 화력은 강력하니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 540,
@@ -9352,9 +9352,9 @@
     ]
   },
   "Gigantes_TU3": {
-    "name": "양산형 기간테스",
+    "name": "Mass Produced Gigantes",
     "img": "Gigantes",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "기간테스의 양산형 기종이다.",
     "HP": {
       "base": 1500,
@@ -9384,9 +9384,9 @@
     ]
   },
   "StingerC_EV2": {
-    "name": "스팅어 커스텀",
+    "name": "Stinger Custom",
     "img": "StingerC",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.<br><br><br> - 님프 보고함",
     "HP": {
       "base": 475,
@@ -9417,9 +9417,9 @@
     ]
   },
   "Seljuq_TU3": {
-    "name": "양산형 셀주크",
+    "name": "Mass Produced Seljuq",
     "img": "Seljuq",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "셀주크의 양산형 기종이다.",
     "HP": {
       "base": 800,
@@ -9449,9 +9449,9 @@
     ]
   },
   "AMG11_TU5": {
-    "name": "경비용 AMG-11",
+    "name": "Security AMG-11",
     "img": "AMG11",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "AMG-11의 자율 경비용 기종이다.",
     "HP": {
       "base": 575,
@@ -9480,9 +9480,9 @@
     ]
   },
   "PuppHead_TU5": {
-    "name": "경비용 펍 헤드",
+    "name": "Security Pupp Head",
     "img": "PuppHead",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "펍 헤드의 자율 경비용 기종이다.",
     "HP": {
       "base": 625,
@@ -9511,9 +9511,9 @@
     ]
   },
   "RampartC_EV3": {
-    "name": "램파트 커스텀",
+    "name": "Rampart Custom",
     "img": "RampartC",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 2400,
@@ -9544,9 +9544,9 @@
     ]
   },
   "AMG11AA_EV3": {
-    "name": "대공용 AMG-11",
+    "name": "Anti-Aircraft AMG-11",
     "img": "AMG11AA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "오~ 이 녀석들 왠지 마음에 드는데? 몇 대 가져가서 네리의 부하로 쓰면 되겠어! 네리 대신 일하게 해야지!<br><br><br> - 네레이드 보고함",
     "HP": {
       "base": 1500,
@@ -9577,9 +9577,9 @@
     ]
   },
   "Rampart_TU5": {
-    "name": "경비용 램파트",
+    "name": "Security Rampart",
     "img": "Rampart",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "램파트의 자율 경비용 기종이다.",
     "HP": {
       "base": 1530,
@@ -9608,9 +9608,9 @@
     ]
   },
   "PuppHeadC_EV3": {
-    "name": "펍 헤드 커스텀",
+    "name": "Pupp Head Custom",
     "img": "PuppHeadC",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석과 같이 다니는 적들은 신속하게 움직이는 것 같군. 신속히 처리하는 것이 좋겠어.<br><br><br> - 칸 보고함",
     "HP": {
       "base": 975,
@@ -9641,9 +9641,9 @@
     ]
   },
   "Chiller_TU": {
-    "name": "칠러",
+    "name": "Chiller",
     "img": "Chiller",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "물… 절대 뿌리지 말것…<br><br><br> - 서펀트 보고함",
     "HP": {
       "base": 325,
@@ -9674,9 +9674,9 @@
     ]
   },
   "NightChickAQ_TU2": {
-    "name": "아쿠아 칙",
+    "name": "Aqua Chick",
     "img": "NightChickAQ",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "물을 운반하는 철충인가봐. 철충들은 주변에 물이 새면 안절부절못하니 이걸 이용하면 좋을 것 같아!<br><br><br> - 아쿠아 보고함",
     "HP": {
       "base": 500,
@@ -9707,9 +9707,9 @@
     ]
   },
   "LegionElite_TU2": {
-    "name": "엘리트 레기온",
+    "name": "Elite Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "화력이 좀 더 강한 레기온이야. 난 전혀 구분이 안 가는데 에밀리는 잘 구분하더라구. 이상한 데서 재주가 좋다니까...아! 지휘관 철충과의 연계 공격은 특히 주의해야 해!<br><br><br>- 파니 보고함",
     "HP": {
       "base": 3000,
@@ -9740,9 +9740,9 @@
     ]
   },
   "Chiller_TU3": {
-    "name": "칠러",
+    "name": "Chiller",
     "img": "Chiller",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "물… 절대 뿌리지 말것…<br><br><br> - 서펀트 보고함",
     "HP": {
       "base": 675,
@@ -9773,9 +9773,9 @@
     ]
   },
   "NightChickDEG_TU3": {
-    "name": "나이트 칙 디텍터 G",
+    "name": "Night Chick Detector G",
     "img": "NightChickDEG",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "지상전용 레이더 철충이네요. 공중 공격엔 취약하니 기동 부대를 동원해 처리하는 것을 추천드려요.<br><br><br> - 다이카 보고함",
     "HP": {
       "base": 1800,
@@ -9806,9 +9806,9 @@
     ]
   },
   "BigChickS_TU3": {
-    "name": "빅 칙 실더",
+    "name": "Big Chick Shielder",
     "img": "BigChickS",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "제법 근성이 있는 녀석이야! 아무리 때려도 잘 쓰러지지 않던데 미호는 잘 처리하더라구. 쓸데 없이 계속 치치말라나 뭐라나…하지만 한 번 붙으면 물러날 내가 아니지~!<br><br><br> - 스틸 드라코 보고함",
     "HP": {
       "base": 12000,
@@ -9839,9 +9839,9 @@
     ]
   },
   "NightChickAQ_TU3": {
-    "name": "아쿠아 칙",
+    "name": "Aqua Chick",
     "img": "NightChickAQ",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "물을 운반하는 철충인가봐. 철충들은 주변에 물이 새면 안절부절못하니 이걸 이용하면 좋을 것 같아!<br><br><br> - 아쿠아 보고함",
     "HP": {
       "base": 2000,
@@ -9872,9 +9872,9 @@
     ]
   },
   "NightChickTD_TU3": {
-    "name": "썬더 칙",
+    "name": "Thunder Chick",
     "img": "NightChickTD",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "으아~ 촙 메이커로 때리니 갑자기 날뛰어서 큰일 날 뻔 했어요! 전기에 반응하는 것 같던데...아 참! 서펀트씨가 물을 뿌린 녀석은 갑자기 자폭해버리더라구요.<br><br><br> - 켈베로스 보고함",
     "HP": {
       "base": 1200,
@@ -9905,9 +9905,9 @@
     ]
   },
   "Juggernaut_TU6": {
-    "name": "저거너트",
+    "name": "Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 7500,
@@ -9938,9 +9938,9 @@
     ]
   },
   "BigChickS_TU4": {
-    "name": "빅 칙 실더",
+    "name": "Big Chick Shielder",
     "img": "BigChickS",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "제법 근성이 있는 녀석이야! 아무리 때려도 잘 쓰러지지 않던데 미호는 잘 처리하더라구. 쓸데 없이 계속 치치말라나 뭐라나…하지만 한 번 붙으면 물러날 내가 아니지~!<br><br><br> - 스틸 드라코 보고함",
     "HP": {
       "base": 25000,
@@ -9971,9 +9971,9 @@
     ]
   },
   "FallenC_EV3": {
-    "name": "폴른 커스텀",
+    "name": "Fallen Custom",
     "img": "FallenC",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "조준은 엉망이지만 화력은 강력하니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 1080,
@@ -10004,9 +10004,9 @@
     ]
   },
   "DroneM_EV3": {
-    "name": "드론 커스텀",
+    "name": "Drone Custom",
     "img": "DroneM",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…<br><br><br> - 익스프레스 76 보고함",
     "HP": {
       "base": 900,
@@ -10037,9 +10037,9 @@
     ]
   },
   "AMG11AA_EV4": {
-    "name": "대공용 AMG-11",
+    "name": "Anti-Aircraft AMG-11",
     "img": "AMG11AA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "오~ 이 녀석들 왠지 마음에 드는데? 몇 대 가져가서 네리의 부하로 쓰면 되겠어! 네리 대신 일하게 해야지!<br><br><br> - 네레이드 보고함",
     "HP": {
       "base": 7500,
@@ -10070,9 +10070,9 @@
     ]
   },
   "RampartC_EV4": {
-    "name": "램파트 커스텀",
+    "name": "Rampart Custom",
     "img": "RampartC",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 12000,
@@ -10103,9 +10103,9 @@
     ]
   },
   "FallenC_EV4": {
-    "name": "폴른 커스텀",
+    "name": "Fallen Custom",
     "img": "FallenC",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "조준은 엉망이지만 화력은 강력하니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 3240,
@@ -10136,9 +10136,9 @@
     ]
   },
   "LegionElite_TU3": {
-    "name": "엘리트 레기온",
+    "name": "Elite Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "화력이 좀 더 강한 레기온이야. 난 전혀 구분이 안 가는데 에밀리는 잘 구분하더라구. 이상한 데서 재주가 좋다니까...아! 지휘관 철충과의 연계 공격은 특히 주의해야 해!<br><br><br>- 파니 보고함",
     "HP": {
       "base": 6500,
@@ -10169,9 +10169,9 @@
     ]
   },
   "Testudo_TU3": {
-    "name": "테스투도",
+    "name": "Testudo",
     "img": "Testudo",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "트레비앙~한 방어 능력을 가진 적이에요. 보통은 중화기로 제압해야 하지만 제 정교한 검술로도 해결할 수 있으니 맡겨주세요!<br><br><br>- 샬럿 보고함",
     "HP": {
       "base": 10000,
@@ -10202,9 +10202,9 @@
     ]
   },
   "Centurion_EV1": {
-    "name": "센츄리온",
+    "name": "Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 17560,
@@ -10234,9 +10234,9 @@
     ]
   },
   "CenturionG_TU3": {
-    "name": "센츄리온 제네럴",
+    "name": "Centurion General",
     "img": "CenturionG",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "지휘관 역할을 하는 철충인가 보네… 저렇게 무리하게 부하들을 다루면 안 좋을 것 같은데… 역시 적당히 하는 게 최고야...<br><br><br>- 이프리트 보고함",
     "HP": {
       "base": 26500,
@@ -10268,9 +10268,9 @@
     ]
   },
   "StingerC_EV4": {
-    "name": "스팅어 커스텀",
+    "name": "Stinger Custom",
     "img": "StingerC",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.<br><br><br> - 님프 보고함",
     "HP": {
       "base": 2400,
@@ -10301,9 +10301,9 @@
     ]
   },
   "SeljuqA_EV3": {
-    "name": "셀주크 커스텀",
+    "name": "Seljuq Custom",
     "img": "SeljuqA",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력은 일반형 셀주크보다 떨어지지만 장갑은 더 향상된 것 같아요. 공격을 계속 허용하면 이쪽 움직임에 적응하니 방어 능력이 좋은 소대로 제압하는게 좋을 것 같네요.<br><br><br> - 세이렌 보고함",
     "HP": {
       "base": 10000,
@@ -10334,9 +10334,9 @@
     ]
   },
   "GigantesC_EV3": {
-    "name": "기간테스 커스텀",
+    "name": "Gigantes Custom",
     "img": "GigantesC",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "거점 방어에 특화된 모델인건가? 행동은 굼떠보이지만 좀처럼 빈틈이 안보여. 하지만 내 소우 피쉬라면 해결할 수 있을걸?<br><br><br> - 트리아이나 보고함",
     "HP": {
       "base": 20000,
@@ -10367,9 +10367,9 @@
     ]
   },
   "DroneM_EV4": {
-    "name": "드론 커스텀",
+    "name": "Drone Custom",
     "img": "DroneM",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…<br><br><br> - 익스프레스 76 보고함",
     "HP": {
       "base": 1750,
@@ -10400,9 +10400,9 @@
     ]
   },
   "StingerC_EV1": {
-    "name": "스팅어 커스텀",
+    "name": "Stinger Custom",
     "img": "StingerC",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.<br><br><br> - 님프 보고함",
     "HP": {
       "base": 220,
@@ -10433,9 +10433,9 @@
     ]
   },
   "Stinger_TU3": {
-    "name": "양산형 스팅어",
+    "name": "Mass Produced Stinger",
     "img": "Stinger",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스팅어의 양산형 기종이다.",
     "HP": {
       "base": 300,
@@ -10465,9 +10465,9 @@
     ]
   },
   "PuppHeadC_EV2": {
-    "name": "펍 헤드 커스텀",
+    "name": "Pupp Head Custom",
     "img": "PuppHeadC",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석과 같이 다니는 적들은 신속하게 움직이는 것 같군. 신속히 처리하는 것이 좋겠어.<br><br><br> - 칸 보고함",
     "HP": {
       "base": 500,
@@ -10498,9 +10498,9 @@
     ]
   },
   "SeljuqA_EV2": {
-    "name": "셀주크 커스텀",
+    "name": "Seljuq Custom",
     "img": "SeljuqA",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력은 일반형 셀주크보다 떨어지지만 장갑은 더 향상된 것 같아요. 공격을 계속 허용하면 이쪽 움직임에 적응하니 방어 능력이 좋은 소대로 제압하는게 좋을 것 같네요.<br><br><br> - 세이렌 보고함",
     "HP": {
       "base": 1500,
@@ -10531,9 +10531,9 @@
     ]
   },
   "RocCGenerator_EV1": {
-    "name": "에너지 컨덴서",
+    "name": "Energy Consender",
     "img": "RocCGenerator",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "전력을 공급하기 위한 장치네요. 웬만한 충격으론 금방 복원되니 무력화되었을 때 본체를 노리는게 좋을 것 같아요.<br><br><br>- 세이렌 보고함",
     "HP": {
       "base": 200,
@@ -10564,9 +10564,9 @@
     ]
   },
   "RocCGenerator_EV2": {
-    "name": "에너지 컨덴서",
+    "name": "Energy Consender",
     "img": "RocCGenerator",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "전력을 공급하기 위한 장치네요. 웬만한 충격으론 금방 복원되니 무력화되었을 때 본체를 노리는게 좋을 것 같아요.<br><br><br>- 세이렌 보고함",
     "HP": {
       "base": 200,
@@ -10597,9 +10597,9 @@
     ]
   },
   "RocC_EV1": {
-    "name": "로크 (최대 충전)",
+    "name": "Roc (Fully-Charged)",
     "img": "RocC",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "큿… 제 레이더로도 포착하기 어려운 상대네요. 최대 충전 상태가 되면 강력한 공격을 하니 주의하시길. 상태를 보니 큰 피해를 입으면 어떤 꼬맹이처럼 성대하게 폭발할 것 같군요.<br><br><br>- 나이트 앤젤 보고함",
     "HP": {
       "base": 3300,
@@ -10631,9 +10631,9 @@
     ]
   },
   "Chiller_TU2": {
-    "name": "칠러",
+    "name": "Chiller",
     "img": "Chiller",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "물… 절대 뿌리지 말것…<br><br><br> - 서펀트 보고함",
     "HP": {
       "base": 500,
@@ -10664,9 +10664,9 @@
     ]
   },
   "NightChickC_EV9": {
-    "name": "나이트 칙 캐논",
+    "name": "Night Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 247.5,
@@ -10696,9 +10696,9 @@
     ]
   },
   "BigChickS_TU2": {
-    "name": "빅 칙 실더",
+    "name": "Big Chick Shielder",
     "img": "BigChickS",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "제법 근성이 있는 녀석이야! 아무리 때려도 잘 쓰러지지 않던데 미호는 잘 처리하더라구. 쓸데 없이 계속 치치말라나 뭐라나…하지만 한 번 붙으면 물러날 내가 아니지~!<br><br><br> - 스틸 드라코 보고함",
     "HP": {
       "base": 4000,
@@ -10729,9 +10729,9 @@
     ]
   },
   "GigantesC_EV2": {
-    "name": "기간테스 커스텀",
+    "name": "Gigantes Custom",
     "img": "GigantesC",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "거점 방어에 특화된 모델인건가? 행동은 굼떠보이지만 좀처럼 빈틈이 안보여. 하지만 내 소우 피쉬라면 해결할 수 있을걸?<br><br><br> - 트리아이나 보고함",
     "HP": {
       "base": 3000,
@@ -10762,9 +10762,9 @@
     ]
   },
   "RocCGeneratorA_EV1": {
-    "name": "강화 에너지 컨덴서",
+    "name": "Enhanced Energy Consender",
     "img": "RocCGenerator",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "전력을 공급하기 위한 장치네요. 웬만한 충격으론 금방 복원되니 무력화되었을 때 본체를 노리는게 좋을 것 같아요.<br><br><br>- 세이렌 보고함",
     "HP": {
       "base": 21600,
@@ -10795,9 +10795,9 @@
     ]
   },
   "RocCGeneratorA_EV2": {
-    "name": "강화 에너지 컨덴서",
+    "name": "Enhanced Energy Consender",
     "img": "RocCGenerator",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "전력을 공급하기 위한 장치네요. 웬만한 충격으론 금방 복원되니 무력화되었을 때 본체를 노리는게 좋을 것 같아요.<br><br><br>- 세이렌 보고함",
     "HP": {
       "base": 21600,
@@ -10828,9 +10828,9 @@
     ]
   },
   "RocC_EV2": {
-    "name": "로크 (최대 충전)",
+    "name": "Roc (Fully-Charged)",
     "img": "RocC",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "큿… 제 레이더로도 포착하기 어려운 상대네요. 최대 충전 상태가 되면 강력한 공격을 하니 주의하시길. 상태를 보니 큰 피해를 입으면 어떤 꼬맹이처럼 성대하게 폭발할 것 같군요.<br><br><br>- 나이트 앤젤 보고함",
     "HP": {
       "base": 174350,
@@ -10862,9 +10862,9 @@
     ]
   },
   "Undine_EV1": {
-    "name": "까망베르",
+    "name": "Camembert",
     "img": "Undine",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "치즈는 역시 프랑스 산이 최고에요!<br><br><br>- 운디네",
     "HP": {
       "base": 30500,
@@ -10895,9 +10895,9 @@
     ]
   },
   "Undine_EV2": {
-    "name": "퐁 레베크",
+    "name": "Pont-L'evêque",
     "img": "Undine",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "치즈는 역시 프랑스 산이 최고에요!<br><br><br>- 운디네",
     "HP": {
       "base": 30500,
@@ -10928,9 +10928,9 @@
     ]
   },
   "Undine_EV3": {
-    "name": "브리 드 모",
+    "name": "Brie de Meaux",
     "img": "Undine",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "치즈는 역시 프랑스 산이 최고에요!<br><br><br>- 운디네",
     "HP": {
       "base": 30500,
@@ -10961,9 +10961,9 @@
     ]
   },
   "AMG11AA_EV5": {
-    "name": "네리의 부하",
+    "name": "Neri's Servant",
     "img": "AMG11AA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "결국 부하가 되어버린 불쌍한 기계들이다.",
     "HP": {
       "base": 6200,
@@ -10994,9 +10994,9 @@
     ]
   },
   "Nereid_EV1": {
-    "name": "슈퍼 네리다!",
+    "name": "Super Nerida!",
     "img": "Nereid",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "슈~퍼한 네리네리를 이길 수 있을까!?<br><br><br>- 네레이드",
     "HP": {
       "base": 17600,
@@ -11028,9 +11028,9 @@
     ]
   },
   "Undine_EV4": {
-    "name": "그럼…요?",
+    "name": "Of...Course?",
     "img": "Undine",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "그럼요…? 오늘의 암구호인 건가요?<br><br><br>- 운디네",
     "HP": {
       "base": 30500,
@@ -11061,9 +11061,9 @@
     ]
   },
   "Nereid_EV2": {
-    "name": "그럼~요!",
+    "name": "Of~Course!",
     "img": "Nereid",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "얼른 처리하고 놀러 가야지!<br><br><br>- 네레이드",
     "HP": {
       "base": 8800,
@@ -11094,9 +11094,9 @@
     ]
   },
   "GigantesDagon_N": {
-    "name": "다곤씨 (대여 중)",
+    "name": "Mr.Dagon (Rental)",
     "img": "GigantesDagon",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "아르바이트 중인 기간테스인 듯하다...",
     "HP": {
       "base": 16500,
@@ -11127,9 +11127,9 @@
     ]
   },
   "Sirene_EV1": {
-    "name": "문제아반 반장",
+    "name": "Troublemaker Class Monitor",
     "img": "Sirene",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "속이 아파오기 시작했어요… 제가 안 보면 대체 무슨 일을 할지...<br><br><br>- 세이렌",
     "HP": {
       "base": 36000,
@@ -11161,9 +11161,9 @@
     ]
   },
   "Sirene_EV2": {
-    "name": "그럼요~",
+    "name": "Of course~",
     "img": "SireneC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "사실 세이렌도 놀고 싶어 하는 걸지도.",
     "HP": {
       "base": 11000,
@@ -11195,9 +11195,9 @@
     ]
   },
   "NightChickCMP_EV1": {
-    "name": "케미컬 칙 Type-X",
+    "name": "Chemical Chick Type-X",
     "img": "NightChickCMP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "히익… 다신 보기 싫을 정도로 징그러웠어요…... 불에는 약한지 불을 붙이니 폭발해서 깜짝 놀랐네요.<br><br><br> - 뽀끄루 보고함",
     "HP": {
       "base": 1,
@@ -11229,9 +11229,9 @@
     ]
   },
   "ZapperEX_TU3": {
-    "name": "강화형 재퍼",
+    "name": "Enhanced Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?<br><br><br>- 보고자 블랙 리리스",
     "HP": {
       "base": 700,
@@ -11261,9 +11261,9 @@
     ]
   },
   "BigChickMG_EV1": {
-    "name": "빅 칙 런쳐 G",
+    "name": "Big Chick Launcher G",
     "img": "BigChickMG",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력이 뛰어나지만 전기로 센서를 일시적으로 고장낼 수 있는거 같아요. 보조 무장은 약하지만 정밀하니 주의하세요.<br><br><br>- 레아 보고함",
     "HP": {
       "base": 10750,
@@ -11295,9 +11295,9 @@
     ]
   },
   "Testudo_TU2": {
-    "name": "테스투도",
+    "name": "Testudo",
     "img": "Testudo",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "트레비앙~한 방어 능력을 가진 적이에요. 보통은 중화기로 제압해야 하지만 제 정교한 검술로도 해결할 수 있으니 맡겨주세요!<br><br><br>- 샬럿 보고함",
     "HP": {
       "base": 4000,
@@ -11328,9 +11328,9 @@
     ]
   },
   "NightChickTD_TU2": {
-    "name": "썬더 칙",
+    "name": "Thunder Chick",
     "img": "NightChickTD",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "으아~ 촙 메이커로 때리니 갑자기 날뛰어서 큰일 날 뻔 했어요! 전기에 반응하는 것 같던데...아 참! 서펀트씨가 물을 뿌린 녀석은 갑자기 자폭해버리더라구요.<br><br><br> - 켈베로스 보고함",
     "HP": {
       "base": 400,
@@ -11361,9 +11361,9 @@
     ]
   },
   "LegionElite_TU": {
-    "name": "엘리트 레기온",
+    "name": "Elite Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "화력이 좀 더 강한 레기온이야. 난 전혀 구분이 안 가는데 에밀리는 잘 구분하더라구. 이상한 데서 재주가 좋다니까...아! 지휘관 철충과의 연계 공격은 특히 주의해야 해!<br><br><br>- 파니 보고함",
     "HP": {
       "base": 600,
@@ -11394,9 +11394,9 @@
     ]
   },
   "BigChickMG_N": {
-    "name": "빅 칙 런쳐 G",
+    "name": "Big Chick Launcher G",
     "img": "BigChickMG",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력이 뛰어나지만 전기로 센서를 일시적으로 고장낼 수 있는거 같아요. 보조 무장은 약하지만 정밀하니 주의하세요.<br><br><br>- 레아 보고함",
     "HP": {
       "base": 1750,
@@ -11428,9 +11428,9 @@
     ]
   },
   "NightChickCMS_EV1": {
-    "name": "강화형 케미컬 칙",
+    "name": "Enhanced Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 1425,
@@ -11460,9 +11460,9 @@
     ]
   },
   "Stalker_EV2": {
-    "name": "스토커",
+    "name": "Stalker",
     "img": "Stalker_B0108",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "철충 연결체입니다. 힘을 모아서 엄청난 한 방을 노리는 비열한 타입의 적입니다. 하지만 힘을 모으고 있는 시간은 짧으니 최대한 공격을 늦춰서 제 포를 이용해 처리하는 게 가장 좋아 보이는군요.<br><br><br>- 보고자 비스트 헌터",
     "HP": {
       "base": 12200,
@@ -11494,9 +11494,9 @@
     ]
   },
   "NightChickDEG_TU4": {
-    "name": "나이트 칙 디텍터 G",
+    "name": "Night Chick Detector G",
     "img": "NightChickDEG",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "지상전용 레이더 철충이네요. 공중 공격엔 취약하니 기동 부대를 동원해 처리하는 것을 추천드려요.<br><br><br> - 다이카 보고함",
     "HP": {
       "base": 5400,
@@ -11527,9 +11527,9 @@
     ]
   },
   "JuggernautP_N": {
-    "name": "강화형 저거너트",
+    "name": "Enhanced Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 9000,
@@ -11560,9 +11560,9 @@
     ]
   },
   "Mammoth_TU4": {
-    "name": "매머드",
+    "name": "Mammoth",
     "img": "Mammoth",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "한 방이 엄청나게 무서운데다 장갑도 두꺼워서 장갑 사이에 치명타를 먹이거나 아니면 관통할 수 있는 무기가 좋아 보이네. 뭐, 못 피하면 죽으니까 조심하라고.<br><br><br>- 보고자 샌드걸",
     "HP": {
       "base": 2500,
@@ -11592,9 +11592,9 @@
     ]
   },
   "NightChickCMP_EV2": {
-    "name": "케미컬 칙 Type-X",
+    "name": "Chemical Chick Type-X",
     "img": "NightChickCMP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "히익… 다신 보기 싫을 정도로 징그러웠어요…... 불에는 약한지 불을 붙이니 폭발해서 깜짝 놀랐네요.<br><br><br> - 뽀끄루 보고함",
     "HP": {
       "base": 1,
@@ -11626,9 +11626,9 @@
     ]
   },
   "JuggernautP_EV1": {
-    "name": "강화형 저거너트",
+    "name": "Enhanced Juggernaut",
     "img": "Juggernaut",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "성격이 나빠 보이는 철충인 거예요. 공격을 시작하면 끝까지 공격하거든요. 그래서 공중 부대로 유인을 하는 게 좋을 것 같아요. 그 덩치로 다른 철충들을 보호하지 못하게요.<br><br><br>- 블랙 하운드",
     "HP": {
       "base": 15000,
@@ -11659,9 +11659,9 @@
     ]
   },
   "BigChickMG_EV2": {
-    "name": "빅 칙 런쳐 G",
+    "name": "Big Chick Launcher G",
     "img": "BigChickMG",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력이 뛰어나지만 전기로 센서를 일시적으로 고장낼 수 있는거 같아요. 보조 무장은 약하지만 정밀하니 주의하세요.<br><br><br>- 레아 보고함",
     "HP": {
       "base": 29150,
@@ -11693,9 +11693,9 @@
     ]
   },
   "NightChickShEx_N": {
-    "name": "강화형 칙 실더",
+    "name": "Enhanced Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반적인 칙 실더랑 다르게 어디에서나 방어하네? 대열을 짜기 시작하면 귀찮아질 거 같으니 빨리 처리하는 게 좋을 것 같아.<br><br><br>- 피닉스 보고함",
     "HP": {
       "base": 400,
@@ -11725,9 +11725,9 @@
     ]
   },
   "NightChickShEx_TU2": {
-    "name": "강화형 칙 실더",
+    "name": "Enhanced Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반적인 칙 실더랑 다르게 어디에서나 방어하네? 대열을 짜기 시작하면 귀찮아질 거 같으니 빨리 처리하는 게 좋을 것 같아.<br><br><br>- 피닉스 보고함",
     "HP": {
       "base": 550,
@@ -11757,9 +11757,9 @@
     ]
   },
   "NightChickCEX_TU2": {
-    "name": "개량형 칙 캐논",
+    "name": "Enhanced Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 345,
@@ -11790,9 +11790,9 @@
     ]
   },
   "NightChickShEx_TU3": {
-    "name": "강화형 칙 실더",
+    "name": "Enhanced Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반적인 칙 실더랑 다르게 어디에서나 방어하네? 대열을 짜기 시작하면 귀찮아질 거 같으니 빨리 처리하는 게 좋을 것 같아.<br><br><br>- 피닉스 보고함",
     "HP": {
       "base": 1500,
@@ -11822,9 +11822,9 @@
     ]
   },
   "WaspEX_TU4": {
-    "name": "와습 HM",
+    "name": "Wasp HM",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 600,
@@ -11854,9 +11854,9 @@
     ]
   },
   "NightChickDEX_TU2": {
-    "name": "강화형 칙 디텍터",
+    "name": "Enhanced Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "강한 방패 전파를 쏴서 귀찮긴 한데, 냉기에 약한지 기온이 내려가면 이상을 일으켜 오히려 도움이 되는 것 같아.<br><br><br>- 엠프리스 보고함",
     "HP": {
       "base": 1000,
@@ -11887,9 +11887,9 @@
     ]
   },
   "Tarantula_N": {
-    "name": "타란튤라",
+    "name": "Tarantula",
     "img": "Tarantula",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "가까이 오면 자폭해서 접근하기 전에 처리해야 하는데... 엄청나게 잽싸서 조준 보조 없이는 맞추기 힘들어요. 과열 상태가 되면 큰 폭발을 일으키니 이걸 노려보는 게 어떨까요?<br><br><br> - 베라 보고함",
     "HP": {
       "base": 800,
@@ -11920,9 +11920,9 @@
     ]
   },
   "NightChickShEx_TU4": {
-    "name": "강화형 칙 실더",
+    "name": "Enhanced Chick Shielder",
     "img": "NightChickS",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "일반적인 칙 실더랑 다르게 어디에서나 방어하네? 대열을 짜기 시작하면 귀찮아질 거 같으니 빨리 처리하는 게 좋을 것 같아.<br><br><br>- 피닉스 보고함",
     "HP": {
       "base": 2500,
@@ -11952,9 +11952,9 @@
     ]
   },
   "Tarantula_TU2": {
-    "name": "타란튤라",
+    "name": "Tarantula",
     "img": "Tarantula",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "가까이 오면 자폭해서 접근하기 전에 처리해야 하는데... 엄청나게 잽싸서 조준 보조 없이는 맞추기 힘들어요. 과열 상태가 되면 큰 폭발을 일으키니 이걸 노려보는 게 어떨까요?<br><br><br> - 베라 보고함",
     "HP": {
       "base": 1200,
@@ -11985,9 +11985,9 @@
     ]
   },
   "NightChickCM_N": {
-    "name": "케미컬 칙",
+    "name": "Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 250,
@@ -12017,9 +12017,9 @@
     ]
   },
   "Phalangites_N": {
-    "name": "팔랑스",
+    "name": "Phalanx",
     "img": "Phalangites",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "각이 잡힌 대열로 행군하는 철충입니다. 철충 놈들 중엔 드물게 군기가 들어있지 말입니다. 딱 밀착해서 서로서로를 보호하는 녀석들이니 진형을 아작내는 게 중요하지 말임다.<br><br><br>- 블러디팬서",
     "HP": {
       "base": 400,
@@ -12049,9 +12049,9 @@
     ]
   },
   "NightChickSPW_N": {
-    "name": "한랭지형 칙 스나이퍼",
+    "name": "Cold Region Chick Sniper",
     "img": "NightChickSPW",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "보기보다 잽싼 녀석이야! 발키리 언니처럼 가까운 거리에선 사격이 더 정밀해지니 주의해야 해. 설원에선 찾기 힘드니 베라 언니한테 도와달라고 하는 게 좋을 거야.<br><br><br>- 알비스 보고함",
     "HP": {
       "base": 250,
@@ -12082,9 +12082,9 @@
     ]
   },
   "MammothW_N": {
-    "name": "한랭지형 매머드",
+    "name": "Cold Region Mammoth",
     "img": "MammothW",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "일반 매머드보다 포격의 위력은 줄었지만, 장전 속도가 빨라진 것 같아요. 설원에서는 방호력이 증가하는 특성이 있으니 촬영 자료를 참조해 주세요.<br><br><br>- 탈론페더 보고함",
     "HP": {
       "base": 2000,
@@ -12115,9 +12115,9 @@
     ]
   },
   "LegionMk2_N": {
-    "name": "레기온 Mk.II",
+    "name": "Legion Mk.II",
     "img": "LegionMk2",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "레기온의 개량형인 것 같군요. 적의 움직임을 예측해 공격하니 대응할 장비가 필요해 보이네요. 공격 연계 능력도 높아졌으니 먼저 처리해 변수를 줄이는 게 좋겠습니다.<br><br><br>- 아르망 보고함",
     "HP": {
       "base": 1000,
@@ -12148,9 +12148,9 @@
     ]
   },
   "Frostbite_TU": {
-    "name": "프로스트바이트",
+    "name": "Frostbite",
     "img": "Frostbite",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "유기 생명체, 기온 하락 시 작전 능력 저하. 특수재질 장갑, 열 병기 지원 필요.<br><br><br>- 기간테스 보고함",
     "HP": {
       "base": 5000,
@@ -12182,9 +12182,9 @@
     ]
   },
   "Chiller_TU4": {
-    "name": "칠러",
+    "name": "Chiller",
     "img": "Chiller",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "물… 절대 뿌리지 말것…<br><br><br> - 서펀트 보고함",
     "HP": {
       "base": 850,
@@ -12215,9 +12215,9 @@
     ]
   },
   "MammothW_TU": {
-    "name": "한랭지형 매머드",
+    "name": "Cold Region Mammoth",
     "img": "MammothW",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "일반 매머드보다 포격의 위력은 줄었지만, 장전 속도가 빨라진 것 같아요. 설원에서는 방호력이 증가하는 특성이 있으니 촬영 자료를 참조해 주세요.<br><br><br>- 탈론페더 보고함",
     "HP": {
       "base": 4000,
@@ -12248,9 +12248,9 @@
     ]
   },
   "NightChickAQ_TU4": {
-    "name": "아쿠아 칙",
+    "name": "Aqua Chick",
     "img": "NightChickAQ",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "물을 운반하는 철충인가봐. 철충들은 주변에 물이 새면 안절부절못하니 이걸 이용하면 좋을 것 같아!<br><br><br> - 아쿠아 보고함",
     "HP": {
       "base": 3000,
@@ -12281,9 +12281,9 @@
     ]
   },
   "LegionMk2_TU2": {
-    "name": "레기온 Mk.II",
+    "name": "Legion Mk.II",
     "img": "LegionMk2",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "레기온의 개량형인 것 같군요. 적의 움직임을 예측해 공격하니 대응할 장비가 필요해 보이네요. 공격 연계 능력도 높아졌으니 먼저 처리해 변수를 줄이는 게 좋겠습니다.<br><br><br>- 아르망 보고함",
     "HP": {
       "base": 4500,
@@ -12314,9 +12314,9 @@
     ]
   },
   "NightChickDEAA_TU2": {
-    "name": "나이트 칙 디텍터 AA",
+    "name": "Night Chick Detector AA",
     "img": "NightChickDEAA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "대공 교란용 적인가? 상관없다! 선제 공격을 맞아도 버티고 섬멸하면 그만이다! 돌격!!!<br><br><br>- 레드후드의 명령을 브라우니가 기록함",
     "HP": {
       "base": 2400,
@@ -12347,9 +12347,9 @@
     ]
   },
   "NightChickSPW_TU2": {
-    "name": "한랭지형 칙 스나이퍼",
+    "name": "Cold Region Chick Sniper",
     "img": "NightChickSPW",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "보기보다 잽싼 녀석이야! 발키리 언니처럼 가까운 거리에선 사격이 더 정밀해지니 주의해야 해. 설원에선 찾기 힘드니 베라 언니한테 도와달라고 하는 게 좋을 거야.<br><br><br>- 알비스 보고함",
     "HP": {
       "base": 2000,
@@ -12380,9 +12380,9 @@
     ]
   },
   "Frostbite_TU3": {
-    "name": "프로스트바이트",
+    "name": "Frostbite",
     "img": "Frostbite",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "유기 생명체, 기온 하락 시 작전 능력 저하. 특수재질 장갑, 열 병기 지원 필요.<br><br><br>- 기간테스 보고함",
     "HP": {
       "base": 15000,
@@ -12414,9 +12414,9 @@
     ]
   },
   "MammothW_TU2": {
-    "name": "한랭지형 매머드",
+    "name": "Cold Region Mammoth",
     "img": "MammothW",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "일반 매머드보다 포격의 위력은 줄었지만, 장전 속도가 빨라진 것 같아요. 설원에서는 방호력이 증가하는 특성이 있으니 촬영 자료를 참조해 주세요.<br><br><br>- 탈론페더 보고함",
     "HP": {
       "base": 6000,
@@ -12447,9 +12447,9 @@
     ]
   },
   "NightChickSPW_TU3": {
-    "name": "한랭지형 칙 스나이퍼",
+    "name": "Cold Region Chick Sniper",
     "img": "NightChickSPW",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "보기보다 잽싼 녀석이야! 발키리 언니처럼 가까운 거리에선 사격이 더 정밀해지니 주의해야 해. 설원에선 찾기 힘드니 베라 언니한테 도와달라고 하는 게 좋을 거야.<br><br><br>- 알비스 보고함",
     "HP": {
       "base": 4500,
@@ -12480,9 +12480,9 @@
     ]
   },
   "HarvesterEX_N": {
-    "name": "아머드 하베스터",
+    "name": "Armored Harvester",
     "img": "Harvester",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "얘는 원래는 나처럼 일하던 애였던 것 같아. 멀리 있는 적을 갈고리로 당겨오니 주의하는 게 좋아. 나처럼 힘들게 사는 애니 편히 보내 주는 게 좋을 지도…<br><br><br>- 더치걸",
     "HP": {
       "base": 14500,
@@ -12512,9 +12512,9 @@
     ]
   },
   "Wasp_TU": {
-    "name": "와습",
+    "name": "Wasp",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 130,
@@ -12544,9 +12544,9 @@
     ]
   },
   "Frostbite_N": {
-    "name": "프로스트바이트",
+    "name": "Frostbite",
     "img": "Frostbite",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "유기 생명체, 기온 하락 시 작전 능력 저하. 특수재질 장갑, 열 병기 지원 필요.<br><br><br>- 기간테스 보고함",
     "HP": {
       "base": 2500,
@@ -12578,9 +12578,9 @@
     ]
   },
   "Gigantes_TU2": {
-    "name": "양산형 기간테스",
+    "name": "Mass Produced Gigantes",
     "img": "Gigantes",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "기간테스의 양산형 기종이다.",
     "HP": {
       "base": 1000,
@@ -12610,9 +12610,9 @@
     ]
   },
   "NightChick_C": {
-    "name": "나이트 칙?",
+    "name": "Night Chick?",
     "img": "NightChick",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "기동형을 상대하기 위해 반만년 동안 패스트 드로우를 수련한 나이트 칙이라는 것 같다. 이 녀석들도 영화를 보는 건가…?",
     "HP": {
       "base": 120000,
@@ -12644,9 +12644,9 @@
     ]
   },
   "NightChickM_C": {
-    "name": "나이트 칙 런처??",
+    "name": "Night Chick Launcher??",
     "img": "NightChickM",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "중장형을 상대하기 위해 반만년 동안 수련해 기동 공격기가 된 나이트 칙 런처라는 것 같다. 어떤 바이오로이드가 부러워 할 것 같다…",
     "HP": {
       "base": 100000,
@@ -12678,9 +12678,9 @@
     ]
   },
   "NightChickS_C": {
-    "name": "나이트 칙 실더???",
+    "name": "Night Chick Shielder???",
     "img": "NightChickS",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "진정한 보호기가 되기 위해 반만년 동안 수련하여 중장형으로 체급을 올린 나이트 칙 실더라는 것 같다. 누구의 장난인지는 몰라도 찾으면 혼내줘야겠다…",
     "HP": {
       "base": 240000,
@@ -12712,9 +12712,9 @@
     ]
   },
   "EmperorChickSpCH_N": {
-    "name": "칙 커맨더",
+    "name": "Chick Commander",
     "img": "EmperorChickSpCH",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "주위 철충들에게 명령을 내리는 칙 커맨더는 마치 훈련 교관처럼 느껴집니다. 철충들이 쓰러질 때마다 분노가 끓어올라 강해지고 쓰러진 철충들을 다시 일으켜 세울 수 있는 막강한 능력이 있습니다. 하지만 적군이 쓰러졌을 시 분노는 가라 앉고 약해지는 것으로 보아 어쩌면... 아군의 희생이 필요할지도 모릅니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 250000,
@@ -12746,9 +12746,9 @@
     ]
   },
   "Testudo_TU4": {
-    "name": "테스투도",
+    "name": "Testudo",
     "img": "Testudo",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "트레비앙~한 방어 능력을 가진 적이에요. 보통은 중화기로 제압해야 하지만 제 정교한 검술로도 해결할 수 있으니 맡겨주세요!<br><br><br>- 샬럿 보고함",
     "HP": {
       "base": 15000,
@@ -12779,9 +12779,9 @@
     ]
   },
   "NightChickCMP_N": {
-    "name": "케미컬 칙 Type-X",
+    "name": "Chemical Chick Type-X",
     "img": "NightChickCMP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "히익… 다신 보기 싫을 정도로 징그러웠어요…... 불에는 약한지 불을 붙이니 폭발해서 깜짝 놀랐네요.<br><br><br> - 뽀끄루 보고함",
     "HP": {
       "base": 1,
@@ -12813,9 +12813,9 @@
     ]
   },
   "NightChickSpCH_N": {
-    "name": "솔져 칙",
+    "name": "Soldier Chick",
     "img": "NightChickSpCH",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "솔져 칙은 칙 커맨더의 명령에 따라 움직이며 자신의 몸체를 던져 칙 커맨더를 보호하기도 합니다. 그리고 칙 커맨더가 있는 한 쓰러지지 않고 근성으로 일어나 다시 싸웁니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 100,
@@ -12847,9 +12847,9 @@
     ]
   },
   "EmperorChickSpCH_C": {
-    "name": "칙 커맨더",
+    "name": "Chick Commander",
     "img": "EmperorChickSpCH",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "주위 철충들에게 명령을 내리는 칙 커맨더는 마치 훈련 교관처럼 느껴집니다. 철충들이 쓰러질 때마다 분노가 끓어올라 강해지고 쓰러진 철충들을 다시 일으켜 세울 수 있는 막강한 능력이 있습니다. 하지만 적군이 쓰러졌을 시 분노는 가라 앉고 약해지는 것으로 보아 어쩌면... 아군의 희생이 필요할지도 모릅니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 400000,
@@ -12881,9 +12881,9 @@
     ]
   },
   "Fallen_VT2": {
-    "name": "초코 여왕의 보병",
+    "name": "Choco Queen's Infantry",
     "img": "Fallen_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "초코 여왕이 경비용 폴른 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 200,
@@ -12912,9 +12912,9 @@
     ]
   },
   "Drone_VT2": {
-    "name": "초코 여왕의 정찰병",
+    "name": "Choco Queen's Scout",
     "img": "Drone_V2",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "초코 여왕이 경비용 드론 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 150,
@@ -12943,9 +12943,9 @@
     ]
   },
   "PuppHead_VT2": {
-    "name": "초코 여왕의 애완기계",
+    "name": "Choco Queen's Pet Machine",
     "img": "PuppHead_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "초코 여왕이 경비용 펍 헤드 기종을 도색해 만들어낸 애완기계입니다. ",
     "HP": {
       "base": 200,
@@ -12974,9 +12974,9 @@
     ]
   },
   "RampartC_VT2": {
-    "name": "초코 여왕의 정예 경비병",
+    "name": "Choco Queen's Elite Guard",
     "img": "RampartC_V2",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 325,
@@ -13008,9 +13008,9 @@
     ]
   },
   "Stinger_VT2": {
-    "name": "초코 여왕의 돌격병",
+    "name": "Choco Queen's Shock Troop",
     "img": "Stinger_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "초코 여왕이 양산형 스팅어 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 150,
@@ -13040,9 +13040,9 @@
     ]
   },
   "FallenC_VT2": {
-    "name": "초코 여왕의 정예 보병",
+    "name": "Choco Queen's Elite Infantry",
     "img": "FallenC_V2",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "공격 할 수록 점점 더 화력이 강력해지니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 260,
@@ -13074,9 +13074,9 @@
     ]
   },
   "Seljuq_VT2": {
-    "name": "초코 여왕의 포병",
+    "name": "Choco Queen's Artillery",
     "img": "Seljuq_V2",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "초코 여왕이 양산형 셀주크 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 300,
@@ -13106,9 +13106,9 @@
     ]
   },
   "Rampart_VT2": {
-    "name": "초코 여왕의 경비병",
+    "name": "Choco Queen's Guard",
     "img": "Rampart_V2",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "초코 여왕이 경비용 램파트 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 250,
@@ -13137,9 +13137,9 @@
     ]
   },
   "AMG11_VT2": {
-    "name": "초코 여왕의 감시병",
+    "name": "Choco Queen's Sentinel",
     "img": "AMG11_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "초코 여왕이 경비용 AMG 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 175,
@@ -13168,9 +13168,9 @@
     ]
   },
   "AMG11_VT3": {
-    "name": "초코 여왕의 감시병",
+    "name": "Choco Queen's Sentinel",
     "img": "AMG11_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "초코 여왕이 경비용 AMG 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 300,
@@ -13199,9 +13199,9 @@
     ]
   },
   "PuppHead_VT3": {
-    "name": "초코 여왕의 애완기계",
+    "name": "Choco Queen's Pet Machine",
     "img": "PuppHead_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "초코 여왕이 경비용 펍 헤드 기종을 도색해 만들어낸 애완기계입니다. ",
     "HP": {
       "base": 375,
@@ -13230,9 +13230,9 @@
     ]
   },
   "Drone_VT3": {
-    "name": "초코 여왕의 정찰병",
+    "name": "Choco Queen's Scout",
     "img": "Drone_V2",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "초코 여왕이 경비용 드론 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 275,
@@ -13261,9 +13261,9 @@
     ]
   },
   "Rampart_VT3": {
-    "name": "초코 여왕의 경비병",
+    "name": "Choco Queen's Guard",
     "img": "Rampart_V2",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "초코 여왕이 경비용 램파트 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 500,
@@ -13292,9 +13292,9 @@
     ]
   },
   "StingerC_VT2": {
-    "name": "초코 여왕의 정예 돌격병",
+    "name": "Choco Queen's Elite Shock Troop",
     "img": "StingerC_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.<br><br><br> - 님프 보고함",
     "HP": {
       "base": 195,
@@ -13326,9 +13326,9 @@
     ]
   },
   "Stinger_VT3": {
-    "name": "초코 여왕의 돌격병",
+    "name": "Choco Queen's Shock Troop",
     "img": "Stinger_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "초코 여왕이 양산형 스팅어 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 300,
@@ -13358,9 +13358,9 @@
     ]
   },
   "DroneM_VT2": {
-    "name": "초코 여왕의 정예 정찰병",
+    "name": "Choco Queen's Elite Scout",
     "img": "DroneM_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…<br><br><br> - 익스프레스 76 보고함",
     "HP": {
       "base": 195,
@@ -13392,9 +13392,9 @@
     ]
   },
   "Gigantes_VT3": {
-    "name": "초코 여왕의 근위병",
+    "name": "Choco Queen's Guardian",
     "img": "Gigantes_V2",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "초코 여왕이 양산형 기간테스 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 1500,
@@ -13424,9 +13424,9 @@
     ]
   },
   "AMG11AA_VT2": {
-    "name": "초코 여왕의 정예 감시병",
+    "name": "Choco Queen's Elite Sentinel",
     "img": "AMG11AA_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석들은 대공 능력에 특화된 녀석들이야. 물론 내 우수한 스텔스 능력에 비하면 분명 보잘것없는 능력이지만, 다른 친구들에게는 성가실 수 있으니 내가 먼저 처리해야겠어.<br><br><br> - 하르페이아 보고함",
     "HP": {
       "base": 228,
@@ -13458,9 +13458,9 @@
     ]
   },
   "Seljuq_VT3": {
-    "name": "초코 여왕의 포병",
+    "name": "Choco Queen's Artillery",
     "img": "Seljuq_V2",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "초코 여왕이 양산형 셀주크 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 450,
@@ -13490,9 +13490,9 @@
     ]
   },
   "AMG11AA_VT3": {
-    "name": "초코 여왕의 정예 감시병",
+    "name": "Choco Queen's Elite Sentinel",
     "img": "AMG11AA_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석들은 대공 능력에 특화된 녀석들이야. 물론 내 우수한 스텔스 능력에 비하면 분명 보잘것없는 능력이지만, 다른 친구들에게는 성가실 수 있으니 내가 먼저 처리해야겠어.<br><br><br> - 하르페이아 보고함",
     "HP": {
       "base": 390,
@@ -13524,9 +13524,9 @@
     ]
   },
   "RampartC_VT3": {
-    "name": "초코 여왕의 정예 경비병",
+    "name": "Choco Queen's Elite Guard",
     "img": "RampartC_V2",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 650,
@@ -13558,9 +13558,9 @@
     ]
   },
   "PuppHeadC_VT3": {
-    "name": "초코 여왕의 귀여운 애완기계",
+    "name": "Choco Queen's Cute Pet Machine",
     "img": "PuppHeadC_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석과 같이 다니는 적들은 신속하게 움직이는 것 같군. 신속히 처리하는 것이 좋겠어.<br><br><br> - 칸 보고함",
     "HP": {
       "base": 488,
@@ -13592,9 +13592,9 @@
     ]
   },
   "SeljuqA_VT3": {
-    "name": "초코 여왕의 정예 포병",
+    "name": "Choco Queen's Elite Artillery",
     "img": "SeljuqA_V2",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력은 일반형 셀주크보다 떨어지지만 장갑은 더 향상된 것 같아요. 공격을 계속 허용하면 이쪽 움직임에 적응하니 방어 능력이 좋은 소대로 제압하는게 좋을 것 같네요.<br><br><br> - 세이렌 보고함",
     "HP": {
       "base": 585,
@@ -13626,9 +13626,9 @@
     ]
   },
   "StingerC_VT3": {
-    "name": "초코 여왕의 정예 돌격병",
+    "name": "Choco Queen's Elite Shock Troop",
     "img": "StingerC_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.<br><br><br> - 님프 보고함",
     "HP": {
       "base": 390,
@@ -13660,9 +13660,9 @@
     ]
   },
   "FallenC_VT3": {
-    "name": "초코 여왕의 정예 보병",
+    "name": "Choco Queen's Elite Infantry",
     "img": "FallenC_V2",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "공격 할 수록 점점 더 화력이 강력해지니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 520,
@@ -13694,9 +13694,9 @@
     ]
   },
   "Rampart_VT4": {
-    "name": "초코 여왕의 경비병",
+    "name": "Choco Queen's Guard",
     "img": "Rampart_V2",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "초코 여왕이 경비용 램파트 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 1100,
@@ -13725,9 +13725,9 @@
     ]
   },
   "DroneM_VT4": {
-    "name": "초코 여왕의 정예 정찰병",
+    "name": "Choco Queen's Elite Scout",
     "img": "DroneM_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "지상군 대응용으로 개조된 드론인거 같아. 대공 능력은 없는 것 같네. 그나저나 폭탄 배송이라니… 캐치 프레이즈로 적합한거 같기도…<br><br><br> - 익스프레스 76 보고함",
     "HP": {
       "base": 520,
@@ -13759,9 +13759,9 @@
     ]
   },
   "RampartC_VT4": {
-    "name": "초코 여왕의 정예 경비병",
+    "name": "Choco Queen's Elite Guard",
     "img": "RampartC_V2",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 1430,
@@ -13793,9 +13793,9 @@
     ]
   },
   "PuppHeadC_VT4": {
-    "name": "초코 여왕의 귀여운 애완기계",
+    "name": "Choco Queen's Cute Pet Machine",
     "img": "PuppHeadC_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석과 같이 다니는 적들은 신속하게 움직이는 것 같군. 신속히 처리하는 것이 좋겠어.<br><br><br> - 칸 보고함",
     "HP": {
       "base": 585,
@@ -13827,9 +13827,9 @@
     ]
   },
   "Gigantes_VT4": {
-    "name": "초코 여왕의 근위병",
+    "name": "Choco Queen's Guardian",
     "img": "Gigantes_V2",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "초코 여왕이 양산형 기간테스 기종을 도색해 만들어낸 기체입니다.",
     "HP": {
       "base": 2150,
@@ -13859,9 +13859,9 @@
     ]
   },
   "SeljuqA_VT4": {
-    "name": "초코 여왕의 정예 포병",
+    "name": "Choco Queen's Elite Artillery",
     "img": "SeljuqA_V2",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력은 일반형 셀주크보다 떨어지지만 장갑은 더 향상된 것 같아요. 공격을 계속 허용하면 이쪽 움직임에 적응하니 방어 능력이 좋은 소대로 제압하는게 좋을 것 같네요.<br><br><br> - 세이렌 보고함",
     "HP": {
       "base": 6235,
@@ -13893,9 +13893,9 @@
     ]
   },
   "GigantesC_VT4": {
-    "name": "초코 여왕의 정예 근위병",
+    "name": "Choco Queen's Elite Guardian",
     "img": "GigantesC_V2",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "거점 방어에 특화된 모델인건가? 행동은 굼떠보이지만 좀처럼 빈틈이 안보여. 하지만 내 소우 피쉬라면 해결할 수 있을걸?<br><br><br> - 트리아이나 보고함",
     "HP": {
       "base": 2795,
@@ -13927,9 +13927,9 @@
     ]
   },
   "StingerC_VT4": {
-    "name": "초코 여왕의 정예 돌격병",
+    "name": "Choco Queen's Elite Shock Troop",
     "img": "StingerC_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.<br><br><br> - 님프 보고함",
     "HP": {
       "base": 780,
@@ -13961,9 +13961,9 @@
     ]
   },
   "FallenC_VT4": {
-    "name": "초코 여왕의 정예 보병",
+    "name": "Choco Queen's Elite Infantry",
     "img": "FallenC_V2",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "공격 할 수록 점점 더 화력이 강력해지니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 3000,
@@ -13995,9 +13995,9 @@
     ]
   },
   "RampartC_VT5": {
-    "name": "초코 여왕의 정예 경비병",
+    "name": "Choco Queen's Elite Guard",
     "img": "RampartC_V2",
-    "type": "경장 보호기",
+    "type": "Light Defender",
     "info": "불리해지면 동료에게 지원 요청을 하는 약삭빠른 녀석이야. 방어하기 시작하면 반격하니 주의해.<br><br><br> - 칼리스타 보고함",
     "HP": {
       "base": 1989,
@@ -14029,9 +14029,9 @@
     ]
   },
   "AMG11AA_VT5": {
-    "name": "초코 여왕의 정예 감시병",
+    "name": "Choco Queen's Elite Sentinel",
     "img": "AMG11AA_V2",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "이 녀석들은 대공 능력에 특화된 녀석들이야. 물론 내 우수한 스텔스 능력에 비하면 분명 보잘것없는 능력이지만, 다른 친구들에게는 성가실 수 있으니 내가 먼저 처리해야겠어.<br><br><br> - 하르페이아 보고함",
     "HP": {
       "base": 1170,
@@ -14063,9 +14063,9 @@
     ]
   },
   "SeljuqA_VT5": {
-    "name": "초코 여왕의 정예 포병",
+    "name": "Choco Queen's Elite Artillery",
     "img": "SeljuqA_V2",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력은 일반형 셀주크보다 떨어지지만 장갑은 더 향상된 것 같아요. 공격을 계속 허용하면 이쪽 움직임에 적응하니 방어 능력이 좋은 소대로 제압하는게 좋을 것 같네요.<br><br><br> - 세이렌 보고함",
     "HP": {
       "base": 8495,
@@ -14097,9 +14097,9 @@
     ]
   },
   "StingerC_VT5": {
-    "name": "초코 여왕의 정예 돌격병",
+    "name": "Choco Queen's Elite Shock Troop",
     "img": "StingerC_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "극지용 스팅어? 묘한 친근감이 느껴지네요. 적이 보호하기 전에 빠르게 처치하는게 좋을거에요. 견딜만하다고 방심하다간 큰일날 수 있어요.<br><br><br> - 님프 보고함",
     "HP": {
       "base": 1170,
@@ -14131,9 +14131,9 @@
     ]
   },
   "GigantesC_VT5": {
-    "name": "초코 여왕의 정예 근위병",
+    "name": "Choco Queen's Elite Guardian",
     "img": "GigantesC_V2",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "거점 방어에 특화된 모델인건가? 행동은 굼떠보이지만 좀처럼 빈틈이 안보여. 하지만 내 소우 피쉬라면 해결할 수 있을걸?<br><br><br> - 트리아이나 보고함",
     "HP": {
       "base": 3705,
@@ -14165,9 +14165,9 @@
     ]
   },
   "FallenC_VT5": {
-    "name": "초코 여왕의 정예 보병",
+    "name": "Choco Queen's Elite Infantry",
     "img": "FallenC_V2",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "공격 할 수록 점점 더 화력이 강력해지니 주의해 주세요. 제 풀에 지쳐 가동을 멈추니 잘 피하기만 해도 될 거에요.<br><br><br> - 블랙 하운드 보고함",
     "HP": {
       "base": 5000,
@@ -14199,9 +14199,9 @@
     ]
   },
   "NightChickDEG_TU2": {
-    "name": "나이트 칙 디텍터 G",
+    "name": "Night Chick Detector G",
     "img": "NightChickDEG",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "지상전용 레이더 철충이네요. 공중 공격엔 취약하니 기동 부대를 동원해 처리하는 것을 추천드려요.<br><br><br> - 다이카 보고함",
     "HP": {
       "base": 750,
@@ -14232,9 +14232,9 @@
     ]
   },
   "BigChickEX_TU2": {
-    "name": "시작형 빅 칙",
+    "name": "Prototype Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 2000,
@@ -14264,9 +14264,9 @@
     ]
   },
   "NightChickDEAA_TU": {
-    "name": "나이트 칙 디텍터 AA",
+    "name": "Night Chick Detector AA",
     "img": "NightChickDEAA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "대공 교란용 적인가? 상관없다! 선제 공격을 맞아도 버티고 섬멸하면 그만이다! 돌격!!!<br><br><br>- 레드후드의 명령을 브라우니가 기록함",
     "HP": {
       "base": 900,
@@ -14297,9 +14297,9 @@
     ]
   },
   "CenturionG_TU2": {
-    "name": "센츄리온 제네럴",
+    "name": "Centurion General",
     "img": "CenturionG",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "지휘관 역할을 하는 철충인가 보네… 저렇게 무리하게 부하들을 다루면 안 좋을 것 같은데… 역시 적당히 하는 게 최고야...<br><br><br>- 이프리트 보고함",
     "HP": {
       "base": 10000,
@@ -14331,9 +14331,9 @@
     ]
   },
   "NightChickDEAA_TU3": {
-    "name": "나이트 칙 디텍터 AA",
+    "name": "Night Chick Detector AA",
     "img": "NightChickDEAA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "대공 교란용 적인가? 상관없다! 선제 공격을 맞아도 버티고 섬멸하면 그만이다! 돌격!!!<br><br><br>- 레드후드의 명령을 브라우니가 기록함",
     "HP": {
       "base": 5400,
@@ -14364,9 +14364,9 @@
     ]
   },
   "Tarantula_TU3": {
-    "name": "타란튤라",
+    "name": "Tarantula",
     "img": "Tarantula",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "가까이 오면 자폭해서 접근하기 전에 처리해야 하는데... 엄청나게 잽싸서 조준 보조 없이는 맞추기 힘들어요. 과열 상태가 되면 큰 폭발을 일으키니 이걸 노려보는 게 어떨까요?<br><br><br> - 베라 보고함",
     "HP": {
       "base": 2000,
@@ -14397,9 +14397,9 @@
     ]
   },
   "Scarab_TU8": {
-    "name": "스캐럽",
+    "name": "Scarab",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 950,
@@ -14429,9 +14429,9 @@
     ]
   },
   "Wasp_TU8": {
-    "name": "와습",
+    "name": "Wasp",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 425,
@@ -14461,9 +14461,9 @@
     ]
   },
   "Stalker_EW": {
-    "name": "스토커",
+    "name": "Stalker",
     "img": "Stalker_B0108",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "전장에서 등장하는 더욱 강력해진 스토커로 매 라운드마다 방어 관통효과가 증가되어 점점 파괴적인 공격을 합니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 40000,
@@ -14495,9 +14495,9 @@
     ]
   },
   "Predator_EW": {
-    "name": "프레데터",
+    "name": "Predator",
     "img": "Predator_B0208",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "전장에서 등장하는 더욱 강력해진 프레데터로 강력한 방어력으로 인해 물리 공격은 통하지 않을 것입니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 50000,
@@ -14529,9 +14529,9 @@
     ]
   },
   "Kidnapper_EW": {
-    "name": "트릭스터",
+    "name": "Trickster",
     "img": "Kidnapper_B0308",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "전장에서 등장하는 더욱 강력해진 트릭스터로 적을 한번에 괴멸 시킬 수 있는 매우 강력한 반격기를 가지고 있습니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 45000,
@@ -14563,9 +14563,9 @@
     ]
   },
   "NightChickSP_TU7": {
-    "name": "칙 스나이퍼",
+    "name": "Chick Sniper",
     "img": "NightChickSP",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "엄폐와 위장 능력이 좋음. 빠르게 한 방으로 처치하는 게 좋을 것 같음.<br><br><br>- 발키리",
     "HP": {
       "base": 300,
@@ -14595,9 +14595,9 @@
     ]
   },
   "WaspEX_N": {
-    "name": "와습 HM",
+    "name": "Wasp HM",
     "img": "Wasp",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "누가 이 자식한테 이 뿔침을 달아준 거야? 물론 나처럼 빠르진 않지만 나보다 느린 애들은 전부 조심하도록 해. 제법 빠른 속도로 돌격을 하니 말이야.<br><br><br>- 슬레이프니르",
     "HP": {
       "base": 7500,
@@ -14627,9 +14627,9 @@
     ]
   },
   "Chiller_N": {
-    "name": "칠러",
+    "name": "Chiller",
     "img": "Chiller",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "물… 절대 뿌리지 말것…<br><br><br> - 서펀트 보고함",
     "HP": {
       "base": 9500,
@@ -14660,9 +14660,9 @@
     ]
   },
   "Raider_EW": {
-    "name": "레이더",
+    "name": "Raider",
     "img": "Raider_B04",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "전장에서 등장하는 더욱 강력해진 레이더로 철충들의 공격을 지원하여 지속적으로 막강한 피해를 줄 것입니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 45000,
@@ -14694,9 +14694,9 @@
     ]
   },
   "UnderWatcherSensor_EW": {
-    "name": "언더왓쳐 센서",
+    "name": "Underwatcher Sensor",
     "img": "UnderWatcherSensor_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 24730,
@@ -14728,9 +14728,9 @@
     ]
   },
   "UnderWatcherArm_EW": {
-    "name": "언더왓쳐 암",
+    "name": "Underwatcher Arm",
     "img": "UnderWatcherArm_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 25650,
@@ -14762,9 +14762,9 @@
     ]
   },
   "UnderWatcher_EW": {
-    "name": "언더왓쳐",
+    "name": "Underwatcher",
     "img": "UnderWatcher_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "전장에서 등장하는 더욱 강력해진 언더왓쳐로 제네레이터로부터 에너지를 공급 받는 한 계속 전투를 이어나갈 수 있습니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 49200,
@@ -14796,9 +14796,9 @@
     ]
   },
   "UnderWatcherGenerator_EW": {
-    "name": "언더왓쳐 제네레이터",
+    "name": "Underwatcher Generator",
     "img": "UnderWatcherGenerator_B05",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 15000,
@@ -14830,9 +14830,9 @@
     ]
   },
   "ExecutionerLB_EW": {
-    "name": "익스큐셔너 롱 블레이드",
+    "name": "Executioner Long Blade",
     "img": "ExecutionerRB_B06",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 20000,
@@ -14864,9 +14864,9 @@
     ]
   },
   "Executioner_EW": {
-    "name": "익스큐셔너",
+    "name": "Executioner",
     "img": "Executioner_B06",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "전장에서 등장하는 더욱 강력해진 익스큐셔너로 블레이드가 파괴된다면 막강한 파괴력을 지니게 될 것입니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 55000,
@@ -14898,9 +14898,9 @@
     ]
   },
   "ExecutionerRB_EW": {
-    "name": "익스큐셔너 실드 블레이드",
+    "name": "Executioner Shield Blade",
     "img": "ExecutionerLB_B06",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 25000,
@@ -14932,9 +14932,9 @@
     ]
   },
   "DoomEater_N_EW2": {
-    "name": "둠 이터",
+    "name": "Doom Eater",
     "img": "DoomEater",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "같은 철충들을 먹어치워버리는 이 무자비한 철충을 막을 방법은 오직 포식 후, 에너지를 흡수할 때 밖에는 없는 듯 합니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 800000,
@@ -14966,9 +14966,9 @@
     ]
   },
   "Executioner_BEW_EW2": {
-    "name": "이모탈 익스큐셔너",
+    "name": "Immortal Executioner",
     "img": "Executioner_BEW",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "여태껏 보고된 적 없는 새로운 형태의 익스큐셔너로, 제압해도 부활한다는 것만 알려진 상태입니다. 대원들이 공포에 질릴 수 있으니, 불사신 같은 건 없다는 것을 증명해주셔야 합니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 55000,
@@ -15000,9 +15000,9 @@
     ]
   },
   "Frostbite_EW": {
-    "name": "프로스트바이트",
+    "name": "Frostbite",
     "img": "Frostbite",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "유기 생명체, 기온 하락 시 작전 능력 저하. 특수재질 장갑, 열 병기 지원 필요.<br><br><br>- 기간테스 보고함",
     "HP": {
       "base": 150000,
@@ -15034,9 +15034,9 @@
     ]
   },
   "NightChickAQ_EW": {
-    "name": "아쿠아 칙",
+    "name": "Aqua Chick",
     "img": "NightChickAQ",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "물을 운반하는 철충인가봐. 철충들은 주변에 물이 새면 안절부절못하니 이걸 이용하면 좋을 것 같아!<br><br><br> - 아쿠아 보고함",
     "HP": {
       "base": 120000,
@@ -15067,9 +15067,9 @@
     ]
   },
   "NightChickSPW_EW": {
-    "name": "한랭지형 칙 스나이퍼",
+    "name": "Cold Region Chick Sniper",
     "img": "NightChickSPW",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "보기보다 잽싼 녀석이야! 발키리 언니처럼 가까운 거리에선 사격이 더 정밀해지니 주의해야 해. 설원에선 찾기 힘드니 베라 언니한테 도와달라고 하는 게 좋을 거야.<br><br><br>- 알비스 보고함",
     "HP": {
       "base": 100000,
@@ -15100,9 +15100,9 @@
     ]
   },
   "EmperorChick_EW": {
-    "name": "칙 엠페러",
+    "name": "Chick Emperor",
     "img": "EmperorChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "<교전 기록 없음>",
     "HP": {
       "base": 200000,
@@ -15134,9 +15134,9 @@
     ]
   },
   "NightChickDEG_EW": {
-    "name": "나이트 칙 디텍터 G",
+    "name": "Night Chick Detector G",
     "img": "NightChickDEG",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "지상전용 레이더 철충이네요. 공중 공격엔 취약하니 기동 부대를 동원해 처리하는 것을 추천드려요.<br><br><br> - 다이카 보고함",
     "HP": {
       "base": 30000,
@@ -15167,9 +15167,9 @@
     ]
   },
   "DoomEater_N_EW": {
-    "name": "굶주린 둠 이터",
+    "name": "Starved Doom Eater",
     "img": "DoomEater",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "오랫동안 에너지 섭취를 못해 매우 굶주려 있는 상태로 주위에 있는 모든 철충들을 닥치는 대로 먹어치워 버릴 것입니다. 더 이상 먹어치울 철충이 없을 경우 광폭화에 빠지게 되어 막을 수 없을지도 모릅니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 400000,
@@ -15201,9 +15201,9 @@
     ]
   },
   "NightChickDEX_TU4": {
-    "name": "강화형 칙 디텍터",
+    "name": "Enhanced Chick Detector",
     "img": "NightChickDE",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "강한 방패 전파를 쏴서 귀찮긴 한데, 냉기에 약한지 기온이 내려가면 이상을 일으켜 오히려 도움이 되는 것 같아.<br><br><br>- 엠프리스 보고함",
     "HP": {
       "base": 17500,
@@ -15234,9 +15234,9 @@
     ]
   },
   "NightChickDEAA_TU4": {
-    "name": "나이트 칙 디텍터 AA",
+    "name": "Night Chick Detector AA",
     "img": "NightChickDEAA",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "대공 교란용 적인가? 상관없다! 선제 공격을 맞아도 버티고 섬멸하면 그만이다! 돌격!!!<br><br><br>- 레드후드의 명령을 브라우니가 기록함",
     "HP": {
       "base": 18000,
@@ -15267,9 +15267,9 @@
     ]
   },
   "ScarabEX_TU3": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 800,
@@ -15299,9 +15299,9 @@
     ]
   },
   "ZapperEX_TU4": {
-    "name": "강화형 재퍼",
+    "name": "Enhanced Zapper",
     "img": "Zapper",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "호전성이 낮은 개체예요. 건드리지만 않으면 공격하지 않으니 주의해 주세요. 고압 전류 공격을 하니까요. 설마 제가 대신 맞아서 찌릿찌릿에 눈 뜨는 걸 바라는 건 아니겠죠?<br><br><br>- 보고자 블랙 리리스",
     "HP": {
       "base": 875,
@@ -15331,9 +15331,9 @@
     ]
   },
   "NightChickCMS_N": {
-    "name": "강화형 케미컬 칙",
+    "name": "Enhanced Chemical Chick",
     "img": "NightChickCM",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "냄새 나고 이상한 액체를 뿌려. 더럽고 음란해. 그 이상한 액을 뒤집어 쓴 애들은 한 동안 근처에 못 오게 했어. 특히 스틸 드라코는…<br><br><br>- 보고자 미호",
     "HP": {
       "base": 1425,
@@ -15363,9 +15363,9 @@
     ]
   },
   "NightChickTD_TU4": {
-    "name": "썬더 칙",
+    "name": "Thunder Chick",
     "img": "NightChickTD",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "으아~ 촙 메이커로 때리니 갑자기 날뛰어서 큰일 날 뻔 했어요! 전기에 반응하는 것 같던데...아 참! 서펀트씨가 물을 뿌린 녀석은 갑자기 자폭해버리더라구요.<br><br><br> - 켈베로스 보고함",
     "HP": {
       "base": 4800,
@@ -15396,9 +15396,9 @@
     ]
   },
   "CenturionEX_TU2": {
-    "name": "엘리트 센츄리온",
+    "name": "Elite Centurion",
     "img": "Centurion",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "작은 부대의 지휘관 역할을 하는 철충으로 보입니다. 주변 철충에게 일제 공격을 지시하는 정황이 포착되었군요. 부하들이 파괴되면 경계를 하는 것 같아요. 먼저 처리하는 게 좋을 것으로 보입니다.<br><br><br>- 37식 다이카",
     "HP": {
       "base": 3750,
@@ -15429,9 +15429,9 @@
     ]
   },
   "FABigChickEX_N": {
-    "name": "FA 빅 칙 II",
+    "name": "FA Big Chick II",
     "img": "FABigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "빅 칙과는 달라! 빅 칙과는! 뭐로 만든지는 몰라도 장갑이 차원이 다르니 나 같은 대 장갑 요원이 없으면 꽤나 곤란할걸?<br><br><br> - 불가사리 보고함",
     "HP": {
       "base": 15500,
@@ -15462,9 +15462,9 @@
     ]
   },
   "NightChickCEX_N": {
-    "name": "개량형 칙 캐논",
+    "name": "Enhanced Chick Cannon",
     "img": "NightChickC",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "박격포로 무장한 나이트 칙인데... 별 거 아닌 폭죽이나 쏴대는 벌레야. 아, 약한 애들한텐 무서우려나?<br><br><br>- 메이 보고함",
     "HP": {
       "base": 12500,
@@ -15495,9 +15495,9 @@
     ]
   },
   "CenturionG_N": {
-    "name": "센츄리온 제네럴",
+    "name": "Centurion General",
     "img": "CenturionG",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "지휘관 역할을 하는 철충인가 보네… 저렇게 무리하게 부하들을 다루면 안 좋을 것 같은데… 역시 적당히 하는 게 최고야...<br><br><br>- 이프리트 보고함",
     "HP": {
       "base": 1000,
@@ -15529,9 +15529,9 @@
     ]
   },
   "HeavyScout_N": {
-    "name": "헤비 스카우트",
+    "name": "Heavy Scout",
     "img": "Scout_V2",
-    "type": "기동 공격기",
+    "type": "Flying Attacker",
     "info": "스카우트와 비슷해요. 탄종은 좀 다른 것 같지만. 뭘 쏘길래 모두 피해냈어요. 별로 정확하진 않은 것 같군요. 주변 철충들과 대열을 갖추려고 하면 주의해 주세요.<br><br><br>- 페로 드림",
     "HP": {
       "base": 10000,
@@ -15561,9 +15561,9 @@
     ]
   },
   "BigChickS_N": {
-    "name": "빅 칙 실더",
+    "name": "Big Chick Shielder",
     "img": "BigChickS",
-    "type": "중장 보호기",
+    "type": "Heavy Defender",
     "info": "제법 근성이 있는 녀석이야! 아무리 때려도 잘 쓰러지지 않던데 미호는 잘 처리하더라구. 쓸데 없이 계속 치치말라나 뭐라나…하지만 한 번 붙으면 물러날 내가 아니지~!<br><br><br> - 스틸 드라코 보고함",
     "HP": {
       "base": 18000,
@@ -15594,9 +15594,9 @@
     ]
   },
   "NightChickAQ_N": {
-    "name": "아쿠아 칙",
+    "name": "Aqua Chick",
     "img": "NightChickAQ",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "물을 운반하는 철충인가봐. 철충들은 주변에 물이 새면 안절부절못하니 이걸 이용하면 좋을 것 같아!<br><br><br> - 아쿠아 보고함",
     "HP": {
       "base": 11000,
@@ -15627,9 +15627,9 @@
     ]
   },
   "BigChickEX_N": {
-    "name": "시작형 빅 칙",
+    "name": "Prototype Big Chick",
     "img": "BigChick",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
     "HP": {
       "base": 16500,
@@ -15659,9 +15659,9 @@
     ]
   },
   "LegionElite_TU4": {
-    "name": "엘리트 레기온",
+    "name": "Elite Legion",
     "img": "Legion",
-    "type": "경장 지원기",
+    "type": "Light Supporter",
     "info": "화력이 좀 더 강한 레기온이야. 난 전혀 구분이 안 가는데 에밀리는 잘 구분하더라구. 이상한 데서 재주가 좋다니까...아! 지휘관 철충과의 연계 공격은 특히 주의해야 해!<br><br><br>- 파니 보고함",
     "HP": {
       "base": 10000,
@@ -15692,9 +15692,9 @@
     ]
   },
   "ScarabEX_N": {
-    "name": "스캐럽 HC",
+    "name": "Scarab HC",
     "img": "Scarab",
-    "type": "기동 보호기",
+    "type": "Flying Defender",
     "info": "이상한 구조인데 잘도 나는 거 있지? 나 저거 꼭 분해하고 싶으니까 잡히면 나한테 보내 줘야 해! 겁쟁이라 무서우면 방어를 하니까 빨리 해치우는 게 좋아.<br><br><br>- 보고자 닥터",
     "HP": {
       "base": 11500,
@@ -15724,9 +15724,9 @@
     ]
   },
   "BigChickMG_EV3": {
-    "name": "빅 칙 런쳐 G",
+    "name": "Big Chick Launcher G",
     "img": "BigChickMG",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "화력이 뛰어나지만 전기로 센서를 일시적으로 고장낼 수 있는거 같아요. 보조 무장은 약하지만 정밀하니 주의하세요.<br><br><br>- 레아 보고함",
     "HP": {
       "base": 17000,
@@ -15758,9 +15758,9 @@
     ]
   },
   "NightChickTD_N": {
-    "name": "썬더 칙",
+    "name": "Thunder Chick",
     "img": "NightChickTD",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "으아~ 촙 메이커로 때리니 갑자기 날뛰어서 큰일 날 뻔 했어요! 전기에 반응하는 것 같던데...아 참! 서펀트씨가 물을 뿌린 녀석은 갑자기 자폭해버리더라구요.<br><br><br> - 켈베로스 보고함",
     "HP": {
       "base": 8250,
@@ -15791,9 +15791,9 @@
     ]
   },
   "Tarantula_TU4": {
-    "name": "타란튤라",
+    "name": "Tarantula",
     "img": "Tarantula",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "가까이 오면 자폭해서 접근하기 전에 처리해야 하는데... 엄청나게 잽싸서 조준 보조 없이는 맞추기 힘들어요. 과열 상태가 되면 큰 폭발을 일으키니 이걸 노려보는 게 어떨까요?<br><br><br> - 베라 보고함",
     "HP": {
       "base": 3000,
@@ -15824,9 +15824,9 @@
     ]
   },
   "Frostbite_TU4": {
-    "name": "프로스트바이트",
+    "name": "Frostbite",
     "img": "Frostbite",
-    "type": "중장 지원기",
+    "type": "Heavy Supporter",
     "info": "유기 생명체, 기온 하락 시 작전 능력 저하. 특수재질 장갑, 열 병기 지원 필요.<br><br><br>- 기간테스 보고함",
     "HP": {
       "base": 30000,
@@ -15858,9 +15858,9 @@
     ]
   },
   "MammothW_TU4": {
-    "name": "한랭지형 매머드",
+    "name": "Cold Region Mammoth",
     "img": "MammothW",
-    "type": "중장 공격기",
+    "type": "Heavy Attacker",
     "info": "일반 매머드보다 포격의 위력은 줄었지만, 장전 속도가 빨라진 것 같아요. 설원에서는 방호력이 증가하는 특성이 있으니 촬영 자료를 참조해 주세요.<br><br><br>- 탈론페더 보고함",
     "HP": {
       "base": 24000,
@@ -15891,9 +15891,9 @@
     ]
   },
   "SpectorMS_EW": {
-    "name": "양산형 스펙터",
+    "name": "Mass Produced Spectre",
     "img": "Spector",
-    "type": "기동 지원기",
+    "type": "Flying Supporter",
     "info": "한동안 안 보이더니 그동안의 데이터로 양산 모델이 만들어진 것 같습니다. 역장의 성능은 예전만 못하지만, 굉장히 민첩해졌으니 주의하셔야 합니다.<br><br><br>보고자 ???",
     "HP": {
       "base": 18000,
@@ -15925,9 +15925,9 @@
     ]
   },
   "NightChickSPW_TU4": {
-    "name": "한랭지형 칙 스나이퍼",
+    "name": "Cold Region Chick Sniper",
     "img": "NightChickSPW",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "보기보다 잽싼 녀석이야! 발키리 언니처럼 가까운 거리에선 사격이 더 정밀해지니 주의해야 해. 설원에선 찾기 힘드니 베라 언니한테 도와달라고 하는 게 좋을 거야.<br><br><br>- 알비스 보고함",
     "HP": {
       "base": 12500,
@@ -15958,9 +15958,9 @@
     ]
   },
   "LegionMk2_TU4": {
-    "name": "레기온 Mk.II",
+    "name": "Legion Mk.II",
     "img": "LegionMk2",
-    "type": "경장 공격기",
+    "type": "Light Attacker",
     "info": "레기온의 개량형인 것 같군요. 적의 움직임을 예측해 공격하니 대응할 장비가 필요해 보이네요. 공격 연계 능력도 높아졌으니 먼저 처리해 변수를 줄이는 게 좋겠습니다.<br><br><br>- 아르망 보고함",
     "HP": {
       "base": 21500,
