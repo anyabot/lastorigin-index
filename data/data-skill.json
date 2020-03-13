@@ -4590,7 +4590,7 @@
     "img": "Beam",
     "range": 4,
     "AP": 8,
-    "description": "지정 범위에 Flash Grenade을 발사해 $(0.1) damage to target area, reduces AP, inflicts ACC- / CRIT- for 2 rounds and removes ACC / CRIT buffs.",
+    "description": "Deals $(0.1) damage to target area, reduces AP, inflicts ACC- / CRIT- for 2 rounds and removes ACC / CRIT buffs.",
     "areadata": [
       8,
       4,
@@ -6671,11 +6671,11 @@
   "NightChickCMP_EV2_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "부식액 폭발",
+    "name": "Corrosive Fluid Explosion",
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "화염 속성 액티브 스킬 공격 When unit is hit, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
+    "description": "When unit is hit with a Fire Attack, inflicts 'Ignited' to unit.<br>When unit is defeated while affected by 'Ignited', deals damage to all allies in Area of Effect.",
     "areadata": [
       7,
       8,
