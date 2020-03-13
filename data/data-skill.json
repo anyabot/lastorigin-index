@@ -5205,7 +5205,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of wach wave, grants unit Column Protect and grants allies in Area of Effect DR+ for 3 rounds.",
+    "description": "At the start of each wave, grants unit Column Protect and grants allies in Area of Effect DR+ for 3 rounds.",
     "areadata": [
       8,
       9,
@@ -6763,11 +6763,11 @@
   "NightChickDEX_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "약점 스캔",
+    "name": "Weakness Scanning",
     "img": "Scan",
     "range": 5,
     "AP": 4,
-    "description": "목표를 공격 대상으로 지정해 $(1) 피해를 주고, 2라운드 동안 표식 / 받는 피해 증가 / 회피 감소 상태로 만듭니다. 적중 대상은 회피 강화 효과가 해제됩니다. 자신은 3라운드 동안 회피가 증가합니다.",
+    "description": "Deals $(1) damage to a single target, inflicts 'Marked' / 'Damage Taken Increased' / EVA- for 2 rounds and removes EVA buffs. Increases unit's EVA for 3 rounds.",
     "areadata": [
       5
     ]
@@ -6775,11 +6775,11 @@
   "NightChickDEX_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "강화 Flash Grenade",
+    "name": "Enhanced Flash Grenade",
     "img": "Beam",
     "range": 4,
     "AP": 8,
-    "description": "지정한 위치에 Flash Grenade을 발사해 $(0.5) 피해를 주고, 2라운드 동안 적중 / 치명타를 낮춥니다. 적중 대상은 AP가 감소합니다.",
+    "description": "Deals $(0.5) damage to target area, reduces AP and inflicts ACC- / CRIT- for 2 rounds.",
     "areadata": [
       8,
       4,
@@ -6791,11 +6791,11 @@
   "NightChickDEX_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "경보 Radar",
+    "name": "Alarm Radar",
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 모든 아군의 AP / 적중 / 치명타 / 사거리가 증가합니다. 냉기 속성 액티브 스킬 When unit is hit 아군의 적중 / 치명타 / 사거리 증가 효과가 해제되며, 2라운드 동안 아군들의 적중 / 치명타가 감소합니다.",
+    "description": "At the start of each wave, increases AP and grants ACC+ / CRIT+ / Range+ to all allies.<br>When unit is hit with an Ice Attack, disables ACC / CRIT / Range buffs from this skill and inflicts ACC- / CRIT- for 2 rounds to all allies.",
     "areadata": [
       7,
       8,
@@ -6815,7 +6815,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 모든 적군의 AP / 적중 / 치명타 / 사거리가 감소합니다. 냉기 속성 액티브 스킬 When unit is hit 적에게 건 적중 / 치명타 / 사거리 감소 효과가 해제되며, 9라운드 동안 적들의 적중 / 치명타가 증가합니다.",
+    "description": "At the start of the each, reduces AP and inflicts ACC- / CRIT- / Range- to all enemies.<br>When unit is hit with an Ice Attack, disables ACC / CRIT / Range debuffs from this skill and grants ACC+ / CRIT+ for 9 rounds to all enemies.",
     "areadata": [
       7,
       8,
