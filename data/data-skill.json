@@ -6815,7 +6815,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of the each, reduces AP and inflicts ACC- / CRIT- / Range- to all enemies.<br>When unit is hit with an Ice Attack, disables ACC / CRIT / Range debuffs from this skill and grants ACC+ / CRIT+ for 9 rounds to all enemies.",
+    "description": "At the start of each wave, reduces AP and inflicts ACC- / CRIT- / Range- to all enemies.<br>When unit is hit with an Ice Attack, disables ACC / CRIT / Range debuffs from this skill and grants ACC+ / CRIT+ for 9 rounds to all enemies.",
     "areadata": [
       7,
       8,
