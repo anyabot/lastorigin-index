@@ -102,7 +102,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round while affected by 'Chick Shield Fortification', Target Protect ally immediately behind.",
+    "description": "At the start of each round , if unit is affected by 'Chick Shield Fortification', Target Protect ally immediately behind.",
     "areadata": [
       6
     ]
@@ -355,7 +355,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When Predator attacks while affected by Survival Instinct, Ignore Barrier/ Ignore DR / Def Pen.",
+    "description": "When Predator attacks , if unit is affected by Survival Instinct, Ignore Barrier/ Ignore DR / Def Pen.",
     "areadata": [
       5
     ]
@@ -379,7 +379,7 @@
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
-    "description": "Deals $(1.1) damage to a single target.<br>If the target is affected by EVA-, chance to inflict 'Stunned'.",
+    "description": "Deals $(1.1) damage to a single target.<br>If the target is affected by EVA-, a chance to inflict 'Stunned'.",
     "areadata": [
       5
     ]
@@ -628,7 +628,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "When Trickster is attacked while affected by 'Provoked', increases unit's ATK for 5 rounds. This effect can stack up to 5 times.",
+    "description": "When Trickster is attacked , if unit is affected by 'Provoked', increases unit's ATK for 5 rounds. This effect can stack up to 5 times.",
     "areadata": [
       5
     ]
@@ -688,7 +688,7 @@
     "img": "DefCounter",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round while affected by 'Camouflage', grants unit 'Counterattack'.",
+    "description": "At the start of each round , if unit is affected by 'Camouflage', grants unit 'Counterattack'.",
     "areadata": [
       5
     ]
@@ -725,7 +725,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, change to increase AP and grant Range+ / ACC+ for 2 rounds to allies in Area of Effect.",
+    "description": "When unit is hit, a chance to increase AP and grant Range+ / ACC+ for 2 rounds to allies in Area of Effect.",
     "areadata": [
       8,
       4,
@@ -913,7 +913,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round while affected by 'Alert', grants Ironworms in Area of Effect ACC+ / EVA+ / CRIT+ and removes ACC debuffs.",
+    "description": "At the start of each round , if unit is affected by 'Alert', grants Ironworms in Area of Effect ACC+ / EVA+ / CRIT+ and removes ACC debuffs.",
     "areadata": [
       7,
       8,
@@ -1146,7 +1146,7 @@
   "NightChickCEX_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Enhanced Howitzer Bombardment",
+    "name": "Enhanced Howitzer Shelling",
     "img": "CannonShotDelay",
     "range": 6,
     "AP": 7,
@@ -1288,7 +1288,7 @@
   "BigChickEX_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Chick Heavy Machine Cannon Fire",
+    "name": "Chick Heavy Machine Cannon Launch",
     "img": "MGShot",
     "range": 4,
     "AP": 5,
@@ -1364,7 +1364,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, chance to increase unit's DEF.",
+    "description": "When unit is hit, a chance to increase unit's DEF.",
     "areadata": [
       5
     ]
@@ -1451,7 +1451,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round while affected by 'Counterattack Stance', grants allies in Area of Effect SPD+ / ACC+.",
+    "description": "At the start of each round , if unit is affected by 'Counterattack Stance', grants allies in Area of Effect SPD+ / ACC+.",
     "areadata": [
       8,
       4,
@@ -1500,7 +1500,7 @@
   "Mammoth_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Direct Bombardment",
+    "name": "Direct Shelling",
     "img": "CannonShotWide",
     "range": 2,
     "AP": 7,
@@ -1764,7 +1764,7 @@
   "PuppHead_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Taser Gun",
+    "name": "Taser Launch",
     "img": "Shock",
     "range": 2,
     "AP": 4,
@@ -2009,7 +2009,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of the each round while affected by 'Energy Charge', increases Underwatcher's DEF / Status Resist until Underwatcher attacks.",
+    "description": "At the start of each round , if unit is affected by 'Energy Charge', increases Underwatcher's DEF / Status Resist until Underwatcher attacks.",
     "areadata": [
       5
     ]
@@ -2104,7 +2104,7 @@
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, chance to be 'Stunned' for 2 rounds.",
+    "description": "When unit is hit, a chance to be 'Stunned' for 2 rounds.",
     "areadata": [
       5
     ]
@@ -2364,7 +2364,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "When attacked while affected by 'Energy Charge', high chance to take minimal damage.",
+    "description": "When unit is attacked , if unit is affected by 'Energy Charge', high chance to take minimal damage.",
     "areadata": [
       5
     ]
@@ -2459,7 +2459,7 @@
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "When unit is hit, chance to reduce unit's AP and chance to be 'Stunned' for 2 rounds.",
+    "description": "When unit is hit, a chance to reduce unit's AP and a chance to be 'Stunned' for 2 rounds.",
     "areadata": [
       5
     ]
@@ -2583,7 +2583,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, chance to grant allies in Area of Effect 'Follow Up Attack'.",
+    "description": "At the start of each round, a chance to grant allies in Area of Effect 'Follow Up Attack'.",
     "areadata": [
       7,
       8,
@@ -2995,7 +2995,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "Takes minimal damage (3 times) and increases unit's Status Resist when unit is attacked attacked.",
+    "description": "Takes minimal damage (3 times) and increases unit's Status Resist when unit is attacked.",
     "areadata": [
       5
     ]
@@ -3017,12 +3017,12 @@
   "ProgramMobAS_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "스턴 스파이크",
+    "name": "Stern Spikes",
     "img": "MultiMissile",
     "range": 3,
     "AP": 6,
     "attr": "electric",
-    "description": "대상에게 $(0.9) 전기 속성 피해를 줍니다. 대상이 냉기 저항 감소 상태면 감전시켜 지속 전기 피해를 줍니다.",
+    "description": "Deals $(0.9) Electric damage to a single target.<br>If the target is affected by Ice Resist-, also inflicts Electric DoT damage.",
     "areadata": [
       5
     ]
@@ -3030,11 +3030,11 @@
   "ProgramMobAS_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "파일 벙커 드라이브",
+    "name": "Pile Bunker Drive",
     "img": "Scan",
     "range": 2,
     "AP": 9,
-    "description": "파일 벙커로 대상에게 $(1.8) 피해를 주며, 대상을 뒤로 밉니다. 대상에게 적용 중인 모든 보호효과를 해제하며, 표식 상태면 피해량이 증가합니다.",
+    "description": "Deals $(1.8) damage to a single target, Push Back and removes all Protect buffs.<br>Additional DMG+ to targets affected by 'Marked'.",
     "areadata": [
       5
     ]
@@ -3042,11 +3042,11 @@
   "ProgramMobAS_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "노즐 강화",
+    "name": "Nozzle Strengthening",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "경장형에게 주는 피해가 증가하며, 피해 감소 효과와 방어막을 무시합니다.",
+    "description": "Grants unit Anti-Light DMG+ / Ignore Barrier / Ignore DR.",
     "areadata": [
       5
     ]
@@ -3054,11 +3054,11 @@
   "ProgramMobAS_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Frontline 돌파",
+    "name": "Frontline Breakthrough",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 일정 확률로 같은 열에 인접한 아군의 공격을 지원합니다.",
+    "description": "At the start of each round, a chance to grants allies in Area of Effect 'Follow Up Attack'.",
     "areadata": [
       8,
       2
@@ -3071,7 +3071,7 @@
     "img": "CannonShot",
     "range": 5,
     "AP": 10,
-    "description": "포격으로 $(1.8) 피해를 줍니다. 대상의 방어력을 일정 비율 무시하며, 공격기인 경우 피해량이 증가합니다.",
+    "description": "Deals $(1.8) damage to a single target with Def Pen.<br>Additional DMG+ to Attacker targets.",
     "areadata": [
       5
     ]
@@ -3079,12 +3079,12 @@
   "ProgramMobAN_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "확산형 고폭탄",
+    "name": "Diffusion HE",
     "img": "CannonShotWide",
     "range": 4,
     "AP": 9,
     "attr": "fire",
-    "description": "확산 포격으로 무시하고 $(1) 화염 속성 피해를 줍니다. 대상이 표식 상태면 피해 감소 효과를 해제합니다.",
+    "description": "Deals $(1) Fire damage to target area.<br>If the target is affected by 'Marked', removes DR buffs.",
     "areadata": [
       7,
       4,
@@ -3095,11 +3095,11 @@
   "ProgramMobAN_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "연계 포격",
+    "name": "Linked Shelling",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "적 처치 시, AP가 증가하며 다음 공격까지 공격력이 증가합니다.",
+    "description": "When unit defeats an enemy, increases unit's AP and grants ATK+ until unit attacks.",
     "areadata": [
       5
     ]
@@ -3107,11 +3107,11 @@
   "ProgramMobAN_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "핀 포인트 포격",
+    "name": "Pin-point Shelling",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, Frontline에 있으면 적의 방어막과 피해 감소 효과를 무시합니다.",
+    "description": "At the start of each round, if unit is in the Frontline, grants unit Ignore Barrier / Ignore DR.",
     "areadata": [
       5
     ]
@@ -3119,11 +3119,11 @@
   "ProgramMobAN_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "집중 포격 대열",
+    "name": "Consentrated Shelling Rank",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 같은 열에 인접한 아군의 공격력 / 치명타를 상승시킵니다.",
+    "description": "At the start of each round, increases ATK / CRIT of allies in Area of Effect.",
     "areadata": [
       8,
       2
@@ -3132,11 +3132,11 @@
   "ProgramMobAT_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "2연장 속사포",
+    "name": "Double Rapid Fire Cannon",
     "img": "MGShot",
     "range": 3,
     "AP": 6,
-    "description": "기관포로 $(1.2) 피해를 주고, 대상이 표식 상태인 경우 일정 확률로 행동 불가 상태로 만듭니다.",
+    "description": "Deals $(1.2) damage to a single target.<br>Chance to inflict 'Stunned' to targets affected by 'Marked'.",
     "areadata": [
       5
     ]
@@ -3144,11 +3144,11 @@
   "ProgramMobAT_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "충격탄 발사",
+    "name": "Impact Shell Launch",
     "img": "CannonShot",
     "range": 4,
     "AP": 9,
-    "description": "충격탄을 발사해 $(1.8) 피해를 주고, 대상의 행동력을 감소시킵니다. 일정 확률로 대상에게 걸려있는 강화 효과를 해제합니다.",
+    "description": "Deals $(1.8) damage to a single target and inflicts SPD-. Chance to remove buffs.",
     "areadata": [
       5
     ]
@@ -3156,11 +3156,11 @@
   "ProgramMobAT_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "내성 처리",
+    "name": "Resistance Process",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 모든 속성 저항과 상태 이상 저항이 증가합니다.",
+    "description": "At the start of each round, increase unit's All Resist.",
     "areadata": [
       5
     ]
@@ -3168,11 +3168,11 @@
   "ProgramMobAT_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "특수 반응 장갑",
+    "name": "Special Reaction Armor",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "HP가 50% 이하인 경우, 피격 시 일정 확률로 방어력이 증가합니다.",
+    "description": "When hit with below 50% HP, a chance to increase unit's DEF.",
     "areadata": [
       5
     ]
@@ -3180,11 +3180,11 @@
   "ProgramMobAT_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "공격 대열 보호",
+    "name": "Offensive Line Protection",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "같은 열의 아군을 보호하며, 자신과 같은 행의 뒤에 배치된 아군이 받는 피해를 감소시킵니다.",
+    "description": "Grants unit Column Protect.<br>Grants allies placed to the right on the same row DR+.",
     "areadata": [
       4,
       5,
@@ -3194,11 +3194,11 @@
   "CenturionCF_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Precise 유도 미사일",
+    "name": "Precise Guided Missile",
     "img": "MultiMissile",
     "range": 4,
     "AP": 7,
-    "description": "Precise 유도 미사일로 $(1) 피해를 줍니다. 대상이 표식 상태면 피해량이 크게 증가합니다.",
+    "description": "Deals $(1) damage to target area.<br>Additional DMG+ to targets affected by 'Marked'.",
     "areadata": [
       8,
       9,
@@ -3209,11 +3209,11 @@
   "CenturionCF_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "멀티 록 온",
+    "name": "Multi Lock-on",
     "img": "Scan",
     "range": 4,
     "AP": 6,
-    "description": "목표 범위 대상들을 표식으로 설정하고, 회피 강화 효과를 해제하며 회피가 낮춥니다. 자신은 적중이 증가하며, 대상들은 받는 피해 증가 상태가 됩니다.",
+    "description": "Inflicts 'Marked' / EVA- / 'Damage Taken Increased' and removes EVA buffs.<br>Increases unit's ACC.",
     "areadata": [
       8,
       4,
@@ -3225,11 +3225,11 @@
   "CenturionCF_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "대열 정비",
+    "name": "Rank Maintenance",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "아군 사망 시, 대열을 정비해 인접한 아군들과 자신의 행동력 / 적중 / 회피가 증가합니다.",
+    "description": "When an ally is defeated, grants allies in Area of Effect SPD+ / ACC+ / EVA+.",
     "areadata": [
       7,
       8,
@@ -3245,11 +3245,11 @@
   "CenturionCF_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "위기 극복",
+    "name": "Crisis Overcoming",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 받을 때, 자신에게 능력치 감소 효과가 적용되어 있으면 반격하며, 일정 확률로 해당 효과를 해제합니다..",
+    "description": "When unit is attacked, if unit is affected by a stat reduction effect, 'Counterattack' and a chance to remove that effect.",
     "areadata": [
       5
     ]
@@ -3257,11 +3257,11 @@
   "ExpGoblinT_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "부식탄 사격",
+    "name": "Corrosive Bullet Fire",
     "img": "MGShot",
     "range": 3,
     "AP": 5,
-    "description": "대상에게 $(1) 피해를 주고, 대상이 표식 상태인 경우 일정 확률로 부식 상태로 만듭니다.",
+    "description": "Deals $(1) damage to a single target.<br>If the target is affected by 'Marked', a chance to inflict 'Corrosion'.",
     "areadata": [
       5
     ]
@@ -3269,11 +3269,11 @@
   "ExpGoblinT_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "기관총 Random Fire",
+    "name": "Machine Gun Random Fire",
     "img": "MGWideShot",
     "range": 3,
     "AP": 8,
-    "description": "목표 범위에 $(1) 피해를 주고, 대상이 표식 상태인 경우 일정 확률로 강화 효과를 해제합니다.",
+    "description": "Deals $(1) damage to target area. A chance to remove buffs from targets affected by 'Marked'.",
     "areadata": [
       0,
       0.5,
@@ -3289,11 +3289,11 @@
   "ExpGoblinT_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "격분",
+    "name": "Rage",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, AP / 공격력 / 치명타가 증가하며 방어력이 감소합니다.",
+    "description": "When unit is hit, increases unit's AP / ATK / CRIT but decreases DEF.",
     "areadata": [
       5
     ]
@@ -3301,11 +3301,11 @@
   "ExpGoblinT_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "재생 기능",
+    "name": "Regenerative Function",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 불능 시, 1회에 한해 HP를 회복하고 전투를 속행합니다.",
+    "description": "When unit is defeated, 'Battle Continuation' (1 time)",
     "areadata": [
       5
     ]
@@ -3313,11 +3313,11 @@
   "ExpGoblinA_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "목표 파쇄",
+    "name": "Target Spallation",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 7,
-    "description": "대상에게 $(1.5) 피해를 주고, 표식으로 설정해 받는 피해를 증가시킵니다. 대상의 적중과 치명타가 감소합니다.",
+    "description": "Deals $(1.5) damage to a single target and inflict 'Marked' / 'Damage Taken Increased' / ACC- / CRIT-.",
     "areadata": [
       5
     ]
@@ -3325,11 +3325,11 @@
   "ExpGoblinA_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "벙커 사출",
+    "name": "Bunker Injection",
     "img": "WideSwordAttk",
     "range": 4,
     "AP": 8,
-    "description": "목표 범위에 $(1) 피해를 주고, 대상의 회피율과 효과 저항을 낮춥니다.",
+    "description": "Deals $(1) damage to target area and inflicts EVA- / Status Resist-.",
     "areadata": [
       0,
       0,
@@ -3427,7 +3427,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 방어막 출력을 올려 자신과 인접 아군이 받는 피해를 감소시킵니다.",
+    "description": "When unit is hit, 방어막 출력을 올려 자신과 인접 아군이 받는 피해를 감소시킵니다.",
     "areadata": [
       7,
       8,
@@ -3447,7 +3447,7 @@
     "img": "TeamDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "아군 사망 시, HP가 감소합니다. 파괴될 경우에는, 모든 아군을 행동 불능으로 만들며 강화 효과를 해제합니다.",
+    "description": "When an ally is defeated, HP가 감소합니다. 파괴될 경우에는, 모든 아군을 행동 불능으로 만들며 강화 효과를 해제합니다.",
     "areadata": [
       7,
       8,
@@ -3512,7 +3512,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "HP가 50% 이상이면 모든 피해를 최소화하며 효과 저항이 증가합니다. 활성화 된 상태에서 피격 시, 오버플로우 중첩이 쌓입니다. 중첩 4 이상 상태로 라운드 개시 시, 해당 상태가 해제되며 행동 불능이 됩니다.",
+    "description": "HP가 50% 이상이면 모든 피해를 최소화하며 효과 저항이 증가합니다. 활성화 된 상태에서 When unit is hit, 오버플로우 중첩이 쌓입니다. 중첩 4 이상 상태로 라운드 개시 시, 해당 상태가 해제되며 행동 불능이 됩니다.",
     "areadata": [
       5
     ]
@@ -3564,7 +3564,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 공격력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시합니다.",
+    "description": "When unit is hit, 공격력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시합니다.",
     "areadata": [
       5
     ]
@@ -3576,7 +3576,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "모든 피해를 최소 피해만 받습니다. 처형자 중첩이 5 이상인 상태로 피격 시, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.",
+    "description": "모든 피해를 최소 피해만 받습니다. 처형자 중첩이 5 이상인 상태로 When unit is hit, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.",
     "areadata": [
       5
     ]
@@ -3646,7 +3646,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 공격력 / 치명타가 증가합니다. 공격력 증가가 3중첩 이상인 경우, 피해 감소 효과를 무시하며 Def Pen효과를 얻습니다. 피격 시 해제됩니다.",
+    "description": "공격 시, 공격력 / 치명타가 증가합니다. 공격력 증가가 3중첩 이상인 경우, 피해 감소 효과를 무시하며 Def Pen효과를 얻습니다. When unit is hit 해제됩니다.",
     "areadata": [
       5
     ]
@@ -3658,7 +3658,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 다음 공격을 받기 전까지 회피가 크게 증가하며 적중이 감소합니다.",
+    "description": "When unit is hit, 다음 공격을 받기 전까지 회피가 크게 증가하며 적중이 감소합니다.",
     "areadata": [
       5
     ]
@@ -3666,11 +3666,11 @@
   "Spector_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "전자기장 미사일",
+    "name": "전자기장 Missile",
     "img": "MultiMissile",
     "range": 4,
     "AP": 6,
-    "description": "전자기장 미사일로 $(1.1) 피해를 주고, 대상의 적중 / 치명타 / 효과 발동을 낮춥니다.",
+    "description": "전자기장 Missile로 $(1.1) 피해를 주고, 대상의 적중 / 치명타 / 효과 발동을 낮춥니다.",
     "areadata": [
       8,
       9,
@@ -4131,7 +4131,7 @@
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 일정 확률로 무장 보급을 받은 아군의 공격을 지원하며, 피격 시 회피율이 증가합니다. 회피율 증가 효과는 최대 2회 중첩됩니다.",
+    "description": "라운드 개시 시, 일정 확률로 무장 보급을 받은 아군의 공격을 지원하며, When unit is hit 회피율이 증가합니다. 회피율 증가 효과는 최대 2회 중첩됩니다.",
     "areadata": [
       7,
       8,
@@ -4187,11 +4187,11 @@
   "SpectorBS_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "전자기장 미사일 Random Fire",
+    "name": "전자기장 Missile Random Fire",
     "img": "MultiMissile",
     "range": 4,
     "AP": 6,
-    "description": "전자기장 미사일을 Random Fire해 $(1.2) 피해를 주고, 대상의 치명타 / 효과 발동/ 사거리를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.",
+    "description": "전자기장 Missile을 Random Fire해 $(1.2) 피해를 주고, 대상의 치명타 / 효과 발동/ 사거리를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.",
     "areadata": [
       8,
       9,
@@ -4306,7 +4306,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 재빠르게 대응해 행동력이 증가하며 반격합니다. 행동력 증가 효과는 3회까지 중첩됩니다.",
+    "description": "When unit is hit, 재빠르게 대응해 행동력이 증가하며 반격합니다. 행동력 증가 효과는 3회까지 중첩됩니다.",
     "areadata": [
       5
     ]
@@ -4314,11 +4314,11 @@
   "ScoutSP_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "충격탄 투하",
+    "name": "Impact Shell 투하",
     "img": "Missile",
     "range": 2,
     "AP": 6,
-    "description": "충격 미사일을 투하해 $(1.2) 피해를 주고 대상의 AP를 감소시킵니다.",
+    "description": "충격 Missile을 투하해 $(1.2) 피해를 주고 대상의 AP를 감소시킵니다.",
     "areadata": [
       7,
       4,
@@ -4373,11 +4373,11 @@
   "SpectorMS_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "교란용 전자기장 미사일",
+    "name": "Disturbing용 전자기장 Missile",
     "img": "MultiMissile",
     "range": 4,
     "AP": 6,
-    "description": "전자기장 미사일로 대상들을 교란해 $(1.2) 피해를 주고, 대상의 효과 저항 / 사거리를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.",
+    "description": "전자기장 Missile로 대상들을 Disturbing해 $(1.2) 피해를 주고, 대상의 효과 저항 / 사거리를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.",
     "areadata": [
       7,
       4,
@@ -4424,7 +4424,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 주변 아군에게 전투 패턴 분석 결과를 발신해 적중 / 치명타 / 효과 저항을 올려줍니다. 해당 효과는 3회까지 중첩됩니다.",
+    "description": "When unit is hit, 주변 아군에게 전투 패턴 분석 결과를 발신해 적중 / 치명타 / 효과 저항을 올려줍니다. 해당 효과는 3회까지 중첩됩니다.",
     "areadata": [
       7,
       8,
@@ -4570,11 +4570,11 @@
   "NightChickDEG_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "지면 교란 파장",
+    "name": "Ground Disturbing Wavelength",
     "img": "TeamDefDeBuff",
     "range": 5,
     "AP": 9,
-    "description": "교란 파장을 발산해 $(0.1) 보호 무시 피해를 주고, 3라운드 동안 표식 / 받는 피해 증가 / 적중 / 회피 감소 효과를 줍니다. 스킬 사용 시, 회피가 증가합니다. 해당 스킬은 반드시 적중하지만, 기동형 적에게는 부가 효과가 적용되지 않습니다.",
+    "description": "Deals $(0.1) damage to target area and inflicts 'Marked' / 'Damage Taken Increased'+ / ACC- / EVA- for 3 rounds.<br>Grants unit EVA+.<br>This skill always hits, but no additional effect is applied for Flying enemies.",
     "areadata": [
       8,
       4,
@@ -4586,11 +4586,11 @@
   "NightChickDEG_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "개량형 섬광탄",
+    "name": "Improved Flash Grenade",
     "img": "Beam",
     "range": 4,
     "AP": 8,
-    "description": "지정 범위에 섬광탄을 발사해 $(0.1) 피해를 주고, 대상의 AP를 감소시키며 적중 / 치명타 증가 효과를 해제합니다. 적중한 대상은 2라운드 동안 적중과 치명타가 감소합니다.",
+    "description": "지정 범위에 Flash Grenade을 발사해 $(0.1) damage to target area, reduces AP, inflicts ACC- / CRIT- for 2 rounds and removes ACC / CRIT buffs.",
     "areadata": [
       8,
       4,
@@ -4602,11 +4602,11 @@
   "NightChickDEG_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "Precise 지상 Radar",
+    "name": "Precise Ground Radar",
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "인접 아군들에게 보호막 / 피해 감소 무시 효과와 대 경장 / 중장형 피해 증가 효과를 부여합니다.",
+    "description": "Grants nearby allies Ignore Barrier / Ignore DR / Anti-Light DMG+ / Anti Heavy DMG+.",
     "areadata": [
       7,
       8,
@@ -4621,11 +4621,11 @@
   "NightChickDEG_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "정보 발신 오류",
+    "name": "Information Sending Error",
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 침수 상태로 라운드 개시 시, 오류가 발생해 아군의 적중 / 치명타 / 행동력이 감소합니다.",
+    "description": "At the start of each round , if unit is affected by 'Wet', reduce nearby allies ACC / CRIT / SPD.",
     "areadata": [
       7,
       8,
@@ -4641,11 +4641,11 @@
   "BigChickS_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "방패 연타",
+    "name": "Shield Batter",
     "img": "ShieldWall",
     "range": 3,
     "AP": 5,
-    "description": "방패 연타로 대상에게 $(1.3) 피해를 줍니다. 대상이 이동 불가 상태면 피해량이 증가하며, 높은 확률로 행동 불가 상태로 만듭니다.",
+    "description": "Deals $(1.3) damage to a single target.<br>If the target is affected by 'Rooted', Additional DMG+ and a chance to inflict 'Stunned'.",
     "areadata": [
       5
     ]
@@ -4653,11 +4653,11 @@
   "BigChickS_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칙 블로킹",
+    "name": "Chick Blocking",
     "img": "ShieldWall",
     "range": 6,
     "AP": 6,
-    "description": "방어 태세를 취해, 3라운드 동안 행 보호 / 열 보호 / 받는 피해 감소 / 효과 저항 증가 효과가 발생합니다. 자신의 HP가 25% 이하인 경우, 반격 효과가 추가됩니다.",
+    "description": "Grants unit Column Protect / Row Protect / DR+ / Status Resist+.<br>If unit's HP is below 25%, also grants 'Counterattack'.",
     "areadata": [
       5
     ]
@@ -4665,11 +4665,11 @@
   "BigChickS_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "칙 방어 지휘",
+    "name": "Chick Defense Command",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "<칙 블로킹> 상태로 라운드 개시 시, 주변 아군에게 방어력 증가 / 받는 피해 감소 효과를 줍니다.",
+    "description": "At the start of each round , if unit is affected by 'Chick Blocking', grants allies in Area of Effect DEF+ / DR+.",
     "areadata": [
       8,
       9,
@@ -4681,11 +4681,11 @@
   "BigChickS_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "칙 근성 발동",
+    "name": "Chick Muscle Trigger",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 2라운드 동안 방어력 / 행동력이 증가합니다. 라운드 개시 시, <칙 근성 발동> 방어 증가 효과가 5회 이상이면 전투 속행 효과가 추가됩니다. 전투 속행 발동 시, 2라운드 동안 최소 피해만 받지만 지속 고정 피해를 입으며 방어막과 피해 감소 효과를 무시합니다.",
+    "description": "When unit is hit, increases unit's DEF / SPD.<br>At the start of each round, if unit is affected by 5 or more 'Chick Muscle Trigger' stacks, grants unit 'Battle Continuation'.<br>When 'Battle Continuation' triggers, takes minimal damage for 2 rounds but receives fixed damage that Ignore Barrier / DR.",
     "areadata": [
       5
     ]
@@ -4693,11 +4693,11 @@
   "FallenC_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "개조 머신건",
+    "name": "Modified Machine Gun",
     "img": "MGShot",
     "range": 4,
     "AP": 4,
-    "description": "머신건 사격으로 $(1.1) 피해를 줍니다. 대상이 회피 / 방어력 감소 상태면 피해량이 증가합니다.",
+    "description": "Deals $(1.1) damage to a single target.<br>Additional DMG+ to targets affected by EVA down / DEF down.",
     "areadata": [
       5
     ]
@@ -4705,11 +4705,11 @@
   "FallenC_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "진동 분쇄탄",
+    "name": "Vibrating Crushing Bomb",
     "img": "SelfDefDeBuff",
     "range": 4,
     "AP": 6,
-    "description": "진동 분쇄탄으로 지정 범위에 $(1) 피해를 주고, 방어력 증가와 받는 피해 감소 효과를 해제합니다. 대상이 방어력 감소 상태면 피해량이 크게 증가합니다.",
+    "description": "Deals $(1) damage to a single target and removes DEF / DR buffs.<br>Additional DMG+ to targets affected by DEF down.",
     "areadata": [
       4,
       5
@@ -4718,11 +4718,11 @@
   "FallenC_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "출력 증폭",
+    "name": "Output Amplification",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "적을 공격할 때마다 출력을 증폭하여 공격력과 적중률이 증가하지만 지속 물리 피해를 입습니다.",
+    "description": "When unit attacks, increases unit's ATK / ACC but takes continuous DoT damage.",
     "areadata": [
       5
     ]
@@ -4730,11 +4730,11 @@
   "FallenC_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "과출력 유폭",
+    "name": "Overpower Explosion",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "<출력 한계 해제> 상태에서 사망 시, 주변에 고정 피해를 주며 강화 효과를 해제합니다.",
+    "description": "When unit is defeated in 'Output Limit Release' state, deals damage to surrounding allies and remove buffs.",
     "areadata": [
       8,
       4,
@@ -4745,12 +4745,12 @@
   "PuppHeadC_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "고전압 스턴건",
+    "name": "High Voltage Stun Gun",
     "img": "Shock",
     "range": 3,
     "AP": 5,
     "attr": "electric",
-    "description": "대상에게 $(1) 전기 속성 피해를 주고, AP / 회피 / 행동력을 낮춥니다. 대상이 경장 / 중장형인 경우, 일정 확률로 행동 불가로 만듭니다.",
+    "description": "Deals $(1) Electric damage to a single target, reduces AP and inflicts EVA- / SPD-.<br>If the target is Light/Heavy-type, a change to inflict 'Stunned'.",
     "areadata": [
       5
     ]
@@ -4758,11 +4758,11 @@
   "PuppHeadC_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칩입자 포획",
+    "name": "Intruder Capture",
     "img": "Hang",
     "range": 4,
     "AP": 4,
-    "description": "적중 대상을 앞으로 당겨 이동 불가 상태로 만들며, 높은 확률로 대상에게 걸린 강화 효과를 해제합니다. 스킬 사용 시, 3라운드 동안 행동력이 증가합니다.",
+    "description": "Pull Forward 2 squaresand inflicts 'Rooted'. High change to removes buffs.<br>Increase unit's SPD for 3 rounds.",
     "areadata": [
       5
     ]
@@ -4770,11 +4770,11 @@
   "PuppHeadC_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "연산 병렬처리",
+    "name": "Computation Parallel Processing",
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "인접 아군들의 연산을 보조해, 전투 개시 시 대상들의 AP / 치명타 / 행동력 / 효과 저항을 높입니다.",
+    "description": "At the start of each wave, grant allies in Area of Effect AP+ / CRIT+ / SPD+ / Effect Resist+.",
     "areadata": [
       7,
       8,
@@ -4789,11 +4789,11 @@
   "PuppHeadC_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "네트워크 오류",
+    "name": "Network Error",
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "사망 시, 2라운드 동안 인접한 아군들의 적중과 사거리가 크게 감소합니다.",
+    "description": "When unit is defeated, inflict ACC- / Range- for 2 rounds to allies in Area of Effect.",
     "areadata": [
       7,
       8,
@@ -4808,11 +4808,11 @@
   "RampartC_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "개조 기총 Diversion",
+    "name": "Modified Gun Diversion",
     "img": "ARShot",
     "range": 4,
     "AP": 4,
-    "description": "Diversion 사격으로 대상에게 $(1.1) 피해를 주고, 2라운드 동안 공격력 / 치명타 / 적중 / 행동력을 낮춥니다.",
+    "description": "Deals $(1.1) damage to a single target and inflicts ATK- / CRIT- / ACC- / SPD- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -4820,11 +4820,11 @@
   "RampartC_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "요격 태세",
+    "name": "Interception Posture",
     "img": "DefCounter",
     "range": 6,
     "AP": 6,
-    "description": "3라운드 동안 방어력이 증가하며 받는 피해가 감소합니다. 열 보호가 활성화되며, 해당 상태에서 공격받으면 반격합니다.",
+    "description": "Grants unit DEF+ / DR+ for 3 rounds.<br>Grants unit Column Protect / 'Counterattack'.",
     "areadata": [
       5
     ]
@@ -4832,11 +4832,11 @@
   "RampartC_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "Frontline 방어 대형",
+    "name": "Frontline Defense Formation",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 Frontline에 있는 상태로 라운드 개시 시, 범위 내 아군을 지정 대상 보호하며 대상의 AP를 증가시킵니다.",
+    "description": "At the start of each round, if unit is in the Frontline, Target Protect allies in Area of Effect.",
     "areadata": [
       8,
       6,
@@ -4846,11 +4846,11 @@
   "RampartC_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "긴급 지원 요청",
+    "name": "Emergency Assistance Request",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시 자신의 HP가 25% 이하인 경우, 아군 공격기에게 지원을 요청해 대상의 AP / 공격력 / 행동력을 증가시킵니다.",
+    "description": "At the start of each round with below 25% HP, grant Attacker allies in Area of Effect AP+ / ATK+ / SPD+.",
     "areadata": [
       7,
       8,
@@ -4866,12 +4866,12 @@
   "DroneM_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "폭뢰 발사",
+    "name": "Lightning Launch",
     "img": "Missile",
     "range": 3,
     "AP": 5,
     "attr": "fire",
-    "description": "폭뢰를 발사해 $(1) 화염 속성 피해를 줍니다. 치명타 시, 추가 화염 피해를 주며 대상이 중장형인 경우 피해량이 증가합니다.",
+    "description": "Deals $(1) Fire damage to a single target.<br>Additional DMG+ when crits.<br>Additional Anti-Heavy DMG+.",
     "areadata": [
       5
     ]
@@ -4879,11 +4879,11 @@
   "DroneM_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "지상 분석 Radar",
+    "name": "Ground Analysis Radar",
     "img": "Scan",
     "range": 5,
     "AP": 9,
-    "description": "중장형 적을 분석해 3라운드 동안 대상의 공격력 / 방어력 / 치명타 / 적중 / 회피를 낮춥니다. 스킬 사용 시, 3라운드 동안 행동력이 증가합니다. 경장형/기동형 적에게는 효과가 없습니다.",
+    "description": "Inflicts ATK- / DEF- / CRIT- / ACC- / EVA- for 3 rounds to Heavy-type targets.<br>Increase unit's SPD for 3 rounds.<br>No effect on Light/Flying-type targets.",
     "areadata": [
       7,
       8,
@@ -4899,11 +4899,11 @@
   "DroneM_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "방어 대열 지원",
+    "name": "Defensive Line Support",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 지정 대상 보호를 받고 있는 상태에서 아군 사망 시, 아군 보호기의 공격을 지원하며 대상의 AP를 상승시킵니다.",
+    "description": "When an ally is defeated while affected by 'Target Protect', grants Defender allies 'Follow Up Attack' / AP+.",
     "areadata": [
       7,
       8,
@@ -4919,11 +4919,11 @@
   "DroneM_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "핀 포인트 폭격",
+    "name": "Pin-Point Bombing",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 Frontline일 경우, 방어막 / 피해 감소 효과를 무시하며 방어 관통이 크게 증가합니다.",
+    "description": "At the start of each round, if unit is in the frontline, grants unit Ignore Barrier / DR and Def Pen.",
     "areadata": [
       5
     ]
@@ -4931,11 +4931,11 @@
   "AMG11AA_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "회피 Diversion 사격",
+    "name": "Evasion Diversion Shooting",
     "img": "ARShot",
     "range": 5,
     "AP": 4,
-    "description": "기총 사격으로 $(1.1) 피해를 주고, 대상을 표식으로 설정해 회피를 낮추고 받는 피해를 증가시킵니다. 회피 감소 효과는 기동형에게 2배로 적용됩니다.",
+    "description": "Deals $(1.1) damage to a single target, and inflicts 'Marked' / 'Damage Taken Increased'+ / EVA-.<br>EVA- effect doubles for Flying-type.",
     "areadata": [
       5
     ]
@@ -4943,11 +4943,11 @@
   "AMG11AA_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "대공 기총 Random Fire",
+    "name": "Anti-Aircraft Gun Random Fire",
     "img": "WideBeamShot",
     "range": 3,
     "AP": 7,
-    "description": "기총을 Random Fire해 $(1) 피해를 주고, 대상들의 회피를 낮춥니다. 대상이 기동형인 경우 피해량이 증가하고, 회피 감소 효과가 2배로 적용되며 회피 증가 효과를 해제합니다.",
+    "description": "Deals $(1) damage to target area and inflict EVA-.<br>If the target is Flying-type, Additional Anti-Flying DMG+, doubles EVA- effect and removes EVA buffs.",
     "areadata": [
       7,
       4,
@@ -4958,11 +4958,11 @@
   "AMG11AA_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "대공 Radar 시스템",
+    "name": "Anti-Aircraft Radar System",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 인접 아군의 적중 / 치명타 / 대 기동형 피해량을 증가시킵니다.",
+    "description": "At the start of each round, grants allies in Area of Effect ACC+ / CRIT+ / Anti-Flying DMG+.",
     "areadata": [
       7,
       8,
@@ -4977,11 +4977,11 @@
   "AMG11AA_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "대공망 감시",
+    "name": "Anti-Aircraft Surveillance",
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 80%의 확률로 모든 기동형 적들의 회피율을 감소 시킵니다.",
+    "description": "At the start of each round, 80% chance to inflict EVA- to all Flying-type targets.",
     "areadata": [
       7,
       8,
@@ -4997,12 +4997,12 @@
   "StingerC_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "냉동 가스 분사",
+    "name": "Freezing Gas Injection",
     "img": "Beam",
     "range": 3,
     "AP": 6,
     "attr": "ice",
-    "description": "대상에게 냉동 가스를 분사해 $(1.2) 냉기 속성 피해를 주고, 50% 확률로 3라운드 동안 냉기 / 전기 저항을 낮춥니다. 대상이 경장형일 경우 피해량이 증가하고 대상에게 냉기 저항 감소 효과가 이미 적용되어 있는 경우, 50% 확률로 행동 불가 / 받는 피해 증가 / 강화 해제 상태로 만듭니다.",
+    "description": "Deals $(1.2) Ice damage to a single target with 50% to reduce Ice / Electric Resist for 3 rounds.<br>Additional Anti-Light DMG+.<br>If the target is already affected by Ice Resist-, 50% chance to inflict 'Frozen' and remove Buffs.<br>Targets affected by 'Frozen' are 'Stunned' and 'Taken Taken Increased'.",
     "areadata": [
       5
     ]
@@ -5010,11 +5010,11 @@
   "StingerC_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "일점 돌파",
+    "name": "Pin-Point Breakthrough",
     "img": "AssaultAttack",
     "range": 4,
     "AP": 8,
-    "description": "대상에게 돌격해 $(2) 피해를 줍니다. 대상이 빙결 상태인 경우, 피해량이 크게 증가합니다.",
+    "description": "Deals $(2) damage to a single target.<br>Additional DMG+ to targets affected by 'Frozen'.",
     "areadata": [
       5
     ]
@@ -5022,11 +5022,11 @@
   "StingerC_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "침입자 Alert",
+    "name": "Intruder Alert",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 공격한 적에게만 집중해 2라운드 동안 치명타가 증가하지만 받는 피해도 증가합니다.",
+    "description": "When unit attacks, increases unit's CRIT but inflicts 'Damage Taken Increased'.",
     "areadata": [
       5
     ]
@@ -5034,11 +5034,11 @@
   "StingerC_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "강습 준비",
+    "name": "Assault Preparation",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "지정 대상 보호를 받는 상태로 라운드 개시 시, 공격력과 치명타가 증가합니다.",
+    "description": "At the start of each round, if unit is affected by 'Target Protect', grants unit ATK+ / CRIT+.",
     "areadata": [
       5
     ]
@@ -5115,7 +5115,7 @@
   "LegionElite_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "포획탄 발사",
+    "name": "포획탄 Launch",
     "img": "SelfSpdDeBuff",
     "range": 5,
     "AP": 4,
@@ -5177,11 +5177,11 @@
   "Testudo_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "무장 파괴",
+    "name": "Armed Destruction",
     "img": "ARShot",
     "range": 4,
     "AP": 3,
-    "description": "대상에게 $(1) 피해를 주고, 일정 확률로 3라운드 동안 공격력 / 치명타 / 적중을 낮춥니다.",
+    "description": "Deals $(1) damage to a single target with a chance to inflict ATK- / CRIT- / ACC- for 3 rounds.",
     "areadata": [
       5
     ]
@@ -5189,11 +5189,11 @@
   "Testudo_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "진형 사수",
+    "name": "Marksman Formation",
     "img": "DefCounter",
     "range": 6,
     "AP": 7,
-    "description": "3라운드 동안 방어막 / 행 보호가 적용되며 받는 피해가 감소합니다. 해당 상태에서 공격받으면 반격합니다.",
+    "description": "Grants unit Row / Column Protect / DR+ / 'Counterattack'.",
     "areadata": [
       5
     ]
@@ -5201,11 +5201,11 @@
   "Testudo_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "방진 전개",
+    "name": "Phalanx Deployment",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시 열 보호 효과가 적용되며, 3라운드 동안 범위 내 아군이 받는 피해가 크게 감소합니다.",
+    "description": "At the start of wach wave, grants unit Column Protect and grants allies in Area of Effect DR+ for 3 rounds.",
     "areadata": [
       8,
       9,
@@ -5218,11 +5218,11 @@
   "Testudo_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "출력 오버로드",
+    "name": "Output Overload",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "아군이 처치될 때마다 방어력이 증가합니다. 아군이 5기 이상 처치되면 공격 능력이 대폭 증가하며, 방어막과 피해 감소 효과를 무시하지만 지속 고정 피해를 입습니다. 해당 상태에서 처치될 경우, <방진 전개> 범위 안에 있는 아군에게 괴멸적인 고정 피해를 줍니다.",
+    "description": "Each time an ally is defeated, increases unit's DEF.<br>If 5 or more allies are defeated, grants unit ATK+ / Ignore Barrier / Ignore DR but takes DoT damage at the end of the round.<br>When defeated in this state, deals damage to allies in Phalanx Deployment Area of Effect.",
     "areadata": [
       5
     ]
@@ -5230,11 +5230,11 @@
   "CenturionG_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "집속 연장 미사일",
+    "name": "Focus Extended Missile",
     "img": "MultiMissile",
     "range": 6,
     "AP": 4,
-    "description": "지정 범위에 $(1) 피해를 주고, 3라운드 동안 대상을 표식 / 받는 피해 증가 상태로 만들고 AP를 감소시킵니다. 일정 확률로 적중 대상의 강화 효과를 해제합니다.",
+    "description": "Deals $(1) damage to target area, reduces AP and inflicts 'Marked' / 'Damage Taken Increased' for 3 rounds with a chance to removes buffs.",
     "areadata": [
       8,
       4,
@@ -5246,11 +5246,11 @@
   "CenturionG_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "출력 한도 해제",
+    "name": "Output Limit Release",
     "img": "TeamAtkBuff",
     "range": 6,
     "AP": 8,
-    "description": "주변 아군의 공격력 / 치명타 / 행동력을 증가시키고 방어막과 받는 피해 감소 무시 효과를 부여합니다. 해당 효과를 받은 대상은 지속 고정 피해를 입습니다.",
+    "description": "Grants nearby allies ATK+ / CRIT+ / SPD+ / Ignore Barrier / Ignore DR.<br>Affected targets take continuous damage.",
     "areadata": [
       7,
       8,
@@ -5265,11 +5265,11 @@
   "CenturionG_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "전황 분석",
+    "name": "Situation Analysis",
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 모든 아군의 AP가 증가하며 2라운드 동안 효과 저항이 대폭 증가합니다.",
+    "description": "When unit is hit, increases all allies AP / Status Resist.",
     "areadata": [
       7,
       8,
@@ -5285,11 +5285,11 @@
   "CenturionG_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "현장 수습",
+    "name": "Field Probation",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "아군이 처치될 경우, 일정 라운드 동안 반격하며 주변 아군과 자신이 받는 피해가 감소하고 행동력이 증가합니다.",
+    "description": "When an ally is defeated, grants unit 'Counterattack' for a round and grants allies in Area of Effect DR+ / SPD+.",
     "areadata": [
       8,
       4,
@@ -5301,11 +5301,11 @@
   "CenturionG_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "지휘 중추 상실",
+    "name": "Command Center Loss",
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 처치될 경우, 모든 아군의 공격력 / 치명타 / 적중 /행동력이 크게 감소하며 받는 피해가 증가합니다.",
+    "description": "When unit is defeated, inflicts all allies ATK- / CRIT- / ACC- / SPD- / 'Damage Taken Increased'.",
     "areadata": [
       7,
       8,
@@ -5321,11 +5321,11 @@
   "SeljuqA_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "산탄 포격",
+    "name": "Shoot Shelling",
     "img": "CannonShotWide",
     "range": 4,
     "AP": 4,
-    "description": "지정 범위에 $(0.8) 피해를 줍니다. 대상이 방어 감소 또는 이동 불가 상태면 피해량이 크게 증가합니다.",
+    "description": "Deals $(0.8) damage to target area.<br>Additional DMG+ to targets affected by 'Rooted' / DEF-.",
     "areadata": [
       7,
       4,
@@ -5336,11 +5336,11 @@
   "SeljuqA_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "확산형 곡사포",
+    "name": "Diffuse Howitzer",
     "img": "CannonShotDelay",
     "range": 5,
     "AP": 6,
-    "description": "지정 범위에 $(1.1) 보호 무시 피해를 줍니다. 목표 지점 주변은 피해가 75%만 적용되며, 대상이 경장형 또는 기동형이면 피해량이 크게 증가합니다.",
+    "description": "Deals $(1.1) damage to target area that Ignore Protect.<br>Damage decreases to 75% on non-center area.<br>Additional Anti-Light/Flying DMG+.",
     "areadata": [
       0,
       0.75,
@@ -5356,11 +5356,11 @@
   "SeljuqA_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "포격 보정",
+    "name": "Shelling Correction",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 적의 움직임을 분석해 5라운드 동안 적중 / 치명타가 증가합니다.",
+    "description": "When unit attacks, grant unit  ACC+ / CRIT+ for 5 rounds.",
     "areadata": [
       5
     ]
@@ -5368,11 +5368,11 @@
   "SeljuqA_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "증가 장갑",
+    "name": "Increase Armor",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 방어력이 크게 증가합니다. 해당 효과는 5회 피격되거나 전기 속성 공격을 맞으면 해제됩니다.",
+    "description": "At the start of each wave, increase unit's DEF.<br>Effect is removed after unit is hit 5 times or when unit is hit with an Electric attack.",
     "areadata": [
       5
     ]
@@ -5380,11 +5380,11 @@
   "GigantesC_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "너클 버스터",
+    "name": "Knuckle Buster",
     "img": "MeleeAttack",
     "range": 1,
     "AP": 8,
-    "description": "대상을 강타해 $(2.4) 피해를 주고 뒤로 한 칸 밉니다. 자신의 HP %가 낮을수록 피해량이 증가하며, 20% 이하인 경우 방어막과 피해 감소 효과를 무시합니다.",
+    "description": "Deals $(2.4) damage to a single target, Push Back 1 space.<br>The lower unit's HP, the higher the damage.<br>If unit's HP is below 20%, Ignore Barrier / Ignore DR.",
     "areadata": [
       5
     ]
@@ -5392,11 +5392,11 @@
   "GigantesC_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "차지 스매시",
+    "name": "Charge Smash",
     "img": "AssaultAttack",
     "range": 2,
     "AP": 4,
-    "description": "대상을 밀쳐 $(1) 피해를 주고 2칸 뒤로 날립니다. 피격 대상은 AP가 감소합니다.",
+    "description": "Deals $(1) damage to a single target, Push Back and decreases AP.",
     "areadata": [
       5
     ]
@@ -5404,11 +5404,11 @@
   "GigantesC_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "개량형 방어 OS",
+    "name": "Improved Defense OS",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, HP가 20% 이하일 경우 방어력과 효과 저항이 크게 증가합니다. 해당 상태에서 전기 공격에 피격 시 OS가 오작동을 일으켜 해제됩니다.",
+    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When unit is hit with an ELectric Attack, removes this effect.",
     "areadata": [
       5
     ]
@@ -5416,11 +5416,11 @@
   "GigantesC_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "거점 순찰",
+    "name": "Base Patrol",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "인접한 보호기 제외 아군을 보호하며 대상의 행동력을 증가시킵니다.",
+    "description": "At the start of each round, grants Target Protect / SPD+ to non-Defender allies in Area of Effect.",
     "areadata": [
       8,
       4,
@@ -5530,7 +5530,7 @@
   "RocC_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "전자기파 파장",
+    "name": "전자기파 Wavelength",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
@@ -5591,11 +5591,11 @@
   "GigantesC_EV2_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "개량형 방어 OS",
+    "name": "Improved Defense OS",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 공격하기 전까지는 방어력과 효과 저항이 크게 증가합니다.",
+    "description": "Increase unit's DEF / Status Resist until unit attacks",
     "areadata": [
       5
     ]
@@ -5697,11 +5697,11 @@
   "RocC_EV2_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "전자기파 파장",
+    "name": "전자기파 Wavelength",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "<전하 충전> 중첩 수에 비례해 회피가 증가하며, 회피 시 반격합니다. 자신의 HP가 25% 이하인 상태로 적을 공격할 때, 회피가 추가로 증가합니다. 냉기 속성 공격 피격 시, 회피 강화 효과가 해제됩니다.",
+    "description": "<전하 충전> 중첩 수에 비례해 회피가 증가하며, 회피 시 반격합니다. 자신의 HP가 25% 이하인 상태로 적을 공격할 때, 회피가 추가로 증가합니다. 냉기 속성 공격 When unit is hit, 회피 강화 효과가 해제됩니다.",
     "areadata": [
       5
     ]
@@ -5741,7 +5741,7 @@
   "Undine_EV1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "2연장 리볼버 캐논",
+    "name": "Double 리볼버 캐논",
     "img": "MGShot",
     "range": 3,
     "AP": 5,
@@ -5753,11 +5753,11 @@
   "Undine_EV1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "F.F 미사일",
+    "name": "F.F Missile",
     "img": "Missile",
     "range": 4,
     "AP": 8,
-    "description": "날치 미사일로 $(1.8) 피해를 줍니다. 대상의 받는 피해 감소 효과를 무시하며, 대상이 방어력 감소 상태이거나 경장형이면 피해량이 증가합니다.",
+    "description": "날치 Missile로 $(1.8) 피해를 줍니다. 대상의 받는 피해 감소 효과를 무시하며, 대상이 방어력 감소 상태이거나 경장형이면 피해량이 증가합니다.",
     "areadata": [
       5
     ]
@@ -5798,7 +5798,7 @@
   "Undine_EV2_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "2연장 리볼버 캐논",
+    "name": "Double 리볼버 캐논",
     "img": "MGShot",
     "range": 3,
     "AP": 6,
@@ -5810,11 +5810,11 @@
   "Undine_EV2_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "F.F 미사일",
+    "name": "F.F Missile",
     "img": "Missile",
     "range": 4,
     "AP": 9,
-    "description": "날치 미사일로 $(2.1) 피해를 줍니다. 대상의 방어력을 무시하며, 대상이 도발 상태 또는 중장형이면 피해량이 증가합니다.",
+    "description": "날치 Missile로 $(2.1) 피해를 줍니다. 대상의 방어력을 무시하며, 대상이 도발 상태 또는 중장형이면 피해량이 증가합니다.",
     "areadata": [
       5
     ]
@@ -5855,7 +5855,7 @@
   "Undine_EV3_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "2연장 리볼버 캐논",
+    "name": "Double 리볼버 캐논",
     "img": "MGShot",
     "range": 3,
     "AP": 4,
@@ -5867,11 +5867,11 @@
   "Undine_EV3_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "F.F 미사일",
+    "name": "F.F Missile",
     "img": "Missile",
     "range": 4,
     "AP": 7,
-    "description": "날치 미사일로 $(1.5) 피해를 줍니다. 대상의 회피 강화 효과를 해제하며, 대상이 도발 상태 또는 기동형이면 피해량이 증가합니다.",
+    "description": "날치 Missile로 $(1.5) 피해를 줍니다. 대상의 회피 강화 효과를 해제하며, 대상이 도발 상태 또는 기동형이면 피해량이 증가합니다.",
     "areadata": [
       5
     ]
@@ -6005,7 +6005,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신의 남은 HP 비율이 적을수록 적에게 주는 피해가 증가하며, 받는 피해가 감소합니다. 효과 저항이 증가하며, HP 10% 이하 상태로 피격 시 반격합니다.",
+    "description": "자신의 남은 HP 비율이 적을수록 적에게 주는 피해가 증가하며, 받는 피해가 감소합니다. 효과 저항이 증가하며, HP 10% 이하 상태로 When unit is hit 반격합니다.",
     "areadata": [
       5
     ]
@@ -6045,7 +6045,7 @@
   "Undine_EV4_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "2연장 리볼버 캐논",
+    "name": "Double 리볼버 캐논",
     "img": "MGShot",
     "range": 3,
     "AP": 5,
@@ -6057,11 +6057,11 @@
   "Undine_EV4_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "F.F 미사일",
+    "name": "F.F Missile",
     "img": "Missile",
     "range": 4,
     "AP": 8,
-    "description": "날치 미사일로 $(1.8) Def Pen피해를 줍니다. 대상이 표식 상태면 피해량이 크게 증가합니다.",
+    "description": "날치 Missile로 $(1.8) Def Pen피해를 줍니다. 대상이 표식 상태면 피해량이 크게 증가합니다.",
     "areadata": [
       5
     ]
@@ -6216,7 +6216,7 @@
   "Sirene_EV1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "포격 지휘",
+    "name": "Shelling 지휘",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 8,
@@ -6267,7 +6267,7 @@
   "Sirene_EV1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "관측 포격",
+    "name": "관측 Shelling",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
@@ -6283,7 +6283,7 @@
     "img": "CannonShot",
     "range": 5,
     "AP": 10,
-    "description": "직사 포격으로 지정 범위에 $(2) 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "description": "직사 Shelling으로 지정 범위에 $(2) 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
     "areadata": [
       8,
       5
@@ -6292,11 +6292,11 @@
   "Sirene_EV2_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "초토화 포격",
+    "name": "초토화 Shelling",
     "img": "AirStrike",
     "range": 5,
     "AP": 10,
-    "description": "포격 연사로 지정 범위에 $(1.5) 보호 무시 피해를 줍니다. 목표 지점 주변은 피해량이 25% 감소하며, 대상이 경장 / 중장형이면 피해량 증가하며 1칸 뒤로 밉니다. 스킬 사용 시, 2라운드 동안 행동 불가가 됩니다.",
+    "description": "Shelling 연사로 지정 범위에 $(1.5) 보호 무시 피해를 줍니다. 목표 지점 주변은 피해량이 25% 감소하며, 대상이 경장 / 중장형이면 피해량 증가하며 1칸 뒤로 밉니다. 스킬 사용 시, 2라운드 동안 행동 불가가 됩니다.",
     "areadata": [
       0.75,
       0.75,
@@ -6331,7 +6331,7 @@
   "Sirene_EV2_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "포격 모드",
+    "name": "Shelling 모드",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
@@ -6343,7 +6343,7 @@
   "Sirene_EV2_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "관측 포격",
+    "name": "관측 Shelling",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
@@ -6420,7 +6420,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "화염 속성 액티브 스킬 공격 피격 시, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
+    "description": "화염 속성 액티브 스킬 공격 When unit is hit, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
     "areadata": [
       7,
       8,
@@ -6436,11 +6436,11 @@
   "BigChickMG_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "파쇄 미사일",
+    "name": "파쇄 Missile",
     "img": "CruiseMissile",
     "range": 6,
     "AP": 7,
-    "description": "1라운드 후 착탄하며, $(3) 보호 무시 피해를 주는 미사일을 발사합니다. 대상이 경장형 또는 중장형인 경우, 피해량이 크게 증가합니다.",
+    "description": "1라운드 후 착탄하며, $(3) 보호 무시 피해를 주는 Missile을 발사합니다. 대상이 경장형 또는 중장형인 경우, 피해량이 크게 증가합니다.",
     "areadata": [
       5
     ]
@@ -6448,11 +6448,11 @@
   "BigChickMG_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "집속 마이크로 미사일",
+    "name": "집속 마이크로 Missile",
     "img": "MultiMissile",
     "range": 4,
     "AP": 3,
-    "description": "지정 범위에 $(0.25) 보호 무시 피해를 주는 집속 마이크로 미사일을 발사합니다. 3라운드 동안 공격 대상들의 회피를 감소시킵니다. 200%의 추가 적중 보정이 적용됩니다.",
+    "description": "지정 범위에 $(0.25) 보호 무시 피해를 주는 집속 마이크로 Missile을 발사합니다. 3라운드 동안 공격 대상들의 회피를 감소시킵니다. 200%의 추가 적중 보정이 적용됩니다.",
     "areadata": [
       8,
       4,
@@ -6492,7 +6492,7 @@
     "img": "SelfAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "전기 속성 피격 시, 2라운드 동안 적중이 대폭 감소합니다.",
+    "description": "전기 속성 When unit is hit, 2라운드 동안 적중이 대폭 감소합니다.",
     "areadata": [
       5
     ]
@@ -6500,7 +6500,7 @@
   "NightChickCMS_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "강화 화학탄 발사",
+    "name": "강화 화학탄 Launch",
     "img": "Missile",
     "range": 4,
     "AP": 4,
@@ -6512,7 +6512,7 @@
   "NightChickCMS_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "집속 화학탄 발사",
+    "name": "집속 화학탄 Launch",
     "img": "Missile",
     "range": 4,
     "AP": 8,
@@ -6675,7 +6675,7 @@
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "화염 속성 액티브 스킬 공격 피격 시, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
+    "description": "화염 속성 액티브 스킬 공격 When unit is hit, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
     "areadata": [
       7,
       8,
@@ -6691,7 +6691,7 @@
   "NightChickShEx_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 방패 강타",
+    "name": "칙 Shield 강타",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
@@ -6727,7 +6727,7 @@
   "NightChickShEx_TU3_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 방패 강타",
+    "name": "칙 Shield 강타",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
@@ -6775,11 +6775,11 @@
   "NightChickDEX_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "강화 섬광탄",
+    "name": "강화 Flash Grenade",
     "img": "Beam",
     "range": 4,
     "AP": 8,
-    "description": "지정한 위치에 섬광탄을 발사해 $(0.5) 피해를 주고, 2라운드 동안 적중 / 치명타를 낮춥니다. 적중 대상은 AP가 감소합니다.",
+    "description": "지정한 위치에 Flash Grenade을 발사해 $(0.5) 피해를 주고, 2라운드 동안 적중 / 치명타를 낮춥니다. 적중 대상은 AP가 감소합니다.",
     "areadata": [
       8,
       4,
@@ -6795,7 +6795,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 모든 아군의 AP / 적중 / 치명타 / 사거리가 증가합니다. 냉기 속성 액티브 스킬 피격 시 아군의 적중 / 치명타 / 사거리 증가 효과가 해제되며, 2라운드 동안 아군들의 적중 / 치명타가 감소합니다.",
+    "description": "전투 개시 시, 모든 아군의 AP / 적중 / 치명타 / 사거리가 증가합니다. 냉기 속성 액티브 스킬 When unit is hit 아군의 적중 / 치명타 / 사거리 증가 효과가 해제되며, 2라운드 동안 아군들의 적중 / 치명타가 감소합니다.",
     "areadata": [
       7,
       8,
@@ -6811,11 +6811,11 @@
   "NightChickDEX_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Radar 교란",
+    "name": "Radar Disturbing",
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 모든 적군의 AP / 적중 / 치명타 / 사거리가 감소합니다. 냉기 속성 액티브 스킬 피격 시 적에게 건 적중 / 치명타 / 사거리 감소 효과가 해제되며, 9라운드 동안 적들의 적중 / 치명타가 증가합니다.",
+    "description": "전투 개시 시, 모든 적군의 AP / 적중 / 치명타 / 사거리가 감소합니다. 냉기 속성 액티브 스킬 When unit is hit 적에게 건 적중 / 치명타 / 사거리 감소 효과가 해제되며, 9라운드 동안 적들의 적중 / 치명타가 증가합니다.",
     "areadata": [
       7,
       8,
@@ -6831,7 +6831,7 @@
   "Tarantula_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "히트 머신건",
+    "name": "히트 Machine Gun",
     "img": "MeleeAttack",
     "range": 4,
     "AP": 4,
@@ -6893,7 +6893,7 @@
   "NightChickShEx_TU4_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 방패 강타",
+    "name": "칙 Shield 강타",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
@@ -6997,11 +6997,11 @@
   "MammothW_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "확산 포격",
+    "name": "확산 Shelling",
     "img": "CannonShotWide",
     "range": 2,
     "AP": 6,
-    "description": "포격으로 지정 범위에 $(1) 피해를 줍니다. 대상이 회피 / 방어력 감소 상태면 피해량이 증가합니다.",
+    "description": "Shelling으로 지정 범위에 $(1) 피해를 줍니다. 대상이 회피 / 방어력 감소 상태면 피해량이 증가합니다.",
     "areadata": [
       7,
       4,
@@ -7016,7 +7016,7 @@
     "img": "CannonShotDelay",
     "range": 6,
     "AP": 6,
-    "description": "1라운드 뒤에 착탄하는 포격으로 지정 범위에 $(1.35) 보호 무시 피해를 줍니다. 목표 지점은 50% 피해만 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "description": "1라운드 뒤에 착탄하는 Shelling으로 지정 범위에 $(1.35) 보호 무시 피해를 줍니다. 목표 지점은 50% 피해만 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
     "areadata": [
       0,
       1,
@@ -7056,7 +7056,7 @@
   "LegionMk2_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "개량형 미니건",
+    "name": "Improved 미니건",
     "img": "MGShot",
     "range": 5,
     "AP": 4,
@@ -7113,7 +7113,7 @@
   "Frostbite_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "파쇄탄 발사",
+    "name": "파쇄탄 Launch",
     "img": "ShotGun",
     "range": 4,
     "AP": 5,
@@ -7186,7 +7186,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 방어력이 대폭 증가합니다. 해당 효과는 강화 효과 해제로 해제할 수 없으며, 화염 속성 공격 피격 시 해제됩니다.",
+    "description": "전투 개시 시, 방어력이 대폭 증가합니다. 해당 효과는 강화 효과 해제로 해제할 수 없으며, 화염 속성 공격 When unit is hit 해제됩니다.",
     "areadata": [
       5
     ]
@@ -7194,11 +7194,11 @@
   "NightChickDEAA_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Radar 교란 파장",
+    "name": "Radar Disturbing Wavelength",
     "img": "Scan",
     "range": 5,
     "AP": 8,
-    "description": "교란 파장으로 $(0.1) 보호 무시 피해를 줍니다. 범위 내 대상들은 2라운드 동안 회피 감소 / 받는 피해 증가 상태가 됩니다. 대상이 기동형일 경우, 효과가 2배가 되며 회피 증가 효과를 해제합니다.",
+    "description": "Disturbing Wavelength으로 $(0.1) 보호 무시 피해를 줍니다. 범위 내 대상들은 2라운드 동안 회피 감소 / 받는 피해 증가 상태가 됩니다. 대상이 기동형일 경우, 효과가 2배가 되며 회피 증가 효과를 해제합니다.",
     "areadata": [
       8,
       4,
@@ -7214,7 +7214,7 @@
     "img": "GrenadeAttack_1",
     "range": 5,
     "AP": 8,
-    "description": "섬광탄으로 지정 범위에 $(0.2) 보호 무시 피해를 줍니다. 적중 대상은 3라운드 동안 치명타 / 적중 / Def Pen감소 상태가 됩니다. 3라운드 동안 자신의 행동력이 증가합니다.",
+    "description": "Flash Grenade으로 지정 범위에 $(0.2) 보호 무시 피해를 줍니다. 적중 대상은 3라운드 동안 치명타 / 적중 / Def Pen감소 상태가 됩니다. 3라운드 동안 자신의 행동력이 증가합니다.",
     "areadata": [
       8,
       5,
@@ -7264,7 +7264,7 @@
   "NightChick_C_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 머신건",
+    "name": "칙 Machine Gun",
     "img": "Shot",
     "range": 5,
     "AP": 4,
@@ -7276,7 +7276,7 @@
   "NightChick_C_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칙 머신건 속사",
+    "name": "칙 Machine Gun Rapid Fire",
     "img": "Snipe",
     "range": 6,
     "AP": 3,
@@ -7325,7 +7325,7 @@
   "NightChickM_C_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 미사일",
+    "name": "칙 Missile",
     "img": "Missile",
     "range": 4,
     "AP": 5,
@@ -7337,7 +7337,7 @@
   "NightChickM_C_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "풀 오픈 칙 미사일",
+    "name": "풀 오픈 칙 Missile",
     "img": "MultiMissile",
     "range": 5,
     "AP": 8,
@@ -7414,11 +7414,11 @@
   "NightChickS_C_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "칙 방패 방어술 (고급)",
+    "name": "칙 Shield 방어술 (고급)",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 모든 저항이 증가하며 해로운 효과를 해제합니다. 피격 시, <칙 방패 올리기> 효과가 발동해 2라운드 동안 방어력이 증가합니다. <칙 방패 올리기> 방어력 중첩이 7 이상인 상태에서 추가 피격 시, 해당 효과를 해제하고 해당 라운드 동안 해제 불가능한 피해 최소화 / 반격 효과가 적용됩니다.",
+    "description": "라운드 개시 시, 모든 저항이 증가하며 해로운 효과를 해제합니다. When unit is hit, <칙 Shield 올리기> 효과가 발동해 2라운드 동안 방어력이 증가합니다. <칙 Shield 올리기> 방어력 중첩이 7 이상인 상태에서 추가 When unit is hit, 해당 효과를 해제하고 해당 라운드 동안 해제 불가능한 피해 최소화 / 반격 효과가 적용됩니다.",
     "areadata": [
       5
     ]
@@ -7430,7 +7430,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 주변 아군들에게 <칙 복원 시스템> 효과가 적용됩니다. 라운드 개시 시, <칙 방패 올리기>중첩이 7 이면 <복원 시스템 오류> 상태가 되어 주변 아군의 <칙 복원 시스템>을 해제합니다. <칙 복원 시스템>은 자신이 <복원 시스템 오류> 상태가 아니면 라운드 개시 시, 다시 활성화됩니다.",
+    "description": "전투 개시 시, 주변 아군들에게 <칙 복원 시스템> 효과가 적용됩니다. 라운드 개시 시, <칙 Shield 올리기>중첩이 7 이면 <복원 시스템 오류> 상태가 되어 주변 아군의 <칙 복원 시스템>을 해제합니다. <칙 복원 시스템>은 자신이 <복원 시스템 오류> 상태가 아니면 라운드 개시 시, 다시 활성화됩니다.",
     "areadata": [
       7,
       8,
@@ -7541,11 +7541,11 @@
   "NightChickSpCH_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "머신건 Diversion 사격",
+    "name": "Machine Gun Diversion 사격",
     "img": "ARShot",
     "range": 6,
     "AP": 4,
-    "description": "머신건 Diversion 사격으로 $(1) 피해를 주며 방어력을 3라운드 동안 감소 시킵니다.",
+    "description": "Machine Gun Diversion 사격으로 $(1) 피해를 주며 방어력을 3라운드 동안 감소 시킵니다.",
     "areadata": [
       5
     ]
@@ -7553,11 +7553,11 @@
   "NightChickSpCH_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "머신건 연사",
+    "name": "Machine Gun 연사",
     "img": "ARShot",
     "range": 1,
     "AP": 6,
-    "description": "머신건을 조준 사격해 $(1.2) 피해를 줍니다. 3라운드 동안 받는 피해가 증가하는 상태로 만듭니다.",
+    "description": "Machine Gun을 조준 사격해 $(1.2) 피해를 줍니다. 3라운드 동안 받는 피해가 증가하는 상태로 만듭니다.",
     "areadata": [
       5
     ]
@@ -7601,11 +7601,11 @@
   "RampartC_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "공격 대형",
+    "name": "Offense Formation",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 중열에 있는 상태로 라운드 개시 시, 범위 내 아군에게 적중 / 행동력을 증가시킵니다. 하지만 중열에 있는 상태에서 전기 공격에 피격 시 2라운드 동안 범위 내 아군의 공격력 / 방어력이 감소합니다.",
+    "description": "At the start of the round, if unit is in the Middleline, grant allies in Area of Effect ACC+ / SPD+.<br>If unit is hit by an Electric attack when unit is in the Middleline, inflicts ATK- / DEF- to allies in Area of Effect for 2 rounds.",
     "areadata": [
       8,
       5,
@@ -7615,11 +7615,11 @@
   "FallenC_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "출력 한계 해제",
+    "name": "Output Limit Release",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, <출력 증폭>이 10중첩 이상인 상태라면 방어막 / 피해 감소 효과를 무시하며 Def Pen효과가 부여 됩니다. <출력 한계 해제> 상태에서 전기 공격에 피격 시 행동력이 감소합니다.",
+    "description": "At the start of the round, if unit is affected by 10 or more 'Output Amplification' stacks, grant unit's Ignore Barrier / DR and Def Pen.<br>If unit is hit with an Electric attack while in 'Output Limit Release' state, decrease unit's SPD.",
     "areadata": [
       5
     ]
@@ -7627,11 +7627,11 @@
   "StingerC_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "경장갑 파괴",
+    "name": "Light-Armored Destruction",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "회피 시, 3라운드 동안 대 경장형 피해량이 증가합니다.",
+    "description": "When evades, grants unit Anti-Light DMG+ for 3 rounds.",
     "areadata": [
       5
     ]
@@ -7639,11 +7639,11 @@
   "DroneM_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "중갑 파괴",
+    "name": "Heavy-Armored Destruction",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신이 중열일 경우, 자신의 앞과 뒤에 있는 아군에게 대 중장 피해량을 증가 시키고 Def Pen효과를 부여 합니다.",
+    "description": "At the start of the round, if unit is in the Middleline, grants allies in Area of Effect Anti-Heavy DMG+ / Def Pen.",
     "areadata": [
       4,
       6
@@ -7652,11 +7652,11 @@
   "AMG11AA_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "화망 구축",
+    "name": "Network Building",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "아군이 사망 시, 더욱 견고히 화망을 구축하여 인접 아군의 공격력은 감소하지만 적중을 증가시킵니다.",
+    "description": "When an ally is defeated, increases ACC but decreases ATK of allies in Area of Effect",
     "areadata": [
       7,
       8,
@@ -7671,11 +7671,11 @@
   "PuppHeadC_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "연산 회로 손실",
+    "name": "Operational Circuit Loss",
     "img": "TeamDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "화염 공격에 피격 시 일부 연산 회로가 손실되어 인접한 아군들의 방어력 / 행동력이 2라운드 동안 감소합니다.",
+    "description": "When unit is hit with Fire Damage, inflicts DEF- / SPD- for 2 rounds to allies in Area of Effect.",
     "areadata": [
       7,
       8,
@@ -7690,11 +7690,11 @@
   "SeljuqA_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "포신 강화",
+    "name": "Barrel Reinforce",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "적에게 피격 시, 2라운드 동안 행동력은 감소하고 공격력은 증가합니다.",
+    "description": "When unit is hit, increases unit's ATK but decreases unit's SPD for 2 rounds.",
     "areadata": [
       5
     ]
@@ -7706,7 +7706,107 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, HP가 10% 이하면 복구 모드가 작동해 전투 속행 효과가 발동합니다. 전기 공격 피격 시, <복구 모드 오류> 상태가 되어 지속 전기 피해를 입으며 라운드 개시 시 복구 모드가 활성화되지 않습니다.",
+    "description": "At the start of each round, if unit's HP is below 10%, enters 'Recovery Mode', granting unit 'Battle Continuation'.<br>If unit is hit with an Electric Attack, unit receives 'Recovery Mode Error', taking continuous Electric DoT damage and disables 'Recovery Mode' effect.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickShSv_N_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "칙 방패 강타",
+    "img": "MeleeAttack",
+    "range": 3,
+    "AP": 4,
+    "description": "대상에게 $(1.1) 피해를 주고, 2라운드 동안 도발 / 방어력 / 치명타 감소 상태로 만듭니다.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickShSv_N_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "칙 보호 개시",
+    "img": "SelfDefBuff",
+    "range": 6,
+    "AP": 6,
+    "description": "지정 아군의 AP를 상승시키고, 3라운드 동안 대상을 지정 보호합니다.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickShSv_N_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "칙 생존 대형",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "라운드 개시 시, 해로운 효과 저항이 증가하며 속성 저항력이 증가합니다.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickShSv_N_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "칙 생존 위험",
+    "img": "SelfDefDeBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "라운드 개시 시, 자신이 침수 상태인 경우 4라운드 동안 받는 피해가 증가합니다.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickCMSv_N_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "강화 화학탄 발사",
+    "img": "Missile",
+    "range": 4,
+    "AP": 4,
+    "description": "강화 화학탄을 발사해 $(0.75) 피해를 줍니다. 3라운드 동안 대상에게 지속 고정 피해를 주고, 일정 확률로 모든 속성 저항과 행동력을 감소시킵니다. ",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickCMSv_N_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "집속 화학탄 발사",
+    "img": "Missile",
+    "range": 4,
+    "AP": 8,
+    "description": "집속 화학탄을 발사해 $(2) 피해를 줍니다. 3라운드 동안 대상에게 지속 고정 피해를 주고, 일정 확률로 강화 효과를 해제합니다.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickCMSv_N_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "환경 적응 시스템",
+    "img": "TeamDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "라운드 개시 시, 자신과 인접한 아군의 모든 저항력을 올립니다.",
+    "areadata": [
+      8,
+      4,
+      5,
+      6,
+      2
+    ]
+  },
+  "NightChickCMSv_N_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "화학 용액 유출",
+    "img": "SelfAtkDeBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "라운드 개시 시, 자신이 침수 상태인 경우 4라운드 동안 적중률이 감소합니다.",
     "areadata": [
       5
     ]
@@ -7806,7 +7906,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "속성 공격에 피격 시 3라운드 동안 해당 속성을 흡수하여 해당 속성의 저항력이 증가하지만 부작용으로 특정 속성의 저항력이 대폭 감소합니다.<br>화염 속성 흡수 시: 화염 저항력 소폭 증가, 냉기 저항력 대폭 감소<br>냉기 속성 흡수 시: 냉기 저항력 소폭 증가, 전기 저항력 대폭 감소<br>전기 속성 흡수 시: 전기 저항력 소폭 증가, 화염 저항력 대폭 감소",
+    "description": "속성 공격에 When unit is hit 3라운드 동안 해당 속성을 흡수하여 해당 속성의 저항력이 증가하지만 부작용으로 특정 속성의 저항력이 대폭 감소합니다.<br>화염 속성 흡수 시: 화염 저항력 소폭 증가, 냉기 저항력 대폭 감소<br>냉기 속성 흡수 시: 냉기 저항력 소폭 증가, 전기 저항력 대폭 감소<br>전기 속성 흡수 시: 전기 저항력 소폭 증가, 화염 저항력 대폭 감소",
     "areadata": [
       5
     ]
@@ -7859,7 +7959,7 @@
   "Kidnapper_EW_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "손톱날 발사",
+    "name": "손톱날 Launch",
     "img": "MultiMissile",
     "range": 1,
     "AP": 6,
@@ -7990,7 +8090,7 @@
   "UnderWatcherSensor_EW_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "록 온 센서",
+    "name": "Lock-on 센서",
     "img": "Scan",
     "range": 8,
     "AP": 5,
@@ -8002,7 +8102,7 @@
   "UnderWatcherSensor_EW_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "다중 록 온 시스템",
+    "name": "다중 Lock-on 시스템",
     "img": "Scan",
     "range": 8,
     "AP": 6,
@@ -8246,7 +8346,7 @@
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 높은 확률로 AP가 감소하며 낮은 확률로 쇼트가 생겨 행동 불능이 됩니다.",
+    "description": "When unit is hit, 높은 확률로 AP가 감소하며 낮은 확률로 쇼트가 생겨 행동 불능이 됩니다.",
     "areadata": [
       5
     ]
@@ -8324,7 +8424,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 공격력 / 치명타가 증가합니다. 공격력 증가가 3중첩 이상인 경우, 피해 감소 효과를 무시하며 Def Pen효과를 얻습니다. 피격 시 해제됩니다.",
+    "description": "공격 시, 공격력 / 치명타가 증가합니다. 공격력 증가가 3중첩 이상인 경우, 피해 감소 효과를 무시하며 Def Pen효과를 얻습니다. When unit is hit 해제됩니다.",
     "areadata": [
       5
     ]
@@ -8336,7 +8436,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 다음 공격을 받기 전까지 회피가 크게 증가하며 적중이 감소합니다.",
+    "description": "When unit is hit, 다음 공격을 받기 전까지 회피가 크게 증가하며 적중이 감소합니다.",
     "areadata": [
       5
     ]
@@ -8384,7 +8484,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 공격력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시합니다.",
+    "description": "When unit is hit, 공격력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시합니다.",
     "areadata": [
       5
     ]
@@ -8396,7 +8496,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "모든 피해를 최소 피해만 받습니다. 처형자 중첩이 5이상인 상태로 피격 시, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.",
+    "description": "모든 피해를 최소 피해만 받습니다. 처형자 중첩이 5이상인 상태로 When unit is hit, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.",
     "areadata": [
       5
     ]
@@ -8408,7 +8508,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "아군이 사망 시 파괴 본능에 빠져<br>해당 라운드에는 행동 불가 상태가 되고,<br>3라운드 동안 방어 관통력 / 공격력이 대폭 증가 합니다.<br>파괴 본능이 적용된 상태에서 속성 공격에 피격 시 높은 확률로 해당 라운드에는 행동 불가 상태에 빠지게 됩니다.",
+    "description": "아군이 사망 시 파괴 본능에 빠져<br>해당 라운드에는 행동 불가 상태가 되고,<br>3라운드 동안 방어 관통력 / 공격력이 대폭 증가 합니다.<br>파괴 본능이 적용된 상태에서 속성 공격에 When unit is hit 높은 확률로 해당 라운드에는 행동 불가 상태에 빠지게 됩니다.",
     "areadata": [
       5
     ]
@@ -8466,7 +8566,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "HP가 50% 이상이면 모든 피해를 최소화하며 효과 저항이 증가합니다. 활성화 된 상태에서 피격 시, 오버플로우 중첩이 쌓입니다. 중첩 4 이상 상태로 라운드 개시 시, 해당 상태가 해제되며 행동 불능이 됩니다.",
+    "description": "HP가 50% 이상이면 모든 피해를 최소화하며 효과 저항이 증가합니다. 활성화 된 상태에서 When unit is hit, 오버플로우 중첩이 쌓입니다. 중첩 4 이상 상태로 라운드 개시 시, 해당 상태가 해제되며 행동 불능이 됩니다.",
     "areadata": [
       5
     ]
@@ -8587,7 +8687,7 @@
     "img": "Barrier",
     "range": 0,
     "AP": 0,
-    "description": "<불멸의 힘>으로 인해 불멸, 불멸의 대가가 적용됩니다. 불멸이 발동 시 사라져가는 불멸이 적용되고 3중첩 시 불멸의 힘이 사라지고 <최후의 힘>이 발동됩니다.<br><최후의 힘>이 발동 시 2라운드 동안 피해가 최소화 되며 피격 시 해로운 효과 해제, 매 라운드마다 일정 확률로 공격력 / 방어력 / 적중률 / Def Pen효과 / 속성 저항 능력들이 증가됩니다. 불멸과 최후의 힘으로 발동되는 능력들은 해제 불가합니다.<br><br>불멸 : 죽지 않습니다.    불멸의 대가 : 자신의 공격력이 대폭 감소합니다.",
+    "description": "<불멸의 힘>으로 인해 불멸, 불멸의 대가가 적용됩니다. 불멸이 발동 시 사라져가는 불멸이 적용되고 3중첩 시 불멸의 힘이 사라지고 <최후의 힘>이 발동됩니다.<br><최후의 힘>이 발동 시 2라운드 동안 피해가 최소화 되며 When unit is hit 해로운 효과 해제, 매 라운드마다 일정 확률로 공격력 / 방어력 / 적중률 / Def Pen효과 / 속성 저항 능력들이 증가됩니다. 불멸과 최후의 힘으로 발동되는 능력들은 해제 불가합니다.<br><br>불멸 : 죽지 않습니다.    불멸의 대가 : 자신의 공격력이 대폭 감소합니다.",
     "areadata": [
       5
     ]
@@ -8688,11 +8788,11 @@
   "SpectorMS_EW_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "교란용 전자기장 미사일",
+    "name": "Disturbing용 전자기장 Missile",
     "img": "MultiMissile",
     "range": 4,
     "AP": 6,
-    "description": "전자기장 미사일로 대상들을 교란해 $(1.2) 피해를 주고, 대상의 효과 저항 / 사거리를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.",
+    "description": "전자기장 Missile로 대상들을 Disturbing해 $(1.2) 피해를 주고, 대상의 효과 저항 / 사거리를 낮춥니다. 해당 효과는 2회까지 중첩됩니다.",
     "areadata": [
       7,
       4,
@@ -8734,7 +8834,7 @@
     "img": "TeamSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "피격 시, 주변 아군에게 전투 패턴 분석 결과를 발신해 적중 / 치명타 / 효과 저항을 올려줍니다. 해당 효과는 3회까지 중첩됩니다.",
+    "description": "When unit is hit, 주변 아군에게 전투 패턴 분석 결과를 발신해 적중 / 치명타 / 효과 저항을 올려줍니다. 해당 효과는 3회까지 중첩됩니다.",
     "areadata": [
       7,
       8,
