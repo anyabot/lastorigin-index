@@ -756,7 +756,7 @@
     "range": 3,
     "AP": 6,
     "attr": "fire",
-    "description": "Deals $(0.75) Fire damage to target area with a chance to inflict 'Ignite' for 3 rounds.<br>Damage decrease to 50% for non-center area.",
+    "description": "Deals $(0.75) Fire damage to target area with a chance to inflict 'Ignited' for 3 rounds.<br>Damage decrease to 50% for non-center area.",
     "areadata": [
       0,
       0,
@@ -1138,7 +1138,7 @@
     "range": 2,
     "AP": 4,
     "attr": "fire",
-    "description": "Deals $(1.1) Fire damage to a single target and inflicts 'Ignite' for 3 rounds.",
+    "description": "Deals $(1.1) Fire damage to a single target and inflicts 'Ignited' for 3 rounds.",
     "areadata": [
       5
     ]
@@ -1578,7 +1578,7 @@
     "range": 3,
     "AP": 6,
     "attr": "fire",
-    "description": "Deals $(0.8) Fire damage to target area and inflicts 'Ignite' for 2 rounds.<br>Damage decrease to 50% for non-center area.",
+    "description": "Deals $(0.8) Fire damage to target area and inflicts 'Ignited' for 2 rounds.<br>Damage decrease to 50% for non-center area.",
     "areadata": [
       0,
       0,
@@ -1794,7 +1794,7 @@
     "range": 2,
     "AP": 5,
     "attr": "fire",
-    "description": "Deals $(0.75) Fire damage to target area and inflicts 'Ignite' for 3 rounds. The target behind the main target takes 50% damage.",
+    "description": "Deals $(0.75) Fire damage to target area and inflicts 'Ignited' for 3 rounds. The target behind the main target takes 50% damage.",
     "areadata": [
       0,
       0,
@@ -2841,7 +2841,7 @@
     "img": "Missile",
     "range": 3,
     "AP": 6,
-    "description": "Deals $(1.1) damage to a single target with Def Pen.<br>Chance to inflict 'Ignite' if the target is affected by Fire Resist-.",
+    "description": "Deals $(1.1) damage to a single target with Def Pen.<br>Chance to inflict 'Ignited' if the target is affected by Fire Resist-.",
     "areadata": [
       5
     ]
@@ -3847,11 +3847,11 @@
   "BigChickSP_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "돌격 Random Fire",
+    "name": "Charging Random Fire",
     "img": "Shot",
     "range": 3,
     "AP": 6,
-    "description": "기관포를 발사해 목표 적에게 $(0.5) 피해를 줍니다.",
+    "description": "Deals $(0.5) damage to target area.",
     "areadata": [
       8,
       5,
@@ -3861,11 +3861,11 @@
   "BigChickSP_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "기관포 Random Fire",
+    "name": "Autocannon Random Fire",
     "img": "Shot",
     "range": 1,
     "AP": 8,
-    "description": "기관포를 Random Fire해 목표 적들에게 $(1) 피해를 줍니다.",
+    "description": "Deals $(1) damage to target area.",
     "areadata": [
       7,
       4,
@@ -3876,11 +3876,11 @@
   "BigChickSP_EV1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "과출력 상태",
+    "name": "Overpowered State",
     "img": "Shock",
     "range": 0,
     "AP": 0,
-    "description": "자신의 HP가 50% 이상인 경우, 과출력 상태가 되어 공격력이 증가합니다.",
+    "description": "If unit's HP is above 50%, increase unit's ATK.",
     "areadata": [
       5
     ]
@@ -4087,11 +4087,11 @@
   "BigChickSP_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "과출력 상태",
+    "name": "Overpowered State",
     "img": "Shock",
     "range": 0,
     "AP": 0,
-    "description": "자신의 HP가 50% 이상인 경우, 과출력 상태가 되어 공격력이 증가합니다.",
+    "description": "If unit's HP is above 50%, increase unit's ATK.",
     "areadata": [
       5
     ]
@@ -4451,12 +4451,12 @@
   "NightChickAQ_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "액체 분사",
+    "name": "Liquid Dispensing",
     "img": "BeamShot",
     "range": 4,
     "AP": 7,
     "attr": "ice",
-    "description": "지정 범위에 $(1) 냉기 속성 피해를 줍니다. 적중 대상은 침수 상태가 됩니다.",
+    "description": "Deals $(1) Ice damage to target area and inflicts 'Wet'",
     "areadata": [
       4,
       5,
@@ -4466,11 +4466,11 @@
   "NightChickAQ_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "재 정비 프로토콜",
+    "name": "Re-Maintenance Protocol",
     "img": "TeamDefBuff",
     "range": 6,
     "AP": 5,
-    "description": "지정 범위의 아군을 재 정비해, 해로운 효과를 해제하며 AP / 적중 / 효과 저항을 올려줍니다.",
+    "description": "Increases AP / ACC / Status Resist of allies in Area of Effect and removes buffs.",
     "areadata": [
       8,
       4,
@@ -4482,11 +4482,11 @@
   "NightChickAQ_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "방수 장갑",
+    "name": "Waterproof Armor",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "냉기 / 효과 저항이 증가하며, 받는 피해가 감소합니다. 침수 상태인 경우, 제어를 상실해 회피 / 행동력이 크게 증가하지만 적중이 크게 감소합니다.",
+    "description": "Grants unit Ice Resist+ / Status Resist+ / DR+.<br>If unit is affected by 'Wet', grants unit EVA+ / SPD+ but inflicts ACC-.",
     "areadata": [
       5
     ]
@@ -4494,11 +4494,11 @@
   "NightChickAQ_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "누수",
+    "name": "Leakage",
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "처치될 경우, 범위 내에 있는 대상들을 침수 상태로 만들며 행동력과 AP를 감소시킵니다.",
+    "description": "When unit is defeated, inflicts 'Wet' / SPD- and reduces AP of allies in Area of Effect",
     "areadata": [
       7,
       8,
@@ -5103,11 +5103,11 @@
   "LegionElite_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "파쇄 미니건",
+    "name": "파쇄 Minigun",
     "img": "MGShot",
     "range": 5,
     "AP": 5,
-    "description": "미니건을 발사해 $(1.2) 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가하며, 대상의 피해 감소 효과를 해제합니다.",
+    "description": "Minigun을 발사해 $(1.2) 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가하며, 대상의 피해 감소 효과를 해제합니다.",
     "areadata": [
       5
     ]
@@ -5408,7 +5408,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When unit is hit with an ELectric Attack, removes this effect.",
+    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When unit is hit with an Electric Attack, removes this effect.",
     "areadata": [
       5
     ]
@@ -5978,7 +5978,7 @@
     "img": "MGShot",
     "range": 4,
     "AP": 3,
-    "description": "미니건을 발사해 $(1.5) 피해를 줍니다. 대상을 표식으로 설정하고 받는 피해를 증가시킵니다.",
+    "description": "Minigun을 발사해 $(1.5) 피해를 줍니다. 대상을 표식으로 설정하고 받는 피해를 증가시킵니다.",
     "areadata": [
       5
     ]
@@ -5990,7 +5990,7 @@
     "img": "MGWideShot",
     "range": 4,
     "AP": 6,
-    "description": "미니건을 Random Fire해 대상에게 $(2) 보호 무시 피해를 줍니다. 대상의 강화 효과를 해제하며, 치명타 시 피해량이 증가합니다.",
+    "description": "Minigun을 Random Fire해 대상에게 $(2) 보호 무시 피해를 줍니다. 대상의 강화 효과를 해제하며, 치명타 시 피해량이 증가합니다.",
     "areadata": [
       7,
       4,
@@ -6106,7 +6106,7 @@
     "img": "MGShot",
     "range": 4,
     "AP": 5,
-    "description": "미니건을 발사해 $(1.5) 피해를 줍니다. 대상이 표식 상태인 경우, 피해량이 크게 증가합니다.",
+    "description": "Minigun을 발사해 $(1.5) 피해를 줍니다. 대상이 표식 상태인 경우, 피해량이 크게 증가합니다.",
     "areadata": [
       5
     ]
@@ -6118,7 +6118,7 @@
     "img": "MGWideShot",
     "range": 3,
     "AP": 8,
-    "description": "미니건을 Random Fire해 대상에게 $(1.25) 피해를 줍니다. 목표 대상들의 적중 / 회피 / 행동력을 감소시킵니다.",
+    "description": "Minigun을 Random Fire해 대상에게 $(1.25) 피해를 줍니다. 목표 대상들의 적중 / 회피 / 행동력을 감소시킵니다.",
     "areadata": [
       7,
       4,
@@ -6355,11 +6355,11 @@
   "NightChickCMP_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "급속 부식탄",
+    "name": "Rapid Corrosive Bullet",
     "img": "Missile",
     "range": 5,
     "AP": 4,
-    "description": "급속 부식탄을 발사해 $(0.33) 피해를 줍니다. 2라운드 동안 대상을 급속 부식 상태로 만들어 효과 저항 / 방어력 / 행동력을 감소시키고 매 라운드 지속 피해를 입힙니다. 대상이 이미 부식 상태면 일정 확률로 강화 효과를 해제합니다. ",
+    "description": "Deals $(0.33) damage to a single target and inflicts 'Corrosion' / DEF- / SPD- / Status Resist-. If the target is already affected by 'Corrosion', a chance to remove buffs.",
     "areadata": [
       5
     ]
@@ -6367,11 +6367,11 @@
   "NightChickCMP_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "급속 부식탄 Random Fire",
+    "name": "Rapid Corrosive Bullet Random Fire",
     "img": "MultiMissile",
     "range": 4,
     "AP": 7,
-    "description": "급속 부식탄을 발사해 지정 범위에 $(0.33) 피해를 줍니다. 2라운드 동안 대상을 급속 부식 상태로 만들어 효과 저항 / 방어력 / 행동력을 감소시키고 매 라운드 지속 피해를 입힙니다. 대상이 이미 부식 상태면 일정 확률로 강화 효과를 해제합니다.",
+    "description": "Deals $(0.33) damage to target area and inflicts 'Corrosion' / DEF- / SPD- / Status Resist-. If the target is already affected by 'Corrosion', a chance to remove buffs.",
     "areadata": [
       8,
       5,
@@ -6381,11 +6381,11 @@
   "NightChickCMP_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "부식액 누출",
+    "name": "Corrosive Fluid Leakage",
     "img": "TeamDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "적 공격 시, 주변에 부식액이 누출되어 지속 고정 피해를 주며 방어력을 감소시킵니다.",
+    "description": "When unit attacks, inflicts continuous DoT damage to unit and reduces unit's DEF.",
     "areadata": [
       7,
       8,
@@ -6400,11 +6400,11 @@
   "NightChickCMP_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "내성 장갑",
+    "name": "Resistance Armor",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 당할 경우, 상대의 스킬이 최소 피해로 적용됩니다. 라운드 개시 시, 자신과 인접한 아군에게 걸린 방해 효과를 해제합니다.",
+    "description": "When unit is attacked, takes only minimal damage.<br>At the start of each round, removes debuffs from nearby allies.",
     "areadata": [
       7,
       9,
@@ -6416,11 +6416,11 @@
   "NightChickCMP_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "부식액 폭발",
+    "name": "Corrosive Fluid Explosion",
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "화염 속성 액티브 스킬 공격 When unit is hit, 부식액에 불이 붙어 점화 상태가 됩니다. 점화 상태로 처치되면 부식액 폭발로 범위 내 아군에게 괴멸적인 고정 피해를 입힙니다.",
+    "description": "When unit is hit with a Fire Attack, inflicts 'Ignited' to unit.<br>When unit is defeated while affected by 'Ignited', deals damage to all allies in Area of Effect.",
     "areadata": [
       7,
       8,
@@ -6504,7 +6504,7 @@
     "img": "Missile",
     "range": 4,
     "AP": 4,
-    "description": "강화 화학탄을 발사해 $(0.75) 피해를 줍니다. 3라운드 동안 대상에게 지속 고정 피해를 주고, 일정 확률로 모든 속성 저항과 행동력을 감소시킵니다. ",
+    "description": "Deals $(0.75) damage to a single target and inflicts continuous DoT damage for 3 rounds with a change to decrease Elemental Resist / SPD.",
     "areadata": [
       5
     ]
@@ -6512,11 +6512,11 @@
   "NightChickCMS_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "집속 화학탄 Launch",
+    "name": "Focused Chemical Bomb Launch",
     "img": "Missile",
     "range": 4,
     "AP": 8,
-    "description": "집속 화학탄을 발사해 $(2) 피해를 줍니다. 3라운드 동안 대상에게 지속 고정 피해를 주고, 일정 확률로 강화 효과를 해제합니다.",
+    "description": "Deals $(2) damage to a single target and inflicts continuous DoT damage for 3 rounds with a change to remove buffs.",
     "areadata": [
       5
     ]
@@ -6524,11 +6524,11 @@
   "NightChickCMS_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "환경 적응 시스템",
+    "name": "Environmental Adaptation System",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 자신과 인접한 아군의 모든 저항력을 올립니다.",
+    "description": "At the start of each rounds, grants allies in Area of Effect All Resist+.",
     "areadata": [
       8,
       4,
@@ -6655,11 +6655,11 @@
   "NightChickCMP_EV2_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "내성 장갑",
+    "name": "Resistance Armor",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 당할 경우, 상대의 스킬이 최소 피해로 적용됩니다. 라운드 개시 시, 자신과 인접한 아군에게 걸린 방해 효과를 해제합니다.",
+    "description": "When unit is attacked, takes only minimal damage.<br>At the start of each round, removes debuffs from nearby allies.",
     "areadata": [
       7,
       9,
@@ -6691,11 +6691,11 @@
   "NightChickShEx_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 Shield 강타",
+    "name": "Chick Shield Blow",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
-    "description": "대상에게 $(1.1) 피해를 주고, 2라운드 동안 도발 / 공격력 / 치명타 감소 상태로 만듭니다.",
+    "description": "Deals $(1.1) damage to a single target and inflicts 'Provoked' / ATK- / CRIT- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -6703,11 +6703,11 @@
   "NightChickShEx_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칙 보호 개시",
+    "name": "Chick Protection Initiation",
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 6,
-    "description": "지정 아군의 AP를 상승시키고, 3라운드 동안 대상을 지정 보호합니다.",
+    "description": "Increase AP and grants Target Protect for 3 rounds to target ally.",
     "areadata": [
       5
     ]
@@ -6715,11 +6715,11 @@
   "NightChickShEx_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "칙 방어 대형",
+    "name": "Chick Defense Formation",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 받는 피해가 감소하며 속성 저항력이 증가합니다.",
+    "description": "At the start of each round, grants unit DR+ / Status Resist+.",
     "areadata": [
       5
     ]
@@ -6727,11 +6727,11 @@
   "NightChickShEx_TU3_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 Shield 강타",
+    "name": "Chick Shield Blow",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
-    "description": "대상에게 $(1.1) 피해를 주고, 2라운드 동안 도발 / 공격력 / 치명타 감소 상태로 만듭니다.",
+    "description": "Deals $(1.1) damage to a single target and inflicts 'Provoked' / ATK- / CRIT- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -6739,11 +6739,11 @@
   "NightChickShEx_TU3_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칙 보호 개시",
+    "name": "Chick Protection Initiation",
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 6,
-    "description": "지정 아군의 AP를 상승시키고, 3라운드 동안 대상을 지정 보호합니다.",
+    "description": "Increase AP and grants Target Protect for 3 rounds to target ally.",
     "areadata": [
       5
     ]
@@ -6751,11 +6751,11 @@
   "NightChickShEx_TU3_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "칙 방어 대형",
+    "name": "Chick Defense Formation",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 받는 피해가 감소하며 속성 저항력이 증가합니다.",
+    "description": "At the start of each round, grants unit DR+ / Status Resist+.",
     "areadata": [
       5
     ]
@@ -6831,12 +6831,12 @@
   "Tarantula_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "히트 Machine Gun",
+    "name": "Heat Machine Gun",
     "img": "MeleeAttack",
     "range": 4,
     "AP": 4,
     "attr": "fire",
-    "description": "대상에게 $(0.8) 화염 속성 피해를 주고, 50% 확률로 최대 3회까지 화염 저항을 감소시킵니다. 치명타 시, 대상의 피해 감소 효과를 해제합니다.",
+    "description": "Deals $(0.8) Fire Damage to target with 50% chance to inflict 'Fire Resist-' that can stack up to 3 times.<br>When Crits, removes target's DR buff.",
     "areadata": [
       5
     ]
@@ -6844,12 +6844,12 @@
   "Tarantula_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "자폭 개시",
+    "name": "Self-Destruct Initiation",
     "img": "SelfDefBuff",
     "range": 3,
     "AP": 10,
     "attr": "fire",
-    "description": "자폭해 지정 범위에 $(4) 화염 속성 피해를 줍니다. 대상의 방어막 / 피해 감소 효과를 무시합니다.",
+    "description": "Self-destructs and deals $(4) Fire Damage to target area with Ignore Barrier / Ignore DR.",
     "areadata": [
       8,
       4,
@@ -6861,11 +6861,11 @@
   "Tarantula_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "내부 과열",
+    "name": "Internal Overheating",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 과열 상태가 되어 공격력이 증가합니다. 3중첩 이상 시, 회피가 증가하지만 지속 고정 피해를 입습니다. 적의 공격을 회피하면 2라운드 동안 적중이 증가합니다.",
+    "description": "When unit attacks, increases unit's ATK.<br>At 3 stacks or higher, increases unit's EVA but receives DoT Damage at the end of the round.<br>When unit evades, grants unit ACC for 2 rounds.",
     "areadata": [
       5
     ]
@@ -6873,11 +6873,11 @@
   "Tarantula_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "과열 폭발",
+    "name": "Overheating Explosion",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "<내부 과열> 3중첩 이상 상태에서 사망 시, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "description": "When defeated with 3 or more stacks of 'Internal Overheating', inflicts damage to surrounding allies.",
     "areadata": [
       7,
       8,
@@ -6893,11 +6893,11 @@
   "NightChickShEx_TU4_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 Shield 강타",
+    "name": "Chick Shield Blow",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
-    "description": "대상에게 $(1.1) 피해를 주고, 2라운드 동안 도발 / 공격력 / 치명타 감소 상태로 만듭니다.",
+    "description": "Deals $(1.1) damage to a single target and inflicts 'Provoked' / ATK- / CRIT- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -6905,11 +6905,11 @@
   "NightChickShEx_TU4_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칙 보호 개시",
+    "name": "Chick Protection Initiation",
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 6,
-    "description": "지정 아군의 AP를 상승시키고, 3라운드 동안 대상을 지정 보호합니다.",
+    "description": "Increase AP and grants Target Protect for 3 rounds to target ally.",
     "areadata": [
       5
     ]
@@ -6917,11 +6917,11 @@
   "NightChickShEx_TU4_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "칙 방어 대형",
+    "name": "Chick Defense Formation",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 받는 피해가 감소하며 속성 저항력이 증가합니다.",
+    "description": "At the start of each round, grants unit DR+ / Status Resist+.",
     "areadata": [
       5
     ]
@@ -6929,11 +6929,11 @@
   "Tarantula_TU2_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "과열 폭발",
+    "name": "Overheating Explosion",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "<내부 과열> 3중첩 이상 상태에서 사망 시, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "description": "When defeated with 3 or more stacks of 'Internal Overheating', inflicts damage to surrounding allies.",
     "areadata": [
       7,
       8,
@@ -6949,11 +6949,11 @@
   "NightChickSPW_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "약점 저격",
+    "name": "Weakness Snipe",
     "img": "Snipe",
     "range": 5,
     "AP": 4,
-    "description": "대상에게 $(1.1) 보호 무시 피해를 줍니다. 치명타 시 피해량이 증가하며, 자신이 Frontline일 경우 대상의 방어막 / 피해 감소 효과를 무시합니다.",
+    "description": "Deals $(1.1) damage to a single target with Ignore Protect.<br>Addtional DMG+ when crits.<br>If unit is in the Frontline, Ignore Barrier / Ignore DR.",
     "areadata": [
       5
     ]
@@ -6961,11 +6961,11 @@
   "NightChickSPW_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "저격 목표 포착",
+    "name": "Sniping Target Capture",
     "img": "Scan",
     "range": 4,
     "AP": 5,
-    "description": "대상에게 $(0.05) 피해를 주고, 2라운드 동안 대상을 표식으로 지정해 받는 피해 증가 / 회피 감소 상태로 만듭니다. 자신은 3라운드 동안 적중 / 회피 / 행동력이 증가합니다.",
+    "description": "Deals $(0.05) damage to a sinfle target and inflicts 'Marked' / 'Damage Taken Increased' / EVA- for 2 rounds.<br>Increases unit's ACC / EVA / SPD for 3 rounds.",
     "areadata": [
       5
     ]
@@ -6973,11 +6973,11 @@
   "NightChickSPW_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "설원 매복",
+    "name": "Snowy Field Ambush",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "냉기 속성 저항이 증가하며, <혹한> 효과를 받는 상태에선 회피가 증가하며 받는 피해가 감소합니다.",
+    "description": "Increases unit Ice Resist. If unit is affected by 'Cold', grants units EVA+ / DR+.",
     "areadata": [
       5
     ]
@@ -6985,11 +6985,11 @@
   "NightChickSPW_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "역공 준비",
+    "name": "Counterattack Preparation",
     "img": "DefCounter",
     "range": 0,
     "AP": 0,
-    "description": "공격 회피 시, 반격합니다. 해당 효과 발동 시, 3라운드 동안 치명타가 증가합니다.",
+    "description": "When unit evades, 'Counterattack'. When this effect tiggers, increases unit's CRIT for 3 rounds.",
     "areadata": [
       5
     ]
@@ -7056,11 +7056,11 @@
   "LegionMk2_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Improved 미니건",
+    "name": "Improved Minigun",
     "img": "MGShot",
     "range": 5,
     "AP": 4,
-    "description": "미니건을 발사해 $(1.1) 피해를 줍니다. 치명타 시, 2라운드 동안 대상이 받는 피해가 증가하며 50% 확률로 강화 효과를 해제합니다.",
+    "description": "Deals $(1.1) damage to a single target.<br>When crits, inflicts 'Damage Taken Increased' for 2 rounds and 50% change to remove buffs.",
     "areadata": [
       5
     ]
@@ -7068,11 +7068,11 @@
   "LegionMk2_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "재밍 포획탄",
+    "name": "Jamming Captive Bullet",
     "img": "SelfSpdDeBuff",
     "range": 4,
     "AP": 6,
-    "description": "포획탄을 발사해 $(0.8) 피해를 주고, 50% 확률로 3라운드 동안 대상을 이동 불가 / 공격력 / 치명타 / 회피 / 행동력 감소 상태로 만듭니다. 스킬 사용 시, 3라운드 동안 자신의 적중이 증가합니다.",
+    "description": "Deals $(0.8) damage to a single target with 50% chance to inflict 'Rooted' / ATK- / CRIT- / EVA- / SPD- for 3 rounds.<br>Increase unit's ACC for 3 rounds.",
     "areadata": [
       5
     ]
@@ -7080,11 +7080,11 @@
   "LegionMk2_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "요격 포메이션",
+    "name": "Intercepting Formation",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 범위 내 아군의 AP가 증가합니다. 라운드 개시 시, 대상의 공격을 지원하며 치명타 / 적중을 증가시킵니다.",
+    "description": "At the start of each wave, increases AP of allies in Area of Effect.<br>At the start of each round, grants CRIT+ / ACC+ / 'Follow Up Attack' to allies in Area of Effect.",
     "areadata": [
       8,
       2
@@ -7093,11 +7093,11 @@
   "LegionMk2_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "회피 패턴 분석",
+    "name": "Evasive Pattern Analysis",
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 25% 확률로 적의 회피가 감소하며 받는 피해가 증가합니다.",
+    "description": "At the start of each round, 25% chance to inflict EVA- / 'Damage Taken Increased' to all enemies.",
     "areadata": [
       7,
       8,
@@ -7198,7 +7198,7 @@
     "img": "Scan",
     "range": 5,
     "AP": 8,
-    "description": "Disturbing Wavelength으로 $(0.1) 보호 무시 피해를 줍니다. 범위 내 대상들은 2라운드 동안 회피 감소 / 받는 피해 증가 상태가 됩니다. 대상이 기동형일 경우, 효과가 2배가 되며 회피 증가 효과를 해제합니다.",
+    "description": "Deals $(0.1) damage with Ignore Protect to target area and inflicts EVA- / 'Damage Taken Increase'+ for 2 rounds.<br>If the target's Flying-type, doubles the effects and removes EVA buffs.",
     "areadata": [
       8,
       4,
@@ -7210,11 +7210,11 @@
   "NightChickDEAA_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "조준 방해",
+    "name": "Aiming Disturbance",
     "img": "GrenadeAttack_1",
     "range": 5,
     "AP": 8,
-    "description": "Flash Grenade으로 지정 범위에 $(0.2) 보호 무시 피해를 줍니다. 적중 대상은 3라운드 동안 치명타 / 적중 / Def Pen감소 상태가 됩니다. 3라운드 동안 자신의 행동력이 증가합니다.",
+    "description": "Deals $(0.2) damage with Ignore Protect to target area and inflicts CRIT- / ACC- / Def Pen- for 3 rounds.<br>Increase self SPD for 3 rounds.",
     "areadata": [
       8,
       5,
@@ -7224,11 +7224,11 @@
   "NightChickDEAA_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "대공 Radar망",
+    "name": "Anti-Aircraft Radar Network",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 범위 내 아군의 AP가 증가합니다. 라운드 개시 시, 범위 내 아군의 적중 / 대 기동형 피해량이 증가하며 적중 감소 효과가 해제됩니다.",
+    "description": "At the start of each wave, increases AP of allies in Area of Effect.<br>At the start of each round, grants allies in Area of Effect ACC+ / Anti-Light DMG+ and removes ACC debuffs.",
     "areadata": [
       7,
       8,
@@ -7244,11 +7244,11 @@
   "NightChickDEAA_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "통신 오류",
+    "name": "Communication Error",
     "img": "TeamAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "침수 상태로 라운드 개시 시, 자신과 주변 아군의 행동력이 감소하며 10% 확률로 행동 불가 상태가 됩니다.",
+    "description": "At the start of each round, if unit is affected by 'Wet', inflicts SPD- and 10% chance to be 'Stunned' to unit and allies in Area of Effect.",
     "areadata": [
       7,
       8,
@@ -7605,7 +7605,7 @@
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of the round, if unit is in the Middleline, grant allies in Area of Effect ACC+ / SPD+.<br>If unit is hit by an Electric attack when unit is in the Middleline, inflicts ATK- / DEF- to allies in Area of Effect for 2 rounds.",
+    "description": "At the start of the round, if unit is in the Middleline, grant allies in Area of Effect ACC+ / SPD+.<br>If unit is hit with an Electric attack when unit is in the Middleline, inflicts ATK- / DEF- to allies in Area of Effect for 2 rounds.",
     "areadata": [
       8,
       5,
@@ -7714,11 +7714,11 @@
   "NightChickShSv_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "칙 방패 강타",
+    "name": "Chick Shield Blow",
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
-    "description": "대상에게 $(1.1) 피해를 주고, 2라운드 동안 도발 / 방어력 / 치명타 감소 상태로 만듭니다.",
+    "description": "Deals $(1.1) damage to a single target and inflicts 'Provoked' / ATK- / CRIT- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -7726,11 +7726,11 @@
   "NightChickShSv_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "칙 보호 개시",
+    "name": "Chick Protection Initiation",
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 6,
-    "description": "지정 아군의 AP를 상승시키고, 3라운드 동안 대상을 지정 보호합니다.",
+    "description": "Increase AP and grants Target Protect for 3 rounds to target ally.",
     "areadata": [
       5
     ]
@@ -7738,11 +7738,11 @@
   "NightChickShSv_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "칙 생존 대형",
+    "name": "Chick Survival Formation",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 해로운 효과 저항이 증가하며 속성 저항력이 증가합니다.",
+    "description": "At the start of each round, increases unit's Status Resist / Elemental Resist.",
     "areadata": [
       5
     ]
@@ -7750,11 +7750,11 @@
   "NightChickShSv_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "칙 생존 위험",
+    "name": "Chick Survival Risk",
     "img": "SelfDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 자신이 침수 상태인 경우 4라운드 동안 받는 피해가 증가합니다.",
+    "description": "At the start of each round, if unit is affected by 'Wet', inflicts 'Damage Taken Increased' to unit.",
     "areadata": [
       5
     ]
@@ -7762,11 +7762,11 @@
   "NightChickCMSv_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "강화 화학탄 발사",
+    "name": "Enhanced Chemical Bomb Launch",
     "img": "Missile",
     "range": 4,
     "AP": 4,
-    "description": "강화 화학탄을 발사해 $(0.75) 피해를 줍니다. 3라운드 동안 대상에게 지속 고정 피해를 주고, 일정 확률로 모든 속성 저항과 행동력을 감소시킵니다. ",
+    "description": "Deals $(0.75) damage to a single target and inflicts continuous DoT damage for 3 rounds  with a change to decrease Elemental Resist / SPD.",
     "areadata": [
       5
     ]
@@ -7774,11 +7774,11 @@
   "NightChickCMSv_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "집속 화학탄 발사",
+    "name": "Focused Chemical Bomb Launch",
     "img": "Missile",
     "range": 4,
     "AP": 8,
-    "description": "집속 화학탄을 발사해 $(2) 피해를 줍니다. 3라운드 동안 대상에게 지속 고정 피해를 주고, 일정 확률로 강화 효과를 해제합니다.",
+    "description": "Deals $(2) damage to a single target and inflicts continuous DoT damage for 3 rounds with a change to remove buffs.",
     "areadata": [
       5
     ]
@@ -7786,11 +7786,11 @@
   "NightChickCMSv_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "환경 적응 시스템",
+    "name": "Environmental Adaptation System",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 자신과 인접한 아군의 모든 저항력을 올립니다.",
+    "description": "At the start of each rounds, grants allies in Area of Effect All Resist+.",
     "areadata": [
       8,
       4,
@@ -7802,11 +7802,11 @@
   "NightChickCMSv_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "화학 용액 유출",
+    "name": "Chemical Solution Spillage",
     "img": "SelfAtkDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 자신이 침수 상태인 경우 4라운드 동안 적중률이 감소합니다.",
+    "description": "At the start of each round, if unit is affected by 'Wet', decreases unit's ACC",
     "areadata": [
       5
     ]
