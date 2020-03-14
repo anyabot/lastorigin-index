@@ -64,7 +64,7 @@
                             if (e.showSearchResult = !0, e.showIndexResult = !1, t.length > 0) {
                                 var n = new x.Searcher(t),
                                     l = Object.keys(a.NameList).reduce((function(e, t) {
-                                        return -1 !== n.search(t) && e.push([t, n.search(t)]), e
+                                        return -1 !== n.search(new RegExp(t, "i")) && e.push([t, n.search(new RegExp(t, "i"))]), e
                                     }), []).sort((function(e, t) {
                                         return e[1] < t[1] ? -1 : e[1] > t[1] ? 1 : e[0] < t[0] ? -1 : e[0] > t[0] ? 1 : 0
                                     })).map((function(e) {
