@@ -66,7 +66,7 @@
                                     l = Object.keys(a.NameList).reduce((function(e, t) {
                                         return -1 !== n.search(t) && e.push([t, n.search(t)]), e
                                     }), []).sort((function(e, t) {
-                                        return e[1] < t[1] ? -1 : e[1] > t[1] ? 1 : e[0] < t[0] ? -1 : e[0] > t[0] ? 1 : 0
+                                        return e[1].toLowerCase() < t[1].toLowerCase() ? -1 : e[1].toLowerCase() > t[1].toLowerCase() ? 1 : e[0].toLowerCase() < t[0].toLowerCase() ? -1 : e[0].toLowerCase() > t[0].toLowerCase() ? 1 : 0
                                     })).map((function(e) {
                                         return e[0]
                                     }));
