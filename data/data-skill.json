@@ -7718,7 +7718,7 @@
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
-    "description": "Deals $(1.1) damage to a single target and inflicts 'Provoked' / ATK- / CRIT- for 2 rounds.",
+    "description": "Deals $(1.1) damage to a single target and inflicts ATK- / CRIT- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -7730,7 +7730,7 @@
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 6,
-    "description": "Increase AP and grants Target Protect for 3 rounds to target ally.",
+    "description": "Grants Target Protect for 3 rounds to target ally.",
     "areadata": [
       5
     ]
@@ -7742,7 +7742,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, increases unit's Status Resist / Elemental Resist.",
+    "description": "At the start of each round, increases unit's SPD / Elemental Resist.",
     "areadata": [
       5
     ]
