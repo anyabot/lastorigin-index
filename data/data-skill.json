@@ -844,7 +844,7 @@
   "NightChickCM_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Chemical Bomb Random Fire",
+    "name": "Chemical Bomb Barrage",
     "img": "MultiMissile",
     "range": 2,
     "AP": 6,
@@ -2208,7 +2208,7 @@
   "NightChick_RV_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Melee Random Fire",
+    "name": "Melee Barrage",
     "img": "MGShot",
     "range": 1,
     "AP": 3,
@@ -2630,7 +2630,7 @@
   "LegionSP_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Sticky Bomb Random Fire",
+    "name": "Sticky Bomb Barrage",
     "img": "TeamSpdDeBuff",
     "range": 4,
     "AP": 5,
@@ -3269,7 +3269,7 @@
   "ExpGoblinT_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Machine Gun Random Fire",
+    "name": "Machine Gun Barrage",
     "img": "MGWideShot",
     "range": 3,
     "AP": 8,
@@ -3847,7 +3847,7 @@
   "BigChickSP_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Charging Random Fire",
+    "name": "Charging Barrage",
     "img": "Shot",
     "range": 3,
     "AP": 6,
@@ -3861,7 +3861,7 @@
   "BigChickSP_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Autocannon Random Fire",
+    "name": "Autocannon Barrage",
     "img": "Shot",
     "range": 1,
     "AP": 8,
@@ -4187,7 +4187,7 @@
   "SpectorBS_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Electromagnetic Missile Random Fire",
+    "name": "Electromagnetic Missile Barrage",
     "img": "MultiMissile",
     "range": 4,
     "AP": 6,
@@ -4943,7 +4943,7 @@
   "AMG11AA_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Anti-Aircraft Gun Random Fire",
+    "name": "Anti-Aircraft Gun Barrage",
     "img": "WideBeamShot",
     "range": 3,
     "AP": 7,
@@ -5432,11 +5432,11 @@
   "RocCGenerator_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "전하 충전",
+    "name": "Charge Charging",
     "img": "SelfAtkBuff",
     "range": 6,
     "AP": 4,
-    "description": "로크 (최대 충전)에게 에너지를 충전해 공격력과 AP를 높입니다.",
+    "description": "Increases Roc's ATK and AP.",
     "areadata": [
       7,
       8,
@@ -5452,11 +5452,11 @@
   "RocCGenerator_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "실드 충전",
+    "name": "Shield Charging",
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 7,
-    "description": "모든 아군에게 방어막을 부여합니다.",
+    "description": "Grants all allies Barier.",
     "areadata": [
       7,
       8,
@@ -5472,11 +5472,11 @@
   "RocCGenerator_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "복원 시스템",
+    "name": "Restoration System",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 전투 속행 효과가 적용됩니다.",
+    "description": "At the start of each round, grants unit 'Battle Continuation'.",
     "areadata": [
       5
     ]
@@ -5484,11 +5484,11 @@
   "RocCGenerator_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "복원 대기",
+    "name": "Waiting for Restoration",
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 속행 효과 발동 시, 3라운드 동안 행동 불가 상태가 됩니다.",
+    "description": "When 'Battle Continuation' effect activated, unit becomes 'Stunned' for 3 rounds.",
     "areadata": [
       5
     ]
@@ -5496,12 +5496,12 @@
   "RocC_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "S. 블리츠 스톰",
+    "name": "S. Blitz Storm",
     "img": "WideLightning",
     "range": 6,
     "AP": 8,
     "attr": "electric",
-    "description": "지정 범위에 $(1) 보호 무시 전기 속성 피해를 주고 AP / 회피 / 행동력 / 전기 저항을 낮춥니다. 목표 지점 주변은 피해량이 50% 감소합니다. <전하 충전> 중첩을 2 사용합니다.",
+    "description": "Deals $(1) Electric damage to target area with Ignore Protect, reduces AP and inflicts EVA- / SPD- / 'Electric Resist'-.<br>Damage decreases to 50% for non-center area.<br>Consumes 2 'Charge Charging' stacks.",
     "areadata": [
       0,
       0.5,
@@ -5517,12 +5517,12 @@
   "RocC_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "H. 유피텔 스트라이크",
+    "name": "H. Jupiter Strike",
     "img": "AssaultAttack",
     "range": 6,
     "AP": 9,
     "attr": "electric",
-    "description": "지정 대상에게 $(2) 보호 무시 전기 속성 피해를 주고 일정 확률로 행동 불가 상태로 만들며 강화 효과를 해제합니다. <전하 충전> 중첩을 5 사용하며, 치명타 시 피해량이 증가합니다.",
+    "description": "Deals $(2) Electric damage to a single target with Ignore Protect. A change to inflict 'Stunned' / remove buffs.<br>Additional DMG+ when crits.<br>Consumes 5 'Charge Charging' stacks.",
     "areadata": [
       5
     ]
@@ -5530,11 +5530,11 @@
   "RocC_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "전자기파 Wavelength",
+    "name": "Electromagnetic Wavelength",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, <전하 충전> 중첩 수에 비례해 회피가 증가합니다. 적 공격 회피 시, 반격합니다.",
+    "description": "At the start of each round, grants Roc EVA+ buff in proportion to the number of 'Charge Charing' stacks.<br>When Roc evades, 'Counterattack'.",
     "areadata": [
       5
     ]
@@ -5542,11 +5542,11 @@
   "RocC_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "전하 최대 충전",
+    "name": "Fully Charged",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "<전하 충전> 중첩이 5 이상인 경우, 방어막 / 피해 감소 효과를 무시하며 적중과 치명타가 증가합니다. 해당 상태에서 냉기 속성 공격을 맞으면 강화 효과가 해제되며, 행동 불가 상태가 됩니다.",
+    "description": "When affected by 5 or more 'Charge Charing' stacks, grants Roc ACC+ / CRIT+ , also attacks Ignore Barrier / Ignore DR.<br>When Roc is hit with an Ice Attack while in this state, removes buffs and becomes 'Stunned'.",
     "areadata": [
       5
     ]
@@ -5554,11 +5554,11 @@
   "RocC_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "과충전 폭발",
+    "name": "Overcharing Explosion",
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "처치될 경우, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "description": "When Roc is defeated, deals fixed damage to surrounding allies.",
     "areadata": [
       7,
       8,
@@ -5603,11 +5603,11 @@
   "RocCGeneratorA_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "전하 충전",
+    "name": "Charge Charging",
     "img": "SelfAtkBuff",
     "range": 6,
     "AP": 10,
-    "description": "로크 (최대 충전)에게 에너지를 충전해 공격력과 AP를 높입니다.",
+    "description": "Increases Roc (Fully-Charged)'s ATK and AP.",
     "areadata": [
       7,
       8,
@@ -5623,11 +5623,11 @@
   "RocCGeneratorA_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "실드 충전",
+    "name": "Shield Charging",
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 10,
-    "description": "모든 아군에게 방어막을 부여하고 해로운 효과를 해제합니다.",
+    "description": "Grants all allies Barier and removes debuffs.",
     "areadata": [
       7,
       8,
@@ -5643,11 +5643,11 @@
   "RocCGeneratorA_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "복원 시스템",
+    "name": "Restoration System",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 전투 속행 효과가 적용됩니다. 해당 효과는 해제할 수 없습니다.",
+    "description": "At the start of each round, grants unit 'Battle Continuation' that can not be removed by buff removal.",
     "areadata": [
       5
     ]
@@ -5655,11 +5655,11 @@
   "RocCGeneratorA_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "복원 대기",
+    "name": "Waiting for Restoration",
     "img": "SelfSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 속행 효과 발동 시, 4라운드 동안 행동 불가 상태가 되며 받는 피해가 최소화됩니다. 해당 효과는 해제할 수 없습니다.",
+    "description": "When 'Battle Continuation' effect activated, unit becomes 'Stunned' for 4 rounds, but takes only minimal damge. This effect can not be removed by buff removal.",
     "areadata": [
       5
     ]
@@ -5667,12 +5667,12 @@
   "RocC_EV2_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "S. 블리츠 스톰",
+    "name": "S. Blitz Storm",
     "img": "WideLightning",
     "range": 6,
     "AP": 8,
     "attr": "electric",
-    "description": "지정 범위에 $(1) 보호 무시 전기 속성 피해를 주고 AP / 회피 / 행동력 / 전기 저항을 낮춥니다.",
+    "description": "Deals $(1) Electric damage to target area with Ignore Protect, reduces AP and inflicts EVA- / SPD- / 'Electric Resist'-.",
     "areadata": [
       8,
       4,
@@ -5684,12 +5684,12 @@
   "RocC_EV2_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "H. 유피텔 스트라이크",
+    "name": "H. Jupiter Strike",
     "img": "AssaultAttack",
     "range": 6,
     "AP": 9,
     "attr": "electric",
-    "description": "지정 대상에게 $(2) 보호 무시 전기 속성 피해를 주고, 행동 불가 상태로 만들며 전기 저항을 감소시킵니다. 일정 확률로 강화 효과를 해제합니다. <전하 충전> 중첩을 3 사용하며, 치명타 시 피해량이 증가합니다.",
+    "description": "Deals $(2) Electric damage to a single target with Ignore Protect and inflicts 'Stunned' / 'Electric Resist'-. A change to remove buffs.<br>Additional DMG+ when crits.<br>Consumes 3 'Charge Charging' stacks.",
     "areadata": [
       5
     ]
@@ -5697,11 +5697,11 @@
   "RocC_EV2_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "전자기파 Wavelength",
+    "name": "Electromagnetic Wavelength",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "<전하 충전> 중첩 수에 비례해 회피가 증가하며, 회피 시 반격합니다. 자신의 HP가 25% 이하인 상태로 적을 공격할 때, 회피가 추가로 증가합니다. 냉기 속성 공격 When unit is hit, 회피 강화 효과가 해제됩니다.",
+    "description": "Increases Roc's in proportion to the number of 'Charge Charing' stacks and grants Roc 'Counterattack' on evasion.<br>When attacking an enemy with less than 25% of their HP, further increases EVA.<br>When Roc is hit with an Ice Attack, removes EVA buffs.",
     "areadata": [
       5
     ]
@@ -5709,11 +5709,11 @@
   "RocC_EV2_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "전하 최대 충전",
+    "name": "Fully Charged",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "<전하 충전> 중첩이 5 이상인 경우, 2라운드 동안 방어막 / 피해 감소 효과를 무시하며 공격력 / 적중 / 치명타 / 효과 저항이 증가합니다. 해당 상태에서 냉기 속성 공격을 맞으면 강화 효과가 해제되며, 행동 불가 / 받는 피해 증가 상태가 됩니다.",
+    "description": "When affected by 5 or more 'Charge Charing' stacks, grants Roc ATK+ / ACC+ / CRIT+ / 'Effect Resist'+ / Ignore Barrier / Ignore DR for 2 rounds.<br>When Roc is hit with an Ice Attack while in this state, removes buffs and inflicts 'Damage Taken Increased'.",
     "areadata": [
       5
     ]
@@ -5721,11 +5721,11 @@
   "RocC_EV2_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "과충전 폭발",
+    "name": "Overcharing Explosion",
     "img": "SuiceideBomb",
     "range": 0,
     "AP": 0,
-    "description": "처치될 경우, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "description": "When Roc is defeated, deals fixed damage to surrounding allies.",
     "areadata": [
       7,
       8,
@@ -5741,11 +5741,11 @@
   "Undine_EV1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Double 리볼버 캐논",
+    "name": "Double Revolver Cannon",
     "img": "MGShot",
     "range": 3,
     "AP": 5,
-    "description": "리볼버 캐논으로 단일 대상에게 $(1.2) 피해를 주고, 대상을 도발하며 적중을 감소시킵니다. 대상이 방어력 감소 상태면 피해량이 증가합니다.",
+    "description": "Deals $(1.2) damage to a single target and inflicts 'Provoked' / ACC-. <br>Additional DMG+ to targets affected by DEF-.",
     "areadata": [
       5
     ]
@@ -5757,7 +5757,7 @@
     "img": "Missile",
     "range": 4,
     "AP": 8,
-    "description": "날치 Missile로 $(1.8) 피해를 줍니다. 대상의 받는 피해 감소 효과를 무시하며, 대상이 방어력 감소 상태이거나 경장형이면 피해량이 증가합니다.",
+    "description": "Deals $(1.8) damage to a single target with Ignore DR.<br>Additional DMG+ to targets affected by DEF-.<br>Additional Anti-Light DMG+.",
     "areadata": [
       5
     ]
@@ -5765,11 +5765,11 @@
   "Undine_EV1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "우향선회",
+    "name": "Orbit Right",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 회피가 증가하며 회피 감소 효과가 해제됩니다. 같은 열의 아래에 배치된 아군들에게 공격 지원 / 지정 대상 보호 / 회피 증가 해제 효과를 부여합니다. 자신의 회피 증가 효과는 최대 2번까지 중첩됩니다.",
+    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed below on the same column 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "areadata": [
       5,
       2
@@ -5778,11 +5778,11 @@
   "Undine_EV1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "오만과 분노",
+    "name": "Arrogance and Anger",
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 회피 시, 공격력 / 치명타 / 적중 / 행동력이 무작위로 증가합니다. 자신이 적 처치 시, 모든 아군의 회피 증가 효과를 해제하며 회피가 감소하고 받는 피해가 증가합니다.",
+    "description": "When unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
     "areadata": [
       7,
       8,
@@ -5798,11 +5798,11 @@
   "Undine_EV2_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Double 리볼버 캐논",
+    "name": "Double Revolver Cannon",
     "img": "MGShot",
     "range": 3,
     "AP": 6,
-    "description": "리볼버 캐논으로 단일 대상에게 $(1.4) 피해를 주고, 대상을 방어력과 적중을 감소시킵니다. 대상이 도발 상태면 피해량이 증가합니다.",
+    "description": "Deals(1.4) damage to a single target and inflicts DEF- / ACC-. <br>Additional DMG+ to targets affected by 'Provoked'.",
     "areadata": [
       5
     ]
@@ -5814,7 +5814,7 @@
     "img": "Missile",
     "range": 4,
     "AP": 9,
-    "description": "날치 Missile로 $(2.1) 피해를 줍니다. 대상의 방어력을 무시하며, 대상이 도발 상태 또는 중장형이면 피해량이 증가합니다.",
+    "description": "Deals $(2.1) damage to a single target with Ignore Protect.<br>Additional DMG+ to targets affected by 'Provoked'.<br>Additional Anti-Heavy DMG+.",
     "areadata": [
       5
     ]
@@ -5822,11 +5822,11 @@
   "Undine_EV2_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "우향선회?",
+    "name": "Orbit Right?",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 회피가 증가하며 회피 감소 효과가 해제됩니다. 양 옆에 배치된 아군들에게 공격 지원 / 지정 대상 보호 / 회피 증가 해제 효과를 부여합니다. 자신의 회피 증가 효과는 최대 2번까지 중첩됩니다.",
+    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed right above or below 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "areadata": [
       8,
       2
@@ -5835,11 +5835,11 @@
   "Undine_EV2_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "오만과 분노",
+    "name": "Arrogance and Anger",
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 회피 시, 공격력 / 치명타 / 적중 / 행동력이 무작위로 증가합니다. 자신이 적 처치 시, 모든 아군의 회피 증가 효과를 해제하며 회피가 감소하고 받는 피해가 증가합니다.",
+    "description": "When unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
     "areadata": [
       7,
       8,
@@ -5855,11 +5855,11 @@
   "Undine_EV3_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Double 리볼버 캐논",
+    "name": "Double Revolver Cannon",
     "img": "MGShot",
     "range": 3,
     "AP": 4,
-    "description": "리볼버 캐논으로 단일 대상에게 $(1) 피해를 주고, 대상을 회피와 적중을 감소시킵니다. 대상이 도발 상태면 피해량이 증가합니다.",
+    "description": "Deals $(1) damage to a single target and inflicts EVA- / ACC-. <br>Additional DMG+ to targets affected by 'Provoked'.",
     "areadata": [
       5
     ]
@@ -5871,7 +5871,7 @@
     "img": "Missile",
     "range": 4,
     "AP": 7,
-    "description": "날치 Missile로 $(1.5) 피해를 줍니다. 대상의 회피 강화 효과를 해제하며, 대상이 도발 상태 또는 기동형이면 피해량이 증가합니다.",
+    "description": "Deals $(1.5) damage to a single target and removes EVA buffs.<br>Additional DMG+ to targets affected by 'Provoked'.<br>Additional Anti-Flying DMG+.",
     "areadata": [
       5
     ]
@@ -5879,11 +5879,11 @@
   "Undine_EV3_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "우향선회???",
+    "name": "Orbit Right???",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 회피가 증가하며 회피 감소 효과가 해제됩니다. 같은 열 위에 배치된 아군들에게 공격 지원 / 지정 대상 보호 / 회피 증가 해제 효과를 부여합니다. 자신의 회피 증가 효과는 최대 2번까지 중첩됩니다.",
+    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 2 times.<br>Grants allies placed above on the same column 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "areadata": [
       8,
       5
@@ -5892,11 +5892,11 @@
   "Undine_EV3_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "오만과 분노",
+    "name": "Arrogance and Anger",
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 회피 시, 공격력 / 치명타 / 적중 / 행동력이 무작위로 증가합니다. 자신이 적 처치 시, 모든 아군의 회피 증가 효과를 해제하며 회피가 감소하고 받는 피해가 증가합니다.",
+    "description": "When unit evades, increases unit's ATK / CRIT / ACC / SPD at random.<br>When unit defeats an enemy, removes EVA buffs from all allies, reduces EVA and inflicts 'Damage Taken Increased'.",
     "areadata": [
       7,
       8,
@@ -5912,11 +5912,11 @@
   "AMG11AA_EV5_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "공격 개시",
+    "name": "Attack Commence",
     "img": "ARShot",
     "range": 5,
     "AP": 4,
-    "description": "기총 사격으로 $(1) 피해를 줍니다. 대상이 표식 상태면 피해량이 증가하고, 회피를 감소시킵니다.",
+    "description": "Deals $(1) to a single target.<br>If the target is affected by 'Marked', Additional DMG+ and inflicts EVA-.",
     "areadata": [
       5
     ]
@@ -5924,11 +5924,11 @@
   "AMG11AA_EV5_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "대공 기총 Random Fire",
+    "name": "Anti-Aircraft Gun Barrage",
     "img": "WideBeamShot",
     "range": 1,
     "AP": 6,
-    "description": "기총을 Random Fire해 $(1) 피해를 줍니다. 대상이 회피 감소 상태면 피해량이 증가하며, 강화 효과를 해제합니다.",
+    "description": "Deals $(1) to a single target.<br>If the target is affected by EVA-, Additional DMG+ and removes buffs.",
     "areadata": [
       7,
       4,
@@ -5939,11 +5939,11 @@
   "AMG11AA_EV5_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "대공 Radar 시스템",
+    "name": "Anti-Aircraft Radar System",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 인접 아군에게 적중 / 치명타 / 대 기동형 피해량 증가 효과를 부여합니다.",
+    "description": "At the start of each round, grants allies in Area of Effect ACC+ / CRIT+ / Anti-Flying DMG+.",
     "areadata": [
       7,
       8,
@@ -5958,11 +5958,11 @@
   "AMG11AA_EV5_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "시스템 과부하",
+    "name": "System Overload",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "파괴되면 주변 아군에게 걸려있는 강화 효과를 해제합니다. 슈퍼 네리(?)의 재촉으로 인한 공격력 증가 효과가 3 중첩 이상인 경우, 라운드 개시 시 방어막 / 피해 감소 무시 효과가 부여됩니다.",
+    "description": "When unit is defeated, removes buffs from surrounding allies. <br> If this unit is affected by 3 or more ATK buff stacks from Super Neri(?), at the start of each round, grants Ignore Barrier / Ignore DR.",
     "areadata": [
       8,
       4,
@@ -5974,11 +5974,11 @@
   "Nereid_EV1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "벌집 만들기",
+    "name": "Beehive Creation",
     "img": "MGShot",
     "range": 4,
     "AP": 3,
-    "description": "Minigun을 발사해 $(1.5) 피해를 줍니다. 대상을 표식으로 설정하고 받는 피해를 증가시킵니다.",
+    "description": "Deals $(1.5) damage to a single target and inflicts 'Marked' / 'Damage Taken Increased'.",
     "areadata": [
       5
     ]
@@ -5986,11 +5986,11 @@
   "Nereid_EV1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "무차별 Random Fire",
+    "name": "Indiscriminate Barrage",
     "img": "MGWideShot",
     "range": 4,
     "AP": 6,
-    "description": "Minigun을 Random Fire해 대상에게 $(2) 보호 무시 피해를 줍니다. 대상의 강화 효과를 해제하며, 치명타 시 피해량이 증가합니다.",
+    "description": "Deals $(2) to a target area with Ignore Protect and removes buffs.<br>Additional DMG+ when crits.",
     "areadata": [
       7,
       4,
@@ -6001,11 +6001,11 @@
   "Nereid_EV1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "덤벼덤벼!",
+    "name": "Bring it on!",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신의 남은 HP 비율이 적을수록 적에게 주는 피해가 증가하며, 받는 피해가 감소합니다. 효과 저항이 증가하며, HP 10% 이하 상태로 When unit is hit 반격합니다.",
+    "description": "Lower unit's HP increases DMG dealt by unit and increase unit's DR.<br>Increases unit's 'Status Resist'<br>When unit is hit and unit's HP is below 10%, 'Counterattack'.",
     "areadata": [
       5
     ]
@@ -6013,11 +6013,11 @@
   "Nereid_EV1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "전투 과몰입",
+    "name": "Battle Overcommitment",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 불능이 될 경우, HP를 회복하고 전투를 속행합니다. 전투 속행 효과 발동 시, 공격력 / 적중 / 치명타 / 행동력이 증가하며 방어막과 피해 감소 효과를 무시합니다.",
+    "description": "Grants unit 'Battle Continuation'.<br>When 'Battle Continuation' effect activated, grants unit ATK+ / ACC+ / CRIT+ / SPD+ / Ignore Barrier / Ignore DR.",
     "areadata": [
       5
     ]
@@ -6025,11 +6025,11 @@
   "Nereid_EV1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "네리와 부하들",
+    "name": "Neri and her men",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "적 공격 시, 부하들에게 명령을 내려 대상의 공격력 / 적중 / AP를 증가시킵니다.",
+    "description": "When unit attacks, increases allies' AP / ATK / ACC.",
     "areadata": [
       7,
       8,
@@ -6045,11 +6045,11 @@
   "Undine_EV4_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "Double 리볼버 캐논",
+    "name": "Double Revolver Cannon",
     "img": "MGShot",
     "range": 3,
     "AP": 5,
-    "description": "리볼버 캐논으로 단일 대상에게 $(1.2) 피해를 주고, 대상을 도발하며 공격력 / 치명타를 감소시킵니다. Additional DMG+ to targets affected by 'Marked'.",
+    "description": "Deals $(1.2) damage to a single target and inflicts 'Provoked' / ATK- / CRIT-.<br>Additional DMG+ to targets affected by 'Marked'.",
     "areadata": [
       5
     ]
@@ -6061,7 +6061,7 @@
     "img": "Missile",
     "range": 4,
     "AP": 8,
-    "description": "날치 Missile로 $(1.8) Def Pen피해를 줍니다. 대상이 표식 상태면 피해량이 크게 증가합니다.",
+    "description": "Deals $(1.8) damage to a single target with Def Pen.<br>Additional DMG+ to targets affected by 'Marked'.",
     "areadata": [
       5
     ]
@@ -6069,11 +6069,11 @@
   "Undine_EV4_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "우향선회?!",
+    "name": "Orbit Right?!",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 회피가 증가하며 회피 감소 효과가 해제됩니다. 같은 열에 인접한 보호기 제외 아군을 보호하며, 대상에게 공격 지원 / 적중 / 치명타 증가 효과를 부여합니다. 회피 증가 효과는 3회까지 중첩됩니다.",
+    "description": "When unit attacks, increases unit's EVA and removes EVA debuffs. This effect can stack up to 3 times.<br>Grants allies placed right above or below 'Follow Up Attack' / 'Target Protect' / EVA+.",
     "areadata": [
       8,
       5,
@@ -6083,11 +6083,11 @@
   "Undine_EV4_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "오만과 분노",
+    "name": "Arrogance and Anger",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "회피 시, 반격하며 회피 증가 효과가 해제됩니다. 회피 시, 주변에 있는 아군을 도발해 공격력 / 치명타를 증가시키지만 적중 감소 / 지정 보호 해제 / 받는 피해 증가 효과를 부여합니다.",
+    "description": "When unit evades, 'Counterattack' and removes unit's EVA buffs.<br>When unit evades, grants allies in Area of Effect ATK+ / CRIT+ but inflicts ACC- / 'Damage Taken Increased' and removes 'Target Protect'.",
     "areadata": [
       7,
       8,
@@ -6102,11 +6102,11 @@
   "Nereid_EV2_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "벌집 만들기",
+    "name": "Beehive Creation",
     "img": "MGShot",
     "range": 4,
     "AP": 5,
-    "description": "Minigun을 발사해 $(1.5) 피해를 줍니다. 대상이 표식 상태인 경우, 피해량이 크게 증가합니다.",
+    "description": "Deals $(1.5) to a single target.<br>Additional DMG+ to targets affected by 'Marked'.",
     "areadata": [
       5
     ]
@@ -6114,11 +6114,11 @@
   "Nereid_EV2_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "무차별 Random Fire",
+    "name": "Indiscriminate Barrage",
     "img": "MGWideShot",
     "range": 3,
     "AP": 8,
-    "description": "Minigun을 Random Fire해 대상에게 $(1.25) 피해를 줍니다. 목표 대상들의 적중 / 회피 / 행동력을 감소시킵니다.",
+    "description": "Deals $(1.25) damage to target area and inflicts ACC- / EVA- / SPD-.",
     "areadata": [
       7,
       4,
@@ -6129,11 +6129,11 @@
   "Nereid_EV2_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "덤벼덤벼!",
+    "name": "Bring it on!",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "자신의 남은 HP 비율이 적을수록 적에게 주는 피해가 증가하며, 받는 피해가 감소합니다.",
+    "description": "Lower unit's HP increases DMG dealt by unit and increase unit's DR.",
     "areadata": [
       5
     ]
@@ -6141,11 +6141,11 @@
   "Nereid_EV2_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "전투 과몰입",
+    "name": "Battle Overcommitment",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 불능이 될 경우, 1회에 한해 HP를 회복하고 전투를 속행합니다. 전투 속행 효과 발동 시, 해당 전투 동안 피해 감소 효과를 무시하며 공격력이 증가합니다.",
+    "description": "Grants unit 'Battle Continuation' (1 time).<br>When 'Battle Continuation' effect activated, grants unit ATK+ / Ignore DR for the rest of the wave.",
     "areadata": [
       5
     ]
@@ -6153,11 +6153,11 @@
   "GigantesDagon_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "심해의 분노",
+    "name": "Deep Sea Rage",
     "img": "MeleeAttack",
     "range": 1,
     "AP": 8,
-    "description": "대상을 강타해 $(3) 보호 무시 피해를 줍니다. 대상의 방어력 / 방어막 / 피해 감소 효과를 무시합니다.",
+    "description": "Deals $(3) damage to a single target with Ignore Protect / DEF / Barrier / DR.",
     "areadata": [
       5
     ]
@@ -6165,11 +6165,11 @@
   "GigantesDagon_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "타이달 어썰트",
+    "name": "Tidal Assault",
     "img": "AssaultAttack",
     "range": 2,
     "AP": 6,
-    "description": "대상에게 돌격해 $(1.5) 피해를 줍니다. 대상이 표식 상태면 강화 효과를 해제하고 행동 불가 상태로 만든 후, 뒤로 1칸 밀어냅니다.",
+    "description": "Deals $(1.5) damage to a single target.<br>If the target is affected by 'Rooted', removes buffs, inflicts 'Stunned' and Push Back 1 square.",
     "areadata": [
       5
     ]
@@ -6177,11 +6177,11 @@
   "GigantesDagon_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "심해의 거신",
+    "name": "Deep Sea's God",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시 방어력 / 냉기 / 효과 저항이 크게 증가하며, 5라운드 동안 행 보호 / 받는 피해 감소 효과가 적용됩니다.",
+    "description": "At the start of each wave, increases Dagon's DEF / Ice Resist / Status Resist and grants unit Row / Column Protect for 5 rounds.",
     "areadata": [
       5
     ]
@@ -6189,11 +6189,11 @@
   "GigantesDagon_N_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "보호 전환",
+    "name": "Protection Transition",
     "img": "TeamDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 2라운드 동안 범위 내에 있는 아군에게 지정 대상 보호 효과를 부여합니다.",
+    "description": "When Dagon attacks, grants allies in Area of Effect 'Target Protect' for 2 rounds.",
     "areadata": [
       8,
       9,
@@ -6204,11 +6204,11 @@
   "Sirene_EV1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "57mm 대공포",
+    "name": "57mm Anti-Air Gun",
     "img": "MGShot",
     "range": 5,
     "AP": 5,
-    "description": "대공포를 발사해 $(1.35) 피해를 주고, 대상을 표식으로 설정해 받는 피해를 증가시키고 회피를 감소시킵니다. 대상이 기동형인 경우, 피해량이 증가합니다.",
+    "description": "Deals $(1.35) damage to a single target and inflicts 'Marked' / 'Damage Taken Increased' / EVA-.<br>Additional Anti-Flying DMG+.",
     "areadata": [
       5
     ]
@@ -6216,11 +6216,11 @@
   "Sirene_EV1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Shelling 지휘",
+    "name": "Artillery Command",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 8,
-    "description": "범위 내 아군의 AP / 행동력 / 효과 저항을 증가시키고, 대상에게 걸려있는 해로운 효과를 해제합니다. 추가로, 대상들의 공격을 지원합니다.",
+    "description": "Increases AP / SPD / Status Resist of allies in Area of Effect, removes debuffs and grants 'Follow Up Attack'.",
     "areadata": [
       7,
       8,
@@ -6236,11 +6236,11 @@
   "Sirene_EV1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "협차 사격",
+    "name": "Bracket Fire",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 범위 내 아군들의 적중 / 치명타 / 방어 관통을 증가시킵니다.",
+    "description": "When Sirene attacks, grant ACC+ / CRIT+ / DEF Pen+ to allies in Area of Effect.",
     "areadata": [
       7,
       8,
@@ -6255,11 +6255,11 @@
   "Sirene_EV1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "요격 모드",
+    "name": "Interception Mode",
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, AP가 증가하며 받는 피해가 감소합니다. 아군이 처치될 경우, AP가 크게 증가합니다.",
+    "description": "At the start of each wave, increase Sirene's AP and grants Sirene DR+.<br>When an ally is defeated, increases Sirene's AP.",
     "areadata": [
       5
     ]
@@ -6267,11 +6267,11 @@
   "Sirene_EV1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "관측 Shelling",
+    "name": "Artillery Observation",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 공격 지원을 받는 상태면 적중 / 치명타가 증가합니다.",
+    "description": "At the start of each round, if Sirene is affected by 'Follow Up Attack', increases Sirene's ACC / CRIT.",
     "areadata": [
       5
     ]
@@ -6279,11 +6279,11 @@
   "Sirene_EV2_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "203mm 연장포",
+    "name": "203mm Main Gun",
     "img": "CannonShot",
     "range": 5,
     "AP": 10,
-    "description": "직사 Shelling으로 지정 범위에 $(2) 피해를 줍니다. 대상이 표식 / 이동 불가 상태면 피해량이 증가합니다.",
+    "description": "Deals $(2) damage to target area. Additional DMG+ to targets affected by 'Marked' / 'Rooted'.",
     "areadata": [
       8,
       5
@@ -6292,11 +6292,11 @@
   "Sirene_EV2_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "초토화 Shelling",
+    "name": "Scouring Bombardment",
     "img": "AirStrike",
     "range": 5,
     "AP": 10,
-    "description": "Shelling 연사로 지정 범위에 $(1.5) 보호 무시 피해를 줍니다. 목표 지점 주변은 피해량이 25% 감소하며, 대상이 경장 / 중장형이면 피해량 증가하며 1칸 뒤로 밉니다. 스킬 사용 시, 2라운드 동안 행동 불가가 됩니다.",
+    "description": "Deals $(1.5) damage to target area with Ignore Protect.<br>Damage decreases to 50% for non-center area.<br>If the target is Light/Heavy-type, Additional Anti-Light/Heavy DMG+ and Push Back 1 square.<br>If this skill is used, Sirene won't be able to act for 2 rounds.",
     "areadata": [
       0.75,
       0.75,
@@ -6312,11 +6312,11 @@
   "Sirene_EV2_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "협차 사격",
+    "name": "Bracket Fire",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "공격 시, 범위 내 아군들의 적중 / 치명타 / 방어 관통을 증가시킵니다.",
+    "description": "When Sirene attacks, grant ACC+ / CRIT+ / DEF Pen+ to allies in Area of Effect.",
     "areadata": [
       7,
       8,
@@ -6331,11 +6331,11 @@
   "Sirene_EV2_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Shelling 모드",
+    "name": "Bombarding Mode",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 공격력 / 방어 관통이 증가합니다.",
+    "description": "At the start of each round, increases Sirene's ATK / Def Pen.",
     "areadata": [
       5
     ]
@@ -6343,11 +6343,11 @@
   "Sirene_EV2_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "관측 Shelling",
+    "name": "Artillery Observation",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 공격 지원을 받는 상태면 적중 / 치명타가 증가하며, 방어막 / 피해 감소 효과를 무시합니다.",
+    "description": "At the start of each round, if Sirene is affected by 'Follow Up Attack', increases Sirene's ACC / CRIT.",
     "areadata": [
       5
     ]
@@ -6367,7 +6367,7 @@
   "NightChickCMP_N_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "Rapid Corrosive Bullet Random Fire",
+    "name": "Rapid Corrosive Bullet Barrage",
     "img": "MultiMissile",
     "range": 4,
     "AP": 7,
@@ -7301,11 +7301,11 @@
   "NightChick_C_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "칙 복원 시스템",
+    "name": "칙 Restoration System",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 나이트 칙 실더???의 <복원 시스템 제어> 효과를 받는 상태면 효과 저항이 증가하며, 전투 속행 효과가 적용됩니다. <복원 시스템 제어> 상태에서 전투 속행 시, 영구 적용되는 전투 속행인  <칙 영구 복원> 상태가 됩니다. <칙 영구 복원> 상태로 라운드 개시 시, 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다. 해당 효과들은 강화 해제로 효과로는 해제되지 않습니다.",
+    "description": "라운드 개시 시, 나이트 칙 실더???의 <Restoration System 제어> 효과를 받는 상태면 효과 저항이 증가하며, 전투 속행 효과가 적용됩니다. <Restoration System 제어> 상태에서 전투 속행 시, 영구 적용되는 전투 속행인  <칙 영구 복원> 상태가 됩니다. <칙 영구 복원> 상태로 라운드 개시 시, 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다. 해당 효과들은 강화 해제로 효과로는 해제되지 않습니다.",
     "areadata": [
       5
     ]
@@ -7313,11 +7313,11 @@
   "NightChick_C_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "칙 복원 시스템 오류",
+    "name": "칙 Restoration System 오류",
     "img": "SelfDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, <복원 시스템 오류> 상태면 받는 피해가 증가하며 전투 속행 효과가 제거됩니다.",
+    "description": "라운드 개시 시, <Restoration System 오류> 상태면 받는 피해가 증가하며 전투 속행 효과가 제거됩니다.",
     "areadata": [
       5
     ]
@@ -7366,11 +7366,11 @@
   "NightChickM_C_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "칙 복원 시스템",
+    "name": "칙 Restoration System",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, 나이트 칙 실더???의 <복원 시스템 제어> 효과를 받는 상태면 효과 저항이 증가하며, 전투 속행 효과가 적용됩니다. <복원 시스템 제어> 상태에서 전투 속행 시, 영구 적용되는 전투 속행인  <칙 영구 복원> 상태가 됩니다. <칙 영구 복원> 상태로 라운드 개시 시, 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다. 해당 효과들은 강화 해제로 효과로는 해제되지 않습니다.",
+    "description": "라운드 개시 시, 나이트 칙 실더???의 <Restoration System 제어> 효과를 받는 상태면 효과 저항이 증가하며, 전투 속행 효과가 적용됩니다. <Restoration System 제어> 상태에서 전투 속행 시, 영구 적용되는 전투 속행인  <칙 영구 복원> 상태가 됩니다. <칙 영구 복원> 상태로 라운드 개시 시, 공격력 / 적중 / 치명타 / 회피 / 행동력이 증가합니다. 해당 효과들은 강화 해제로 효과로는 해제되지 않습니다.",
     "areadata": [
       5
     ]
@@ -7378,11 +7378,11 @@
   "NightChickM_C_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "칙 복원 시스템 오류",
+    "name": "칙 Restoration System 오류",
     "img": "SelfDefDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "라운드 개시 시, <복원 시스템 오류> 상태면 받는 피해가 증가하며 전투 속행 효과가 제거됩니다.",
+    "description": "라운드 개시 시, <Restoration System 오류> 상태면 받는 피해가 증가하며 전투 속행 효과가 제거됩니다.",
     "areadata": [
       5
     ]
@@ -7426,11 +7426,11 @@
   "NightChickS_C_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "칙 복원 시스템 제어",
+    "name": "칙 Restoration System 제어",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "전투 개시 시, 주변 아군들에게 <칙 복원 시스템> 효과가 적용됩니다. 라운드 개시 시, <칙 Shield 올리기>중첩이 7 이면 <복원 시스템 오류> 상태가 되어 주변 아군의 <칙 복원 시스템>을 해제합니다. <칙 복원 시스템>은 자신이 <복원 시스템 오류> 상태가 아니면 라운드 개시 시, 다시 활성화됩니다.",
+    "description": "전투 개시 시, 주변 아군들에게 <칙 Restoration System> 효과가 적용됩니다. 라운드 개시 시, <칙 Shield 올리기>중첩이 7 이면 <Restoration System 오류> 상태가 되어 주변 아군의 <칙 Restoration System>을 해제합니다. <칙 Restoration System>은 자신이 <Restoration System 오류> 상태가 아니면 라운드 개시 시, 다시 활성화됩니다.",
     "areadata": [
       7,
       8,
@@ -7702,7 +7702,7 @@
   "GigantesC_N_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "복구 모드",
+    "name": "Recovery Mode",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
@@ -8023,7 +8023,7 @@
   "Raider_EW_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "광탄 Random Fire",
+    "name": "광탄 Barrage",
     "img": "WideLightning",
     "range": 5,
     "AP": 5,
