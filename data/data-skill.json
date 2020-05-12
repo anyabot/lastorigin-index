@@ -9236,11 +9236,11 @@
   "Destroyer_tmp_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "대구경 집속 입자포",
+    "name": "Large-Caliber Focus Particle Cannon",
     "img": "BeamShot",
     "range": "9",
     "AP": "10",
-    "description": "지정 범위에 $(4) 보호 무시 피해를 줍니다. 대상의 방어막 / 피해 감소 / 방어력을 무시하며, <집속 에너지 필드> 상태를 해제합니다.",
+    "description": "Deals $(4) that Ignore Protect / Barrier / DR / DEF, and remove self's 'Concentrated Energy Field' buff.",
     "areadata": [
       4,
       5,
@@ -9250,11 +9250,11 @@
   "Destroyer_tmp_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "에너지 충전 개시",
+    "name": "Energy Charging Initiation",
     "img": "SelfDefBuff",
     "range": "8",
     "AP": "10",
-    "description": "에너지 충전을 개시해 <집속 에너지 필드>를 활성화합니다.",
+    "description": "Grants self 'Concentrated Energy Field' buff.",
     "areadata": [
       5
     ]
@@ -9262,11 +9262,11 @@
   "Destroyer_tmp_1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "동작 패턴 분석",
+    "name": "Behavior Pattern Analysis",
     "img": "SelfAtkBuff",
     "range": "0",
     "AP": "0",
-    "description": "라운드 개시 시, 강화 효과 해제로 해제 불가의 적중 (최대 10회 중첩) / 행동력 (최대 5회 중첩)이 증가합니다. 침수 상태에서 냉기 공격에 피격 시, 자신에게 적용되어 있는 모든 적중 / 행동력 효과를 해제합니다.",
+    "description": "At the start of each round, increase self's ACC+ / SPD+ upto 10 / 5 stacks (unremovable).<br>When hit by Ice damage while affected by 'Wet', remove all ACC+ / SPD+ buff from self.",
     "areadata": [
       5
     ]
@@ -9274,11 +9274,11 @@
   "Destroyer_tmp_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "반응로 폭발",
+    "name": "Reactor Explosion",
     "img": "SuiceideBomb",
     "range": "0",
     "AP": "0",
-    "description": "전투 개시 시, AP가 증가하고 침수 상태에서 처치될 경우, 주변에 괴멸적인 고정 피해를 줍니다.",
+    "description": "At the start of each wave, AP+ self. If defeated while affected by 'Wet', deals massive damage to surrounding allies.",
     "areadata": [
       1,
       2,
@@ -9294,11 +9294,11 @@
   "Destroyer_tmp_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "집속 에너지 필드",
+    "name": "Concentrated Energy Field",
     "img": "SelfDefBuff",
     "range": "0",
     "AP": "0",
-    "description": "<집속 에너지 필드> 상태에서는 최소 피해만 입으며 강화 효과 해제로 해제 불가합니다. <집속 에너지 필드> 상태에서 한 라운드에 6회 피격 시, <집속 에너지 필드>가 해제 되고, 3라운드 동안 <집속 에너지 필드 사용 불가> 상태로 만듭니다.",
+    "description": "While affected by <Concentrated Energy Field>, Minimize all damage taken. Buff can't be removed by Buff Removal.<br>If hit 6 times in a single round while affected by <Concentrated Energy Field>, remove the <Concentrated Energy Field> buff, and enter <Unable to use Concentrated Energy Field> state for 3 rounds.",
     "areadata": [
       5
     ]
