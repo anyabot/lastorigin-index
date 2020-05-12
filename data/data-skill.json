@@ -9240,7 +9240,7 @@
     "img": "BeamShot",
     "range": "9",
     "AP": "10",
-    "description": "Deals $(4) that Ignore Protect / Barrier / DR / DEF, and remove self's 'Concentrated Energy Field' buff.",
+    "description": "Deals $(4) damage that Ignore Protect / Barrier / DR / DEF, and remove self's 'Concentrated Energy Field' buff.",
     "areadata": [
       4,
       5,
