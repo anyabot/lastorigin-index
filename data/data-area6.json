@@ -710,86 +710,65 @@
           ]
         },
         {
-          "title": "wave2",
-          "enemylist": [
-            {
-              "index": "ProgramMobMT_N",
-              "level": 75
-            },
-            {
-              "index": "ProgramMobMT_N",
-              "level": 75
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "ProgramMobTT_TU2",
-              "level": 76
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "ProgramMobTT_N",
-              "level": 75
-            },
-            {
-              "index": "ProgramMobMS_N",
-              "level": 75
-            },
-            {
-              "index": "",
-              "level": 0
-            }
-          ]
-        },
-        {
-          "title": "wave3",
-          "enemylist": [
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "ProgramMobTS_N",
-              "level": 75
-            },
-            {
-              "index": "ProgramMobMS_N",
-              "level": 76
-            },
-            {
-              "index": "ProgramMobMT_N",
-              "level": 75
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "ProgramMobAT_N",
-              "level": 75
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "ProgramMobTT_N",
-              "level": 75
-            },
-            {
-              "index": "ProgramMobMS_N",
-              "level": 76
-            }
-          ]
+            "title": "wave2",
+            "enemylist": [{
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobTT_N",
+                "level": 75
+            }, {
+                "index": "ProgramMobTN_N",
+                "level": 75
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobAS_N",
+                "level": 76
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobTT_N",
+                "level": 75
+            }, {
+                "index": "ProgramMobTN_N",
+                "level": 75
+            }]
+        }, {
+            "title": "wave3",
+            "enemylist": [{
+                "index": "ProgramMobMS_N",
+                "level": 75
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobAN_N",
+                "level": 76
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobMN_N",
+                "level": 75
+            }, {
+                "index": "ProgramMobAT_N",
+                "level": 75
+            }, {
+                "index": "ProgramMobTS_N",
+                "level": 75
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobAN_N",
+                "level": 76
+            }]
         },
         {
           "title": "wave4",
@@ -884,45 +863,35 @@
           ]
         },
         {
-          "title": "wave2",
-          "enemylist": [
-            {
-              "index": "ProgramMobTS_N",
-              "level": 75
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "ProgramMobMS_N",
-              "level": 76
-            },
-            {
-              "index": "ProgramMobTT_TU2",
-              "level": 77
-            },
-            {
-              "index": "ProgramMobTS_N",
-              "level": 75
-            },
-            {
-              "index": "",
-              "level": 0
-            },
-            {
-              "index": "ProgramMobMN_N",
-              "level": 76
-            }
-          ]
+            "title": "wave2",
+            "enemylist": [{
+                "index": "ProgramMobMT_N",
+                "level": 75
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobMS_N",
+                "level": 76
+            }, {
+                "index": "ProgramMobTT_TU2",
+                "level": 76
+            }, {
+                "index": "ProgramMobMT_N",
+                "level": 75
+            }, {
+                "index": "",
+                "level": 0
+            }, {
+                "index": "ProgramMobTN_N",
+                "level": 76
+            }]
         },
         {
           "title": "wave3",
@@ -2415,6 +2384,56 @@
           ]
         }
       ]
-    }
+    },
+	{
+      "title": "6-8Ex",
+      "grid": [
+        6,
+        2
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "ExecutionerRB_B06",
+              "level": 70
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "ExecutionerLB_B06",
+              "level": 70
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Executioner_tmp_1",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "ExecutionerLB_B06",
+              "level": 70
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "ExecutionerRB_B06",
+              "level": 70
+            }
+          ]
+        }
+      ]
+    }	    
   ]
 }
