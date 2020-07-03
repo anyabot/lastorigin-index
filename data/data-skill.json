@@ -3596,7 +3596,7 @@
   "ExecutionerLB_N_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "쪼개기",
+    "name": "Split",
     "img": "SwordAttk",
     "range": 5,
     "AP": 5,
@@ -8374,7 +8374,7 @@
   "ExecutionerLB_EW_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "쪼개기",
+    "name": "Split",
     "img": "SwordAttk",
     "range": 5,
     "AP": 5,
@@ -8448,7 +8448,7 @@
     "img": "SwordAttk",
     "range": 5,
     "AP": 4,
-    "description": "지정 범위에 $(1) 피해를 줍니다. 대상이 행동 불가 상태면 피해량이 크게 증가하며, 해제 불가 행동 불능 효과를 부여합니다.",
+    "description": "Deals $(1) damage to a single target.<br>If the target is affected by 'Stunned', Additional DMG+ and inflicts 'Stunned' that can not be removed.",
     "areadata": [
       0.5,
       0,
@@ -8504,11 +8504,11 @@
   "Executioner_EW_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "파괴 본능",
+    "name": "Destructive Instinct",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "아군이 사망 시 파괴 본능에 빠져<br>해당 라운드에는 행동 불가 상태가 되고,<br>3라운드 동안 방어 관통력 / 공격력이 대폭 증가 합니다.<br>파괴 본능이 적용된 상태에서 속성 공격에 When unit is hit 높은 확률로 해당 라운드에는 행동 불가 상태에 빠지게 됩니다.",
+    "description": "When an ally is defeated, enter 'Destructive Instinct' state, becoming 'Stunned' for that round and gaining DEF Pen+ / ATK+ for 3 rounds.<br>When Executioner is hit with Elemental Attack while affected by 'Destructive Instinct', high chance to become 'Stunned'.",
     "areadata": [
       5
     ]
@@ -9306,11 +9306,11 @@
   "Executioner_tmp_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "처형 개시",
+    "name": "Execution Initiation",
     "img": "SwordAttk",
     "range": "5",
     "AP": "4",
-    "description": "지정 대상에게 $(1) 피해를 줍니다. 대상이 행동 불가 상태면 피해량이 크게 증가하며, 해제 불가 행동 불능 효과를 부여합니다.",
+    "description": "Deals $(1) damage to a single target.<br>If the target is affected by 'Stunned', Additional DMG+ and inflicts 'Stunned' that can not be removed.",
     "areadata": [
       5
     ]
@@ -9318,11 +9318,11 @@
   "Executioner_tmp_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "학살",
+    "name": "Slaughter",
     "img": "WideSwordAttk",
     "range": "4",
     "AP": "8",
-    "description": "지정 범위에 $(1.25) 보호 무시 피해를 줍니다. 처형자 효과들이 10 중첩 이상이면 추가 화염 피해를 주며, 대상에게 걸려있는 강화 효과를 해제합니다. 처형자 중첩을 10 소모합니다.",
+    "description": "Deals $(1.25) damage to target area with Ignore Protect.<br>Additional Fire DMG+ and removes buffs if Executioner is affected by 10 or more 'Executioner' stacks.<br>Consumes 10 'Executioner' stacks.",
     "areadata": [
       7,
       9,
@@ -9334,11 +9334,11 @@
   "Executioner_tmp_1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "처형자",
+    "name": "Executioner",
     "img": "SelfAtkBuff",
     "range": "0",
     "AP": "0",
-    "description": "피격 시, 공격력/행동력이 영구적으로 증가합니다. 자신이 <공격 연계> 효과를 받는 상태면 공격 대상의 방어막과 피해 감소 효과를 무시하고 <공격 차단> 효과를 받는 상태면 적중이 증가합니다.",
+    "description": "When Executioner is hit, increases Executioner's ATK / SPD permanently.<br>If Executioner is affected by 'Attack Link', grants Executioner Ignore Barrier/DR, and if Executioner is affected by 'Attack Block', grants Executioner ACC+.",
     "areadata": [
       5
     ]
@@ -9346,11 +9346,11 @@
   "Executioner_tmp_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "왜곡장",
+    "name": "Distortion Field",
     "img": "SelfDefBuff",
     "range": "0",
     "AP": "0",
-    "description": "모든 피해를 최소 피해만 받습니다. 처형자 효과들이 10 중첩 이상인 상태로 피격 시, 오버플로우로 인한 고정 물리 피해를 받으며 모든 강화 효과가 해제됩니다.",
+    "description": "Takes only minimal damage.<br>When Executioner is hit while affected by 10 or more 'Executioner' stacks, takes fixed damage and removes all buffs.",
     "areadata": [
       5
     ]
@@ -9358,22 +9358,22 @@
   "Executioner_tmp_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "본능",
+    "name": "Instinct",
     "img": "SelfAtkBuff",
     "range": "0",
     "AP": "0",
-    "description": "라운드 개시 시, 저항 본능이 발동하여 효과 저항이 증가하고 모든 해로운 효과를 해제합니다. 아군이 사망 시, 파괴 본능에 빠져 해당 라운드에는 행동 불가 상태가 되며 3라운드 동안 방어 관통력 / 공격력이 대폭 증가합니다. 파괴 본능이 적용돼 있는 동안, 저항 본능이 사라집니다.",
+    "description": "At the start of round, gain 'Resistance Instinct', increasing self Status Resist and removing debuffs.<br>When an ally is defeated, enter 'Destructive Instinct' state, becoming 'Stunned' for that round and gaining DEF Pen+ / ATK+ for 3 rounds.<br>When Executioner is in 'Destructive Instinct' state, 'Resistance Instinct' effects are not applied.",
     "areadata": [
       5
     ]},
   "NestGuardian_tmp_2_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "과열·폭주",
+    "name": "Overheat - Berserk",
     "img": "SelfAtkDeBuff",
     "range": "0",
     "AP": "0",
-    "description": "스킬을 사용 시, <과열> 상태가 적용됩니다. 라운드 개시 시, <과열> 상태가 3중첩이라면 3라운드 동안 <작동 정지> 상태에 빠져 행동 불능 상태가 되고 해당 상태에서 화염 공격에 피격 시, 3라운드 동안 받는 피해가 증가합니다. [네스트]가 파괴 된 상태로 라운드 개시 시, <폭주> 상태에 빠져 AP가 증가하고 공격력 / 적중 / 방어 관통 증가하지만 지속 피해를 입습니다.",
+    "description": "When using Active Skills, gain 'Overheating' stacks.<br>When attacked while affected by 3 stacks of 'Overheating', gains 'Operation Stopped' status and become 'Stunned', and if attacked by Ice Damage in this state, inflict self 'Damage Taken Increased' for 3 rounds.<br>At the start of rounds, if Nest was destroyed, enter 'Berserk' state, gainning AP / ATK+ / ACC+ / DEF Pen+ but take continuous damage.",
     "areadata": [
       5
     ]
@@ -9381,11 +9381,11 @@
   "NestChaser_tmp_2_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "과열·폭주",
+    "name": "Overheat - Berserk",
     "img": "SelfAtkDeBuff",
     "range": "0",
     "AP": "0",
-    "description": "스킬을 사용 시, <과열> 상태가 적용됩니다. 라운드 개시 시, <과열> 상태가 3중첩이라면 3라운드 동안 <작동 정지> 상태에 빠져 행동 불능 상태가 되고 해당 상태에서 냉기 공격에 피격 시, 3라운드 동안 받는 피해가 증가합니다. [네스트]가 파괴 된 상태로 라운드 개시 시, <폭주> 상태에 빠져 AP가 증가하고 공격력 / 적중 / 방어 관통 증가하지만 지속 피해를 입습니다.",
+    "description": "When using Active Skills, gain 'Overheating' stacks.<br>When attacked while affected by 3 stacks of 'Overheating', gains 'Operation Stopped' status and become 'Stunned', and if attacked by Ice Damage in this state, inflict self 'Damage Taken Increased' for 3 rounds.<br>At the start of rounds, if Nest was destroyed, enter 'Berserk' state, gainning AP / ATK+ / ACC+ / DEF Pen+ but take continuous damage.",
     "areadata": [
       5
     ]
@@ -9393,11 +9393,11 @@
   "Nest_B07_1_Skill1": {
     "title": "askill1",
     "type": "active",
-    "name": "파멸 도래",
+    "name": "Ruin's Advent",
     "img": "Beam",
     "range": "5",
     "AP": "3",
-    "description": "에너지 응집체를 발사해 $(1.5) 피해를 줍니다. 대상이 <침식> 효과에 적용되어 있는 상태일 시 피해량이 증가합니다.",
+    "description": "Deals $(1.5) damage to target area.<br>Additional DMG+ to targets affected by 'Erosion'.",
     "areadata": [
       4,
       5
@@ -9406,11 +9406,11 @@
   "Nest_B07_1_Skill2": {
     "title": "askill2",
     "type": "active",
-    "name": "침식",
+    "name": "Erosion",
     "img": "MultiMissile",
     "range": "3",
     "AP": "7",
-    "description": "목표 지점에 $(1) 피해를 주는 침식체를 발사합니다. 목표 지점 주변은 피해가 25% 감소합니다. 적중 시, 모든 강화 효과가 해제 되며 30% 확률로 대상을 뒤로 밀고 공격력 / 방어력을 대폭 감소시킵니다. 공격력 / 방어력 감소 효과는 전투가 진행될수록 점감 됩니다.",
+    "description": "Deals $(1) damage to target area.<br>Damage is decreased by 25% for non-center targets.<br>On hit, removes all buffs and inflicts ATK- / DEF-. ATK/DEF debuffs are decreased as battle progressed.",
     "areadata": [
       0,
       0.75,
@@ -9426,11 +9426,11 @@
   "Nest_B07_1_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "은총 하사·응징",
+    "name": "Granting Blessing - Retribution",
     "img": "TeamAtkBuff",
     "range": "0",
     "AP": "0",
-    "description": "자신의 HP에 따라 자신에게 버프가 부여 되고, 주위 아군에게 점차 강해지는 버프 효과를 부여합니다.<br>아군이 사망 시, 2라운드 동안 주위 아군의 공격을 지원해 적을 응징합니다.<br><br>은총 하사 1단계 (HP 100% ~ 80%)<br>자신의 적중 증가<br>주위 아군의 공격력 / 방어력 증가<br><br>은총 하사 2단계 (HP 80% ~ 50%)<br>자신의 적중 / 방어 관통 증가<br>주위 아군의 공격력 / 방어력 / 적중 증가<br><br>은총 하사 3단계 (HP 50% ~ 0%)<br>자신의 적중 / 방어 관통 증가 / 방어막 / 피해 감소 무시<br>주위 아군의 공격력 / 방어력 / 적중 증가",
+    "description": "Depending on Nest's HP, grants Nest buffs and grants surrounding allies gradually stronger buffs.<br>When an ally is defeated, grants 'Follow Up Attack' to surrounding allies.<br>Granting Blessing Phase 1 (100% ~ 80% HP): Grants self ACC+. Grants allies ATK+ / DEF+.<br>Granting Blessing Phase 2 (80% ~ 50% HP): Grants self ACC+ / DEF Pen+. Grants allies ATK+ / DEF+ / ACC+.<br>Granting Blessing Phase 3 (50% ~ 0% HP): Grants self ACC+ / DEF Pen+ / Barrier / DR+. Grants allies ATK+ / DEF+ / ACC+.",
     "areadata": [
       1,
       2,
@@ -9445,11 +9445,11 @@
   "Nest_B07_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "배리어 전개",
+    "name": "Barrier Deployment",
     "img": "Barrier",
     "range": "0",
     "AP": "0",
-    "description": "전투 개시 시, <배리어>가 전개 되고 피격 시, <배리어 전개 준비> 상태가 되며 4회 중첩인 상태로 피격 시, <배리어>가 전개되어 3라운드 동안 피해를 5회 무효화합니다. <배리어>가 전개돼있는 동안 피격 시, 해로운 효과를 해제하고 아군이 사망 시, <배리어>가 강제로 해제되어 3라운드 동안 받는 피해가 증가합니다.",
+    "description": "At the start of battle, gain 'Barrier Deployed' status. When hit, gains a stack of 'Readying Barrier Deployment' status, and when it reaches 4 stack, gains 'Barrier Deployed' status, gaining 'Nullify Damage' status for 5 hits for 3 rounds.<br>If hit while affected by <Barrier Deployed> status, remove debuffs on itself.<br>When ally's destroyed, <Barrier Deployed> is forcefully removed, and inflict self 'Damage Taken Increased' for 3 rounds.",
     "areadata": [
       5
     ]
@@ -9457,11 +9457,11 @@
   "Nest_B07_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
-    "name": "사출 시스템 파괴",
+    "name": "Injection System Destruction",
     "img": "TeamAtkDeBuff",
     "range": "0",
     "AP": "0",
-    "description": "<배리어 전개> 상태에서 속성 공격에 피격 시, <사출 시스템 손상> 상태가 되며 해당 상태가 3회 중첩 된 상태로 피격 시, <사출 시스템 파괴>가 되어 <침식> 스킬을 사용할 수 없게 됩니다.",
+    "description": "When hit with Elemental Attack while affected by 'Barrier Deployed', inflict a stack of 'Damaged Ejection System' to self, and when hit while affected by 3 stacks of 'Damaged Ejection System', inflict 'Ejection System Destroyed' to self, and become unable to use 'Corrosion'.",
     "areadata": [
       5
     ]
