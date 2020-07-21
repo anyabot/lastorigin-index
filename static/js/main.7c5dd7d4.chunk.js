@@ -697,7 +697,7 @@
                             return p.a.async((function(n) {
                                 for (;;) switch (n.prev = n.next) {
                                     case 0:
-                                        return t = ["1", "2", "3", "4", "5", "6", "7", "Daily1", "Daily2", "Daily3", "Ev11", "Ev21", "Ev22", "Ev23", "Ev31", "Ev41", "Ev51", "Ev52", "Ev61", "Ev62"], n.next = 3, p.a.awrap(Promise.all(t.map((function(e) {
+                                        return t = ["1", "2", "3", "4", "5", "6", "7", "Daily1", "Daily2", "Daily3", "Ev11", "Ev21", "Ev22", "Ev23", "Ev31", "Ev41", "Ev51", "Ev52", "Ev61", "Ev62", "Ev71"], n.next = 3, p.a.awrap(Promise.all(t.map((function(e) {
                                             return t = e, new Promise((function(e, a) {
                                                 c("data/data-area" + t + ".json").then((function(t) {
                                                     return e(t)
