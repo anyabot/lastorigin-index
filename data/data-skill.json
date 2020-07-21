@@ -9465,5 +9465,133 @@
     "areadata": [
       5
     ]
+	},
+  "PhalangitesH_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Machine Gan Rapid Fire",
+    "img": "ARShot",
+    "range": 4,
+    "AP": 4,
+    "description": "Deals $(1) damage to a single target.<br>Additional Anti-Flying DMG+.",
+    "areadata": [
+      5
+    ]
+  },
+  "PhalangitesH_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Rank Defense",
+    "img": "TeamDefBuff",
+    "range": 6,
+    "AP": 4,
+    "description": "Grants unit Column Protect / DR+ for 3 rounds.",
+    "areadata": [
+      5
+    ]
+  },
+  "PhalangitesH_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Phalanx Formation",
+    "img": "TeamDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of each round, grants allies in Area of Effect DR+. This effect can stack.",
+    "areadata": [
+      8,
+      2
+    ]
+  },
+  "PhalangitesH_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Turnover",
+    "img": "SelfDefBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of round, if it's 3 round or lower, enters <Defensive Stance>, inflicting ACC- and granting DEF+ to self.<br>At the start of round, if it's 4 round or more, enters <Offensive Stance>, inflicting DEF- and granting ACC+ / DEF Pen.+ / Follow Up Attack to self.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickQMSK_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Deterring Attack",
+    "img": "Shot",
+    "range": "4",
+    "AP": "5",
+    "description": "Deals $(1.2) damage to a single target and inflicts ATK- / ACC- / CRIT- for 2 rounds.<br>If the target is Light-type, doubles the effects and also reduces SPD for 2 rounds.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickQMSK_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Output Enhancement",
+    "img": "TeamAtkBuff",
+    "range": "3",
+    "AP": "7",
+    "description": "Grants allies in Area of Effect ATK+ / ACC+ / CRIT+.<br>Increases unit's SPD.",
+    "areadata": [
+      8,
+      4,
+      5,
+      6,
+      2
+    ]
+  },
+  "NightChickQMSK_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Chick Armament Supply",
+    "img": "TeamAtkBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of round, grant allies in Area of Effect SPD+ / Anti-Light DMG+, and grant self DR.<br>Less affected allies increases the effect. This change takes effect at the start of each round.",
+    "areadata": [
+      7,
+      8,
+      9,
+      4,
+      6,
+      1,
+      2,
+      3
+    ]
+  },
+  "NightChickQMSK_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Situation Reversal",
+    "img": "SelfDefBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of round, if it's 4 round or more, increases unit's DEF Pen / ACC / CRIT.",
+    "areadata": [
+      5
+    ]
+  },
+  "NightChickQMSK_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Last Supply",
+    "img": "TeamAtkDeBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "When unit is defeated, increases all allies SPD / ATK / CRIT for 2 rounds, but decreases ACC.",
+    "areadata": [
+      7,
+      8,
+      9,
+      4,
+      5,
+      6,
+      1,
+      2,
+      3
+    ]
 	}
 }
