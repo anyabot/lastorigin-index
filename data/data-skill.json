@@ -9810,6 +9810,18 @@
       5
     ]
   },
+  "GigantesC_Ev72_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Improved Defense OS",
+    "img": "TeamDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of each round, if unit's HP is below 20%, increases unit's DEF / Status Resist. When unit is hit with a Fire Attack, removes this effect.",
+    "areadata": [
+      5
+    ]
+  },
   "GigantesC_Ev72_1_Skill5": {
     "title": "pskill3",
     "type": "passive",
@@ -9821,6 +9833,151 @@
     "areadata": [
       5,
       6
+    ]
+	},
+  "SeljuqA_Ev72_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Increase Armor",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of each wave, increase unit's DEF.<br>Effect is removed after unit is hit2 times or when unit is hit with a Fire attack.",
+    "areadata": [
+      5
+    ]
+	},
+  "MrAlfred2_Ev73_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Weakness Analysis?",
+    "img": "Beam",
+    "range": 0,
+    "AP": 0,
+    "description": "???",
+    "areadata": [
+      5
+    ]
+  },
+  "MrAlfred2_Ev73_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Analysis Completed: Utilization?",
+    "img": "Beam",
+    "range": 0,
+    "AP": 0,
+    "description": "???",
+    "areadata": [
+      5
+    ]
+  },
+  "MrAlfred2_Ev73_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Cradle of Evolution?",
+    "img": "SelfAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "???",
+    "areadata": [
+      5
+    ]
+  },
+  "MrAlfred2_Ev73_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "High Speed Operation?",
+    "img": "SelfAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "???",
+    "areadata": [
+      5
+    ]
+  },
+  "MrAlfred2_Ev73_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Weakness Overcoming?",
+    "img": "SuiceideBomb",
+    "range": 0,
+    "AP": 0,
+    "description": "???",
+    "areadata": [
+      5
+    ]
+  },
+  "Tyrant_Ev73_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Tyrant's Bite",
+    "img": "AssaultAttack",
+    "range": "2",
+    "AP": "9",
+    "description": "Deals $(2) damage to a single target, and inflict DEF- for 2 rounds.<br>Lower target's HP increases DMG dealt by Tyrant's Bite.<br>When Tyrant's HP is above 50%, remove target's DR buff.<br>When Tyrant's Bite hits, increases 'Predator' stack by 1.",
+    "areadata": [
+      5
+    ]
+  },
+  "Tyrant_Ev73_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Primal Flame",
+    "img": "WideFireShot",
+    "range": "5",
+    "AP": "10",
+    "attr": "fire",
+    "description": "Activates if 'Predator' stacks is at max or if there is no enemy in range of Tyrant's Bite at start of the round.<br>Deals $(1.7) Fire damage to target area that Ignore Protect, and inflict Fire Resist- for 2 rounds.<br>Higher 'Predator' stack increases Fire Resist debuff effect up to 3 stacks.<br>Consumes all 'Predator' stacks",
+    "areadata": [
+      1,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "Tyrant_Ev73_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Prey Search",
+    "img": "SelfAtkBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "When hit, temporairly changes 'Prey' target and, if there is no other Tyrant when the round begins, enter into 'Prey Monipolization' mode. Focus attacks on the 'Prey' and when Tyrant is attacked, removes 'Provoked' debuff applied to self.<br>Prey (Heavy) : 100%~60% HP, When hit with Fire Damage<br>Prey (Light): 60%~30% HP, When hit with Ice Damage<br>Prey (Flying): 30%~0% HP, When hit with Electric Damage<br>Prey Monopolization: ATK+ / ACC +. Effects are removed if Tyrant is hit 3 times.",
+    "areadata": [
+      5
+    ]
+  },
+  "Tyrant_Ev73_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Primitive Instinct",
+    "img": "SelfDefBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "When attacking, removes all Protect effects from targets and inflicts 'Marked' to self.<br>At the start of each round, grant self DEF+ / Status Resist+ / DR+.",
+    "areadata": [
+      5
+    ]
+  },
+  "Tyrant_Ev73_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Roar",
+    "img": "SuiceideBomb",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of each wave, grants 'Battle Continuation' to Tyrant and a chance to inflict 'Silenced' to all enemies for 2 turns.<br>When 'Battle Continuation' activate, increases Tyrant's SPD, but removes all 'Battle Continuation' affecting Tyrant.<br>When Tyrant's defeated after activating 'Battle Continuation', deals Fixed Fire DMG proportional to ATK to all enemies.",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ]
 	}
 }
