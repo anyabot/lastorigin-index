@@ -3576,7 +3576,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "Takes only minimal damage.<br>When Executioner is hit while affected by 5 or more 'Executioner' stacks, takes fixed damage and removes all buffs.",
+    "description": "Takes only minimal damage.<br>If Executioner is affected by 5 or more 'Executioner' stacks, takes fixed damage and removes all buffs.",
     "areadata": [
       5
     ]
@@ -8496,7 +8496,7 @@
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "Takes only minimal damage.<br>When Executioner is hit while affected by 5 or more 'Executioner' stacks, takes fixed damage and removes all buffs.",
+    "description": "Takes only minimal damage.<br>If Executioner is affected by 5 or more 'Executioner' stacks, takes fixed damage and removes all buffs.",
     "areadata": [
       5
     ]
@@ -9338,7 +9338,7 @@
     "img": "SelfAtkBuff",
     "range": "0",
     "AP": "0",
-    "description": "When Executioner is hit, increases Executioner's ATK / SPD permanently.<br>If Executioner is affected by 'Attack Link', grants Executioner Ignore Barrier/DR, and if Executioner is affected by 'Attack Block', grants Executioner ACC+.",
+    "description": "When Executioner is hit, increases Executioner's ATK / SPD permanently (Counted as 2 seperate stacks).<br>If Executioner is affected by 'Attack Link', grants Executioner Ignore Barrier/DR, and if Executioner is affected by 'Attack Block', grants Executioner ACC+.",
     "areadata": [
       5
     ]
@@ -9350,7 +9350,7 @@
     "img": "SelfDefBuff",
     "range": "0",
     "AP": "0",
-    "description": "Takes only minimal damage.<br>When Executioner is hit while affected by 10 or more 'Executioner' stacks, takes fixed damage and removes all buffs.",
+    "description": "Takes only minimal damage.<br>If Executioner is affected by 10 or more 'Executioner' stacks, takes fixed damage and removes all buffs.",
     "areadata": [
       5
     ]
