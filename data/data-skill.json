@@ -242,7 +242,7 @@
     "img": "CannonShotDelay",
     "range": 5,
     "AP": 8,
-    "description": "After 1 rounds, deals $(1.75) damage to target area. <br>Additional DMG+ to targets affected by 'Rooted'.",
+    "description": "After 1 rounds, deals $(1.75) damage to target area with Ignore Protect. <br>Additional DMG+ to targets affected by 'Rooted'.",
     "areadata": [
       0,
       0.5,
@@ -1150,7 +1150,7 @@
     "img": "CannonShotDelay",
     "range": 6,
     "AP": 7,
-    "description": "After 1 turn, deals $(2) damage to target area.<br>Additional DMG+ to targets affected by 'Rooted'.",
+    "description": "After 1 turn, deals $(2) damage to target area with Ignore Protect.<br>Additional DMG+ to targets affected by 'Rooted'.",
     "areadata": [
       0,
       0.75,
