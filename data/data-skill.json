@@ -9979,5 +9979,43 @@
       8,
       9
     ]
+	},
+  "Fortress_Ev81_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Aiding Fire",
+    "img": "MGShot",
+    "range": "3",
+    "AP": "5",
+    "description": "Deals $(1) to a single target, and inflicts 'Marked' / 'Damage Taken Increased' / EVA- for 2 rounds",
+    "areadata": [
+      5
+    ]
+  },
+  "Fortress_Ev81_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Destroy Target",
+    "img": "MGShot",
+    "range": "3",
+    "AP": "8",
+    "description": "Deals $(1.5) to a single target. <br>Additional DMG+ to targets affected by 'Marked' / EVA-.",
+    "areadata": [
+      5
+    ]
+  },
+  "Fortress_Ev81_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Mobility Position",
+    "img": "TeamDefBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "Target Protect allies behind on the same row and increases self DEF.",
+    "areadata": [
+      4,
+      5,
+      6
+    ]
 	}
 }
