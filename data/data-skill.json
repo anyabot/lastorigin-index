@@ -10017,5 +10017,101 @@
       5,
       6
     ]
+	},
+  "LemonadeAvatar_Ev82_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Avatar",
+    "img": "SuiceideBomb",
+    "range": "9",
+    "AP": "10",
+    "description": "Deals $(2) damage to target area, and reveal the complete form.",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "LemonadeAvatar_Ev82_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "For the Master",
+    "img": "Command",
+    "range": "9",
+    "AP": "10",
+    "description": "Grants Flying allies AP+ / 'Battle Continuation'. Increases targets ATK / DEF for 5 rounds.",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "LemonadeAvatar_Ev82_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Blessing Endowment",
+    "img": "Barrier",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of wave, grants Flying allies Barrier.",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "LemonadeAvatar_Ev82_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Spatial Control",
+    "img": "Barrier",
+    "range": "0",
+    "AP": "0",
+    "description": "Permanently invalidates all damage received. This effect cannot be removed.",
+    "areadata": [
+      5
+    ]
+  },
+  "LemonadeAvatar_Ev82_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Space Shift",
+    "img": "WideLightning",
+    "range": "0",
+    "AP": "0",
+    "description": "Disconnects and moves to another space when using 'For the Master' after all allies has been defeated.",
+    "areadata": [
+      5
+    ]
+  },
+  "LemonadeAvatar_Ev82_2_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Disconnect",
+    "img": "WideLightning",
+    "range": "0",
+    "AP": "0",
+    "description": "After all allies has been defeated, removes 'Spacial Control' effect.",
+    "areadata": [
+      5
+    ]
 	}
 }
