@@ -7502,7 +7502,7 @@
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "Everytime a Iron Parasite is defeated, Chick Commander gains 'Vengence' stack, and when affected by 5 stacks of Vengence'', Chick Commander gains 'Rising Fury' and uses 'Chick Final Attack of Fury'. When an enemy is defeated, Chick Commander is inflicted with 'Dissipated Anger', and won't gain 'Vengence' stack.<br>'Vengence' : ATK+/DEF+/ACC+<br>'Rising Fury' : will use <Chick Final Attack of Fury>.<br>'Dissipated Anger' : ATK-/DEF-",
+    "description": "Everytime a Iron Parasite is defeated, Chick Commander gains 'Vengence' stack, and when affected by 5 stacks of 'Vengence', Chick Commander gains 'Rising Fury' and uses 'Chick Final Attack of Fury'. When an enemy is defeated, Chick Commander is inflicted with 'Dissipated Anger', and won't gain 'Vengence' stack.<br>'Vengence' : ATK+/DEF+/ACC+<br>'Rising Fury' : will use <Chick Final Attack of Fury>.<br>'Dissipated Anger' : ATK-/DEF-",
     "areadata": [
       5
     ]
@@ -10474,7 +10474,7 @@
   "SpeakerEX_A8_1_Skill4": {
     "title": "pskill2",
     "type": "passive",
-    "name": "Enhanced Wavelength,
+    "name": "Enhanced Wavelength",
     "img": "TeamAtkBuff",
     "range": 0,
     "AP": 0,
@@ -10497,7 +10497,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of round, if it's round 2 or lower, grants unit SPD+.<br>'Sound Wave' also inflicts AP-..",
+    "description": "At the start of round, if it's round 2 or lower, grants unit SPD+.<br>'Sound Wave' also inflicts AP-.",
     "areadata": [
       5
     ]
@@ -10505,11 +10505,11 @@
 	"EmperorChickSpCH_Ch_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "낙오자",
+    "name": "Straggler",
     "img": "SelfAtkBuff",
     "range": 0,
     "AP": 0,
-    "description": "Everytime a Iron Parasite is defeated, Chick Commander gains 'Vengence' stack, and when affected by 5 stacks of Vengence'', Chick Commander gains 'Rising Fury' and uses 'Chick Final Attack of Fury'. When an enemy is defeated, Chick Commander is inflicted with 'Dissipated Anger', and won't gain 'Vengence' stack.<br>'Vengence' : ATK+/DEF+/ACC+<br>'Rising Fury' : will use <Chick Final Attack of Fury>.<br>'Dissipated Anger' : ATK-/DEF-",
+    "description": "Everytime a Iron Parasite is defeated, Chick Commander gains 'Vengence' stack, and when affected by 5 stacks of 'Vengence', Chick Commander gains 'Rising Fury' and uses 'Chick Final Attack of Fury'. When an enemy is defeated, Chick Commander is inflicted with 'Dissipated Anger', and won't gain 'Vengence' stack.<br>'Vengence' : ATK+/DEF+/ACC+<br>'Rising Fury' : will use <Chick Final Attack of Fury>.<br>'Dissipated Anger' : ATK-/DEF-",
     "areadata": [
       5
     ]
