@@ -10316,7 +10316,7 @@
     "img": "SelfSpdBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of wave, grants unit AP+ / DR+.<br> When unit is attacked, grants unit EVA+ that increases the further back unit is.<br>When unit is attacked by Ice Damage, removes EVA+ buffs and inflicts EVA- to unit."
+    "description": "At the start of wave, grants unit AP+ / DR+.<br> When unit is attacked, grants unit EVA+ that increases the further back unit is.<br>When unit is attacked by Ice Damage, removes EVA+ buffs and inflicts EVA- to unit.",
     "areadata": [
       5
     ]
