@@ -7146,7 +7146,7 @@
     "img": "TeamSpdDeBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, 50% chance to reduce AP and inflict 'Wet' / 'Damage Taken Increased' / Status Resist- / EVA- to all Bioroids.",
+    "description": "At the start of each round, 50% chance to reduce AP and inflict 'Damage Taken Increased' / Status Resist- / EVA- to Bioroids affected by 'Wet'.",
     "areadata": [
       7,
       8,
