@@ -1,0 +1,209 @@
+﻿{
+  "title": "Challenge3",
+  "stage": [
+    {
+      "title": "Challenge3-1",
+      "name": "Challenge3-1",
+	  "grid": [
+        0,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 90
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 90
+            },
+            {
+              "index": "Predator_Ch",
+              "level": 90
+            },
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge3-2",
+      "name": "Challenge3-2",
+	  "grid": [
+        1,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 85
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 85
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 85
+            },
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 85
+            },
+            {
+              "index": "Predator_Ch",
+              "level": 85
+            },
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 85
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 85
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge3-3",
+      "name": "Challenge3-3",
+	  "grid": [
+        2,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 80
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Predator_Ch",
+              "level": 80
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 80
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge3-4",
+      "name": "Challenge3-4",
+	  "grid": [
+        3,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 90
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 90
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 90
+            },
+            {
+              "index": "Predator_Ch",
+              "level": 90
+            },
+            {
+              "index": "FABigChickAlpha_Ch",
+              "level": 90
+            },
+            {
+              "index": "FABigChickBeta_Ch",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

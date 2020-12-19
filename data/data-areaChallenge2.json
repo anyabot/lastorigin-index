@@ -1,0 +1,209 @@
+﻿{
+  "title": "Challenge2",
+  "stage": [
+    {
+      "title": "Challenge2-1",
+      "name": "Challenge2-1",
+	  "grid": [
+        0,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Tyrant_Ch",
+              "level": 60
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge2-2",
+      "name": "Challenge2-2",
+	  "grid": [
+        1,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "Tyrant_Ch",
+              "level": 70
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Robert_Ch",
+              "level": 70
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge2-3",
+      "name": "Challenge2-3",
+	  "grid": [
+        2,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Tyrant_Ch",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Tyrant_Ch",
+              "level": 80
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge2-4",
+      "name": "Challenge2-4",
+	  "grid": [
+        3,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "Tyrant_Ch",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Robert_Ch",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Tyrant_Ch",
+              "level": 90
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
