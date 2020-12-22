@@ -7718,7 +7718,7 @@
     "img": "MeleeAttack",
     "range": 3,
     "AP": 4,
-    "description": "Deals $(1.1) damage to a single target and inflicts ATK- / CRIT- for 2 rounds.",
+    "description": "Deals $(1.1) damage to a single target and inflicts Provoked / ATK- / CRIT- for 2 rounds.",
     "areadata": [
       5
     ]
@@ -7730,7 +7730,7 @@
     "img": "SelfDefBuff",
     "range": 6,
     "AP": 6,
-    "description": "Grants Target Protect for 3 rounds to target ally.",
+    "description": "Grants AP+ / Target Protect for 3 rounds to target ally.",
     "areadata": [
       5
     ]
@@ -7738,11 +7738,11 @@
   "NightChickShSv_N_Skill3": {
     "title": "pskill1",
     "type": "passive",
-    "name": "Chick Survival Formation",
+    "name": "Chick Defensive Formation",
     "img": "SelfDefBuff",
     "range": 0,
     "AP": 0,
-    "description": "At the start of each round, increases unit's SPD / Elemental Resist.",
+    "description": "At the start of each round, increases unit's DR / Elemental Resist.",
     "areadata": [
       5
     ]
@@ -10231,7 +10231,7 @@
     "img": "AntiArmorShot",
     "range": 0,
     "AP": 0,
-    "description": "At the start of battle, if there's 3 or more Light allies, grant Light allies / enemies DR+, and inflict all Flying / Heavy allies / enemies 'Damage Taken Increasedd'.<br>This effect cannot be removed.",
+    "description": "At the start of battle, if there's 3 or more Light allies, grant Light allies / enemies DR+, and inflict all Flying / Heavy allies / enemies 'Damage Taken Increased'.<br>This effect cannot be removed.",
     "areadata": [
       1,
       2,
@@ -10647,6 +10647,213 @@
     "range": 0,
     "AP": 0,
     "description": "When there are no Iron Parasites left to eat, self-destructs.",
+    "areadata": [
+      5
+    ]
+	},
+  "NightChickSv_N_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Chick Survival Risk",
+    "img": "SelfDefDeBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, if unit is affected by 'Wet', inflict self 'Damage Taken Increased' for 4 rounds.",
+    "areadata": [
+      5
+    ]
+  },
+  "FridgerShooter_Ev91_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Quick Freezer",
+    "img": "IceShot",
+    "range": "3",
+    "AP": "4",
+    "attr": "ice",
+    "description": "Deals $(1) Ice Damage to a single target and inflict ATK- / CRIT- / 'Damage Taken Increased'.",
+    "areadata": [
+      5
+    ]
+  },
+  "FridgerShooter_Ev91_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Liquid Nitrogen",
+    "img": "GrenadeAttack_1",
+    "range": "4",
+    "AP": "5",
+    "attr": "ice",
+    "description": "Deals $(0.5) to target area and inflict ACC- for 2 rounds.<br>If the target is affected by 'Wet', inflict Status Resist-.",
+    "areadata": [
+      4,
+      5
+    ]
+  },
+  "FridgerShooter_Ev91_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Bio Radar",
+    "img": "AWACS",
+    "range": "0",
+    "AP": "0",
+    "description": "At start of round, grants allies in Area of Effect ATK+ / CRIT+ / SPD+. Effects are increased each time Fridger Shooter attacks an enemy.",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "FridgerShooter_Ev91_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Cooling System",
+    "img": "IceShot",
+    "range": "0",
+    "AP": "0",
+    "description": "At start of round, grant unit SPD+ / Status Resist+ if unit is affected by 'Wet'.",
+    "areadata": [
+      5
+    ]
+  },
+  "FridgerHead_Ev91_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Quick Freezer,
+    "img": "IceShot",
+    "range": "4",
+    "AP": "4",
+    "attr": "ice",
+    "description": "Deals $(1) damage to a single target, and inflict 'Marked' / Ice Resist- for 2 rounds.",
+    "areadata": [
+      5
+    ]
+  },
+  "FridgerHead_Ev91_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Crystallization",
+    "img": "DefCounter",
+    "range": "6",
+    "AP": "4",
+    "description": "Mark self for 5 rounds and increase self Ice Resist / Electric Resist / SPD.",
+    "areadata": [
+      5
+    ]
+  },
+  "FridgerHead_Ev91_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Spreading Coldness",
+    "img": "TeamDefBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "At start of round, increase Ice Resist / Electric Resist of allies in Area of Effect and grant Fridger-type allies 'Follow Up Attack' (including self).",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "FridgerHead_Ev91_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Spray Coolant",
+    "img": "WideIceShot",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of round, inflict enemies in AoE 'Wet' / DEF Pen. reduction.<br>DEF Pen. reduction effect decrease every round.<br>Inflict 'Wet' to all allies when destroyed.",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "FridgerHead_Ev91_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Commanding Entity",
+    "img": "Command",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of wave, if there's 3 or more enemy AGS, grant AP to allies in AoE.<br>At the start of wave, if there's 3 or more enemy Bioroids, inflict enemies in AoE unremovable DEF Pen. reduction.",
+    "areadata": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "FridgerShell_Ev91_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Quick Freeze",
+    "img": "IceShot",
+    "range": "3",
+    "AP": "4",
+    "attr": "ice",
+    "description": "Deal $(1) Ice damage to a single target.<br>Additonal Ice DMG+ to targets affected by 'Wet'.",
+    "areadata": [
+      5
+    ]
+  },
+  "FridgerShell_Ev91_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Frozen Strike",
+    "img": "WideIceShot",
+    "range": "4",
+    "AP": "6",
+    "attr": "ice",
+    "description": "Deals $(1.5) Ice Damage to target area<br>If the target is affected by 'Wet', remove DR buffs.",
+    "areadata": [
+      4,
+      5
+    ]
+  },
+  "FridgerShell_Ev91_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Connection Status",
+    "img": "SelfAtkBuff",
+    "range": "0",
+    "AP": "0",
+    "description": "At the start of round, if there's Fridger Head in the same squad, grant self ATK+ / CRIT+ / ACC+.",
+    "areadata": [
+      5
+    ]
+  },
+  "FridgerShell_Ev91_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Cooling System",
+    "img": "IceShot",
+    "range": "0",
+    "AP": "0",
+    "description": "At start of round, grant unit SPD+ / Status Resist+ if unit is affected by 'Wet'.",
     "areadata": [
       5
     ]

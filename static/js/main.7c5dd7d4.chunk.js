@@ -698,7 +698,7 @@
                                 for (;;) switch (n.prev = n.next) {
                                     case 0:
 									//Map List
-                                        return t = ["1", "2", "3", "4", "5", "6", "7","8", "Daily1", "Daily2", "Daily3", "Challenge1", "Challenge2", "Challenge3", "Ev11", "Ev21", "Ev22", "Ev23", "Ev31", "Ev41", "Ev51", "Ev52", "Ev61", "Ev62", "Ev71", "Ev72", "Ev73", "Ev81", "Ev82"], n.next = 3, p.a.awrap(Promise.all(t.map((function(e) {
+                                        return t = ["1", "2", "3", "4", "5", "6", "7","8", "Daily1", "Daily2", "Daily3", "Challenge1", "Challenge2", "Challenge3", "Ev11", "Ev21", "Ev22", "Ev23", "Ev31", "Ev41", "Ev51", "Ev52", "Ev61", "Ev62", "Ev71", "Ev72", "Ev73", "Ev81", "Ev82", "Ev91"], n.next = 3, p.a.awrap(Promise.all(t.map((function(e) {
                                             return t = e, new Promise((function(e, a) {
                                                 c("data/data-area" + t + ".json").then((function(t) {
                                                     return e(t)
