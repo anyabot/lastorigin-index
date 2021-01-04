@@ -316,7 +316,7 @@
                                 })
                             }))
                         }, a.calcLvlValue = function(e, t) {
-                            return Math.floor(e.base + e.increment * (t - 1))
+                            return Math.floor(e[0] + e[1] * (t - 1))
                         }, a.handleLvlPlus = function() {
                             a.props.onLvlChange("+")
                         }, a.handleLvlMinus = function() {
@@ -562,7 +562,7 @@
                         key: "render",
                         value: function() {
                             var e = this.props.skilldata,
-                                t = this.props.ATK.base + this.props.ATK.increment * (this.props.lvl - 1),
+                                t = this.props.ATK[0] + this.props.ATK[1] * (this.props.lvl - 1),
                                 a = "normal";
                             void 0 !== e.attr && (a = e.attr);
                             var n = "";
@@ -571,16 +571,16 @@
                                 (n = Math.floor(t * s)) < 1 && (n = 1)
                             }
                             var i = [];
-                            if (e.areadata.some((function(e) {
+                            if (e.area.some((function(e) {
                                     return e < 1
                                 })))
                                 for (var c = 0; c < 9; c++) {
-                                    var r = [255, Math.round(170 * (e.areadata[c] - .5) + 128), 0];
-                                    0 === e.areadata[c] && (r = [45, 45, 45]), i[c] = {
+                                    var r = [255, Math.round(170 * (e.area[c] - .5) + 128), 0];
+                                    0 === e.area[c] && (r = [45, 45, 45]), i[c] = {
                                         backgroundColor: "rgb(".concat(r, ")")
                                     }
                                 } else
-                                    for (var o = 0; o < e.areadata.length; o++) i[e.areadata[o] - 1] = {
+                                    for (var o = 0; o < e.area.length; o++) i[e.area[o] - 1] = {
                                         backgroundColor: "rgb(255, 213, 0)"
                                     };
                             return l.a.createElement("div", {
@@ -698,7 +698,7 @@
                                 for (;;) switch (n.prev = n.next) {
                                     case 0:
 									//Map List
-                                        return t = ["1", "2", "3", "4", "5", "6", "7","8", "Daily1", "Daily2", "Daily3", "Challenge1", "Challenge2", "Challenge3", "Ev11", "Ev21", "Ev22", "Ev23", "Ev31", "Ev41", "Ev51", "Ev52", "Ev61", "Ev62", "Ev71", "Ev72", "Ev73", "Ev81", "Ev82", "Ev91"], n.next = 3, p.a.awrap(Promise.all(t.map((function(e) {
+                                        return t = ["1", "2", "3", "4", "5", "6", "7","8", "Daily1", "Daily2", "Daily3", "Challenge1", "Challenge2", "Challenge3", "Ev11", "Ev21", "Ev22", "Ev23", "Ev31", "Ev41", "Ev51", "Ev52", "Ev61", "Ev62", "Ev71", "Ev72", "Ev73", "Ev81", "Ev82", "Ev91", "Ev92"], n.next = 3, p.a.awrap(Promise.all(t.map((function(e) {
                                             return t = e, new Promise((function(e, a) {
                                                 c("data/data-area" + t + ".json").then((function(t) {
                                                     return e(t)
