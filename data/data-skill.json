@@ -2136,7 +2136,7 @@
     "img": "MeleeAttack",
     "range": 8,
     "AP": 3,
-    "description": "Deals $(1) damage to a single target.<br/>Additional DMG+ to targets affected by 'Marked'.",
+    "description": "Deals $(1) damage to a single target.<br>Additional DMG+ to targets affected by 'Marked'.",
     "area": [
       5
     ]
@@ -2854,7 +2854,7 @@
     "range": 2,
     "AP": 9,
     "attr": "fire",
-    "description": "Deals $(1) Fire damage to target area.<br/>Additional DMG+ to targets affected by 'Marked'.",
+    "description": "Deals $(1) Fire damage to target area.<br>Additional DMG+ to targets affected by 'Marked'.",
     "area": [
       4,
       5,
@@ -5051,7 +5051,7 @@
     "range": 3,
     "AP": 6,
     "attr": "ice",
-    "description": "Deals $(1) Ice Damage to target area and inflicts 'Rooted'.<br/>Also inflicts 'Stunned' / 'Damage Taken Increased' to targets affected by 'Wet'.",
+    "description": "Deals $(1) Ice Damage to target area and inflicts 'Rooted'.<br>Also inflicts 'Stunned' / 'Damage Taken Increased' to targets affected by 'Wet'.",
     "area": [
       0,
       0,
@@ -11014,7 +11014,7 @@
     "img": "BeamShot",
     "range": 3,
     "AP": 6,
-    "description": "Deals $(1) Ice Damage to target area and inflicts 'Rooted'.<br/>Also inflicts 'Stunned' / 'Damage Taken Increased' to and removes buffs from targets affected by 'Wet'.",
+    "description": "Deals $(1) Ice Damage to target area and inflicts 'Rooted'.<br>Also inflicts 'Stunned' / 'Damage Taken Increased' to and removes buffs from targets affected by 'Wet'.",
     "area": [
       0,
       0,
