@@ -11164,7 +11164,7 @@
     "img": "MeleeAttack",
     "range": 10,
     "AP": 3,
-    "description": "Deals damage to a single target, and inflict <Mark of Execution>, and Ignore Barrier/DR at low chance.",
+    "description": "Deals damage to a single target, and inflict 'Mark of Execution', and Ignore Barrier/DR at low chance.",
     "area": [
       5
     ]
