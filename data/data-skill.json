@@ -9018,7 +9018,7 @@
     "img": "SelfSpdBuff",
     "range": "0",
     "AP": "0",
-    "description": "At the start of each round, inflicts EVA- to self but grants SPD+ for 2 rounds.",
+    "description": "At the start of round, inflict EVA- to self, but after successful evasion, grant self SPD+ for 2 rounds.",
     "area": [
       5
     ]
