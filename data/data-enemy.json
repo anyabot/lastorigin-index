@@ -860,6 +860,40 @@
       "HeavyScout_N_Skill3"
     ]
   },
+  "EmperorChickSpCH_Ch": {
+    "name": "Chick Commander",
+    "img": "EmperorChickSpCH",
+    "type": "Heavy Attacker",
+    "info": "주위 철충들에게 명령을 내리는 Chick Commander는 마치 훈련 교관처럼 느껴집니다. 철충들이 쓰러질 때마다 분노가 끓어올라 강해지고 쓰러진 철충들을 다시 일으켜 세울 수 있는 막강한 능력이 있습니다. 하지만 적군이 쓰러졌을 시 분노는 가라 앉고 약해지는 것으로 보아 어쩌면... 아군의 희생이 필요할지도 모릅니다.<br><br><br>보고자 ???",
+    "HP": {
+      "base": 300000,
+      "increment": 0
+    },
+    "ATK": {
+      "base": 100,
+      "increment": 0
+    },
+    "DEF": {
+      "base": 2000,
+      "increment": 0
+    },
+    "AGI": 3.6,
+    "CRT": 15,
+    "HIT": 250,
+    "DOD": 25,
+    "resist": [
+      70,
+      70,
+      70
+    ],
+    "skills": [
+      "EmperorChickSpCH_N_Skill1",
+      "EmperorChickSpCH_N_Skill2",
+      "EmperorChickSpCH_Ch_Skill3",
+      "EmperorChickSpCH_Ch_Skill4",
+      "EmperorChickSpCH_Ch_Skill5"
+    ]
+  },
   "Kidnapper_CH": {
     "name": "Trickster",
     "img": "Kidnapper_B0308",
@@ -16599,16 +16633,16 @@
     "type": "Flying Attacker",
     "info": "이 녀석, 요리조리 잘 피해서 다들 애먹었을 거야. 내 저격은 백발백중이니 맡겨만 줘.<br><br>-미호 보고함",
     "HP": [
-      11960,
-      0
+      312,
+      128.7
     ],
     "ATK": [
-      1713.6,
-      0
+      294,
+      15.6
     ],
     "DEF": [
-      298,
-      0
+      53,
+      2.7
     ],
     "AGI": 4.6,
     "CRT": 5,
@@ -19263,6 +19297,310 @@
       "LightningBomber_A7_1_Skill1",
       "LightningBomber_A7_1_Skill2",
       "LightningBomber_A7_1_Skill3"
+    ]
+  },
+  "NightChickM_TU6": {
+    "name": "Night Chick Launcher",
+    "img": "NightChickM",
+    "type": "Light Attacker",
+    "info": "흔히 볼 수 있는 미사일로 무장한 철충. 무조건 앞으로 돌격하는 모습이 브라우니와 비슷합니다.<br><br><br>- 보고자 레프리콘",
+    "HP": [
+      329,
+      74.25
+    ],
+    "ATK": [
+      73,
+      7.3
+    ],
+    "DEF": [
+      80,
+      1.7344
+    ],
+    "AGI": 3.75,
+    "CRT": 14.17,
+    "HIT": 250,
+    "DOD": 52.5,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "NightChickM_N_Skill1",
+      "NightChickM_N_Skill2",
+      "NightChickM_N_Skill3"
+    ]
+  },
+  "NightChickS_TU5": {
+    "name": "Night Chick Shielder",
+    "img": "NightChickS",
+    "type": "Light Defender",
+    "info": "이 자식들 짜증나 방패를 들고 앞을 자꾸 가로막거든? 다행히 머리가 나빠서 바로 뒤만 가로 막지만… 어쨌든 이 녀석들이 방어 자세를 취하기 전에 뒤를 정리해 두라고!<br><br><br>- 보고자 그리폰",
+    "HP": [
+      590,
+      110
+    ],
+    "ATK": [
+      90,
+      9
+    ],
+    "DEF": [
+      130,
+      7
+    ],
+    "AGI": 3.45,
+    "CRT": 5,
+    "HIT": 220,
+    "DOD": 40,
+    "resist": [
+      20,
+      20,
+      20
+    ],
+    "skills": [
+      "NightChickS_N_Skill1",
+      "NightChickS_N_Skill2",
+      "NightChickS_N_Skill3"
+    ]
+  },
+  "LemonadeAvatar_Challenge1": {
+    "uncertainstat": true,
+    "name": "Lemonade Avatar",
+    "img": "LemonadeAvatar",
+    "type": "Light Supporter",
+    "info": "내 무기가 전혀 안 먹히는걸? 저 녀석, 이 공간을 완전히 장악했어. 아무리 그래도 혼자서는... 아! 주변의 부하들과 연결되어서 출력을 상승시키고 있는 건가? 내 생각이 맞다면, 부하들을 먼저 쓰러뜨리면 약화시킬 수 있을 거야. 물론 부하들도 연결되어서 강해졌겠지만... 반드시 이겨낼 수 있어. 우린 친구니까!<br><br><br>-리앤",
+    "HP": [
+      10000,
+      0
+    ],
+    "ATK": [
+      200,
+      0
+    ],
+    "DEF": [
+      0,
+      0
+    ],
+    "AGI": 10,
+    "CRT": 0,
+    "HIT": 500,
+    "DOD": 0,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "LemonadeAvatar_Ev82_B1_Skill1",
+      "LemonadeAvatar_Challenge1_Skill2",
+      "LemonadeAvatar_Ev82_B1_Skill3",
+      "LemonadeAvatar_Ev82_B1_Skill4",
+      "LemonadeAvatar_Ev82_B1_Skill5"
+    ]
+  },
+  "LemonadeAvatar_Challenge2": {
+    "uncertainstat": true,
+    "name": "Lemonade Avatar",
+    "img": "LemonadeAvatar",
+    "type": "Light Supporter",
+    "info": "내 무기가 전혀 안 먹히는걸? 저 녀석, 이 공간을 완전히 장악했어. 아무리 그래도 혼자서는... 아! 주변의 부하들과 연결되어서 출력을 상승시키고 있는 건가? 내 생각이 맞다면, 부하들을 먼저 쓰러뜨리면 약화시킬 수 있을 거야. 물론 부하들도 연결되어서 강해졌겠지만... 반드시 이겨낼 수 있어. 우린 친구니까!<br><br><br>-리앤",
+    "HP": [
+      10000,
+      0
+    ],
+    "ATK": [
+      200,
+      0
+    ],
+    "DEF": [
+      0,
+      0
+    ],
+    "AGI": 10,
+    "CRT": 0,
+    "HIT": 500,
+    "DOD": 0,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "LemonadeAvatar_Ev82_B1_Skill1",
+      "LemonadeAvatar_Challenge2_Skill2",
+      "LemonadeAvatar_Ev82_B1_Skill3",
+      "LemonadeAvatar_Ev82_B1_Skill4",
+      "LemonadeAvatar_Ev82_B1_Skill5"
+    ]
+  },
+  "LemonadeAvatar_Challenge3": {
+    "uncertainstat": true,
+    "name": "Lemonade Avatar",
+    "img": "LemonadeAvatar",
+    "type": "Light Supporter",
+    "info": "내 무기가 전혀 안 먹히는걸? 저 녀석, 이 공간을 완전히 장악했어. 아무리 그래도 혼자서는... 아! 주변의 부하들과 연결되어서 출력을 상승시키고 있는 건가? 내 생각이 맞다면, 부하들을 먼저 쓰러뜨리면 약화시킬 수 있을 거야. 물론 부하들도 연결되어서 강해졌겠지만... 반드시 이겨낼 수 있어. 우린 친구니까!<br><br><br>-리앤",
+    "HP": [
+      10000,
+      0
+    ],
+    "ATK": [
+      200,
+      0
+    ],
+    "DEF": [
+      0,
+      0
+    ],
+    "AGI": 10,
+    "CRT": 0,
+    "HIT": 500,
+    "DOD": 0,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "LemonadeAvatar_Ev82_B1_Skill1",
+      "LemonadeAvatar_Challenge3_Skill2",
+      "LemonadeAvatar_Ev82_B1_Skill3",
+      "LemonadeAvatar_Ev82_B1_Skill4",
+      "LemonadeAvatar_Ev82_B1_Skill5"
+    ]
+  },
+  "LemonadeAvatar_Challenge4": {
+    "uncertainstat": true,
+    "name": "Lemonade Avatar",
+    "img": "LemonadeAvatar",
+    "type": "Light Supporter",
+    "info": "내 무기가 전혀 안 먹히는걸? 저 녀석, 이 공간을 완전히 장악했어. 아무리 그래도 혼자서는... 아! 주변의 부하들과 연결되어서 출력을 상승시키고 있는 건가? 내 생각이 맞다면, 부하들을 먼저 쓰러뜨리면 약화시킬 수 있을 거야. 물론 부하들도 연결되어서 강해졌겠지만... 반드시 이겨낼 수 있어. 우린 친구니까!<br><br><br>-리앤",
+    "HP": [
+      20000,
+      0
+    ],
+    "ATK": [
+      200,
+      0
+    ],
+    "DEF": [
+      0,
+      0
+    ],
+    "AGI": 10,
+    "CRT": 0,
+    "HIT": 500,
+    "DOD": 0,
+    "resist": [
+      0,
+      0,
+      0
+    ],
+    "skills": [
+      "LemonadeAvatar_Ev82_B1_Skill1",
+      "LemonadeAvatar_Challenge4_Skill2",
+      "LemonadeAvatar_Ev82_B1_Skill3",
+      "LemonadeAvatar_Ev82_B1_Skill4",
+      "LemonadeAvatar_Ev82_B1_Skill5"
+    ]
+  },
+  "NightChickQMSK_TU5": {
+    "uncertainstat": true,
+    "name": "Chick Quartermaster SK",
+    "img": "NightChickQMSK",
+    "type": "Light Supporter",
+    "info": "새로운 적 발견. 적 분석 시작.<br>분석 중..................<br>분석 결과.<br>공격 저지 능력. 대 경장 기능 갖춤. 아군 보병들 보호 필요. 최우선 타겟으로 파괴하겠음.<br><br><br>- 기간테스 보고함",
+    "HP": [
+      13706,
+      370.5
+    ],
+    "ATK": [
+      134,
+      8.8
+    ],
+    "DEF": [
+      170,
+      7.8
+    ],
+    "AGI": 4,
+    "CRT": 5,
+    "HIT": 350,
+    "DOD": 30,
+    "resist": [
+      30,
+      30,
+      30
+    ],
+    "skills": [
+      "NightChickQMSK_Ev71_1_Skill1",
+      "NightChickQMSK_Ev71_1_Skill2",
+      "NightChickQMSK_Ev71_1_Skill3",
+      "NightChickQMSK_Ev71_1_Skill4",
+      "NightChickQMSK_Ev71_1_Skill5"
+    ]
+  },
+  "CenturionG_TU4": {
+    "name": "Centurion General",
+    "img": "CenturionG",
+    "type": "Light Supporter",
+    "info": "지휘관 역할을 하는 철충인가 보네… 저렇게 무리하게 부하들을 다루면 안 좋을 것 같은데… 역시 적당히 하는 게 최고야...<br><br><br>- 이프리트 보고함",
+    "HP": [
+      50000,
+      500
+    ],
+    "ATK": [
+      60,
+      6
+    ],
+    "DEF": [
+      800,
+      10
+    ],
+    "AGI": 4.25,
+    "CRT": 1,
+    "HIT": 500,
+    "DOD": 55,
+    "resist": [
+      35,
+      35,
+      35
+    ],
+    "skills": [
+      "CenturionG_N_Skill1",
+      "CenturionG_N_Skill2",
+      "CenturionG_N_Skill3",
+      "CenturionG_N_Skill4",
+      "CenturionG_N_Skill5"
+    ]
+  },
+	"BigChick_TU4": {
+    "name": "Big Chick",
+    "img": "BigChick",
+    "type": "Heavy Attacker",
+    "info": "엄청 큰 나이트 칙이지 말임다! 하는 짓은 나이트 칙이랑 똑같은데 갑빠도 두껍고 총도 더 쎄게 쏘지 말임다. 움직이기 전에 얼른 죽여야 함다!<br><br><br>- 보고자 브라우니지 말임다.",
+    "HP": [
+      1500,
+      120
+    ],
+    "ATK": [
+      75,
+      11.5
+    ],
+    "DEF": [
+      150,
+      6.5
+    ],
+    "AGI": 3.3,
+    "CRT": 5,
+    "HIT": 150,
+    "DOD": 0,
+    "resist": [
+      25,
+      25,
+      25
+    ],
+    "skills": [
+      "BigChick_N_Skill1",
+      "BigChick_N_Skill2"
     ]
   }
 }

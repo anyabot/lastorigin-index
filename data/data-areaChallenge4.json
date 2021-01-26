@@ -1,0 +1,455 @@
+﻿{
+  "title": "Challenge4",
+  "stage": [
+    {
+      "title": "Challenge4-1",
+      "name": "Challenge4-1",
+	  "grid": [
+        0,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "Undine_EV1",
+              "level": 75
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Undine_EV2",
+              "level": 75
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Undine_EV3",
+              "level": 75
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "Undine_EV1",
+              "level": 80
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 80
+            },
+            {
+              "index": "Nereid_EV1",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Undine_EV3",
+              "level": 80
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge4-2",
+      "name": "Challenge4-2",
+	  "grid": [
+        1,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 75
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 75
+            },
+            {
+              "index": "Nereid_EV1",
+              "level": 75
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 75
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 75
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "Undine_EV1",
+              "level": 80
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 80
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 80
+            },
+            {
+              "index": "Nereid_EV1",
+              "level": 80
+            },
+            {
+              "index": "Undine_EV3",
+              "level": 80
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge4-3",
+      "name": "Challenge4-3",
+	  "grid": [
+        2,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 75
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 75
+            },
+            {
+              "index": "GigantesDagon_N",
+              "level": 75
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 75
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 75
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 75
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "GigantesDagon_N",
+              "level": 80
+            },
+            {
+              "index": "Nereid_EV2",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV2",
+              "level": 80
+            },
+            {
+              "index": "GigantesDagon_N",
+              "level": 80
+            },
+            {
+              "index": "Nereid_EV2",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        },
+		{
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "AMG11AA_EV5",
+              "level": 85
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 85
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Undine_EV4",
+              "level": 85
+            },
+            {
+              "index": "Nereid_EV2",
+              "level": 85
+            },
+            {
+              "index": "Sirene_EV2",
+              "level": 85
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 85
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 85
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge4-4",
+      "name": "Challenge4-4",
+	  "grid": [
+        3,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "Sirene_EV1",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV2",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 80
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 75
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "AMG11AA_EV5",
+              "level": 85
+            },
+            {
+              "index": "Sirene_EV2",
+              "level": 85
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 80
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 85
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 85
+            },
+            {
+              "index": "Sirene_EV2",
+              "level": 85
+            },
+            {
+              "index": "",
+              "level": 0
+            }
+          ]
+        },
+		{
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "",
+              "level": 90
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 90
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 90
+            },
+            {
+              "index": "Undine_EV4",
+              "level": 90
+            },
+            {
+              "index": "Nereid_EV1",
+              "level": 90
+            },
+            {
+              "index": "Sirene_EV2",
+              "level": 90
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "AMG11AA_EV5",
+              "level": 90
+            },
+            {
+              "index": "Sirene_EV1",
+              "level": 90
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

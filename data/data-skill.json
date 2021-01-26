@@ -11214,6 +11214,85 @@
     "area": [
       5
     ]
+  },
+  "LemonadeAvatar_Challenge1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "For the Master",
+    "img": "Command",
+    "range": "9",
+    "AP": "10",
+    "description": "Grants Light allies AP+ / 'Battle Continuation'. Increases targets ATK / CRIT for 5 rounds. These buffs cannot be removed.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "LemonadeAvatar_Challenge2_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "For the Master",
+    "img": "Command",
+    "range": "9",
+    "AP": "10",
+    "description": "Grants Flying allies AP+ / 'Battle Continuation'. Increases targets ATK / CRIT for 5 rounds. These buffs cannot be removed.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "LemonadeAvatar_Challenge3_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "For the Master",
+    "img": "Command",
+    "range": "9",
+    "AP": "10",
+    "description": "Grants Heavy allies AP+ / 'Battle Continuation'. Increases targets ATK / CRIT for 5 rounds. These buffs cannot be removed.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "LemonadeAvatar_Challenge4_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "For the Master",
+    "img": "Command",
+    "range": "9",
+    "AP": "10",
+    "description": "Grants allies AP+ / 'Battle Continuation'. Increases targets ATK / CRIT for 5 rounds. These buffs cannot be removed.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
   }
-  
 }

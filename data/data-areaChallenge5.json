@@ -1,0 +1,537 @@
+﻿{
+  "title": "Challenge5",
+  "stage": [
+    {
+      "title": "Challenge5-1",
+      "name": "Challenge5-1",
+	  "grid": [
+        0,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "NightChickM_TU6",
+              "level": 1
+            },
+            {
+              "index": "NightChick_TU6",
+              "level": 1
+            },
+            {
+              "index": "NightChickSP_TU9",
+              "level": 1
+            },
+            {
+              "index": "NightChickS_TU5",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge1",
+              "level": 100
+            },
+            {
+              "index": "NightChickM_TU6",
+              "level": 1
+            },
+            {
+              "index": "NightChick_TU6",
+              "level": 1
+            },
+            {
+              "index": "NightChickSP_TU9",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "Tarantula_TU4",
+              "level": 1
+            },
+            {
+              "index": "LegionMk2_TU4",
+              "level": 1
+            },
+            {
+              "index": "LegionSPEX_TU2",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge1",
+              "level": 100
+            },
+            {
+              "index": "NightChickQMSK_TU5",
+              "level": 1
+            },
+            {
+              "index": "Tarantula_TU4",
+              "level": 1
+            },
+            {
+              "index": "LegionMk2_TU4",
+              "level": 1
+            },
+            {
+              "index": "LegionSPEX_TU2",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "Testudo_TU4",
+              "level": 1
+            },
+            {
+              "index": "CenturionCF_TU5",
+              "level": 1
+            },
+            {
+              "index": "NightChickDEAA_TU4",
+              "level": 1
+            },
+            {
+              "index": "LemonadeAvatar_Challenge1",
+              "level": 100
+            },
+            {
+              "index": "CenturionG_TU4",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Testudo_TU4",
+              "level": 1
+            },
+            {
+              "index": "CenturionCF_TU5",
+              "level": 1
+            },
+            {
+              "index": "NightChickDEAA_TU4",
+              "level": 1
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge5-2",
+      "name": "Challenge5-2",
+	  "grid": [
+        1,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "Scout_TU5",
+              "level": 1
+            },
+            {
+              "index": "HeavyScout_N",
+              "level": 1
+            },
+            {
+              "index": "Wasp_TU8",
+              "level": 1
+            },
+            {
+              "index": "Scout_TU5",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge2",
+              "level": 100
+            },
+            {
+              "index": "Scout_TU5",
+              "level": 1
+            },
+            {
+              "index": "HeavyScout_N",
+              "level": 1
+            },
+            {
+              "index": "Chiller_N",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "ScarabEX_N",
+              "level": 1
+            },
+            {
+              "index": "WaspEX_N",
+              "level": 1
+            },
+            {
+              "index": "WaspEX_N",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge2",
+              "level": 100
+            },
+            {
+              "index": "ScoutSP_TU2",
+              "level": 1
+            },
+            {
+              "index": "ScarabEX_N",
+              "level": 1
+            },
+            {
+              "index": "ChillerHV_Ev92_1",
+              "level": 1
+            },
+            {
+              "index": "ChillerHV_Ev92_1",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "LightningBomber_A7_2",
+              "level": 1
+            },
+            {
+              "index": "ScoutSP_TU2",
+              "level": 1
+            },
+            {
+              "index": "LightningBomber_A7_2",
+              "level": 1
+            },
+            {
+              "index": "LemonadeAvatar_Challenge2",
+              "level": 100
+            },
+            {
+              "index": "SpectorMS_N",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LightningBomber_A7_2",
+              "level": 1
+            },
+            {
+              "index": "ScoutSP_TU2",
+              "level": 1
+            },
+            {
+              "index": "LightningBomber_A7_2",
+              "level": 1
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge5-3",
+      "name": "Challenge5-3",
+	  "grid": [
+        2,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "Harvester_TU5",
+              "level": 1
+            },
+            {
+              "index": "BigChick_TU4",
+              "level": 1
+            },
+            {
+              "index": "NightChickC_TU5",
+              "level": 1
+            },
+            {
+              "index": "BigChickS_TU4",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge3",
+              "level": 100
+            },
+            {
+              "index": "Harvester_TU5",
+              "level": 1
+            },
+            {
+              "index": "BigChick_TU4",
+              "level": 1
+            },
+            {
+              "index": "NightChickC_TU5",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "Juggernaut_TU6",
+              "level": 1
+            },
+            {
+              "index": "FABigChickEX_N",
+              "level": 1
+            },
+            {
+              "index": "Mammoth_TU6",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge3",
+              "level": 100
+            },
+            {
+              "index": "Mammoth_TU6",
+              "level": 1
+            },
+            {
+              "index": "Juggernaut_TU6",
+              "level": 1
+            },
+            {
+              "index": "FABigChickEX_N",
+              "level": 1
+            },
+            {
+              "index": "Mammoth_TU6",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "Tortoise_TU4",
+              "level": 1
+            },
+            {
+              "index": "Frostbite_TU3",
+              "level": 1
+            },
+            {
+              "index": "BigChickM_TU5",
+              "level": 1
+            },
+            {
+              "index": "LemonadeAvatar_Challenge3",
+              "level": 100
+            },
+            {
+              "index": "EmperorChick_TU4",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Tortoise_TU4",
+              "level": 1
+            },
+            {
+              "index": "Frostbite_TU3",
+              "level": 1
+            },
+            {
+              "index": "BigChickM_TU5",
+              "level": 1
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "title": "Challenge5-4",
+      "name": "Challenge5-4",
+	  "grid": [
+        3,
+        0
+      ],
+      "wave": [
+        {
+          "title": "wave1",
+          "enemylist": [
+            {
+              "index": "Wasp_TU8",
+              "level": 1
+            },
+            {
+              "index": "NightChick_TU6",
+              "level": 1
+            },
+            {
+              "index": "NightChickC_TU5",
+              "level": 1
+            },
+            {
+              "index": "NightChickM_TU6",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge4",
+              "level": 100
+            },
+            {
+              "index": "Chiller_N",
+              "level": 1
+            },
+            {
+              "index": "BigChick_TU4",
+              "level": 1
+            },
+            {
+              "index": "NightChickSP_TU9",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave2",
+          "enemylist": [
+            {
+              "index": "Juggernaut_TU6",
+              "level": 1
+            },
+            {
+              "index": "FABigChickEX_N",
+              "level": 1
+            },
+            {
+              "index": "LegionSPEX_TU2",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "LemonadeAvatar_Challenge4",
+              "level": 100
+            },
+            {
+              "index": "NightChickQMSK_TU5",
+              "level": 1
+            },
+            {
+              "index": "ScarabEX_N",
+              "level": 1
+            },
+            {
+              "index": "WaspEX_N",
+              "level": 1
+            },
+            {
+              "index": "LegionMk2_TU4",
+              "level": 1
+            }
+          ]
+        },
+		{
+          "title": "wave3",
+          "enemylist": [
+            {
+              "index": "Testudo_TU4",
+              "level": 1
+            },
+            {
+              "index": "LightningBomber_A7_2",
+              "level": 1
+            },
+            {
+              "index": "CenturionCF_TU5",
+              "level": 1
+            },
+            {
+              "index": "LemonadeAvatar_Challenge4",
+              "level": 100
+            },
+            {
+              "index": "SpectorMS_N",
+              "level": 1
+            },
+            {
+              "index": "",
+              "level": 0
+            },
+            {
+              "index": "Tortoise_TU4",
+              "level": 1
+            },
+            {
+              "index": "Frostbite_TU3",
+              "level": 1
+            },
+            {
+              "index": "NightChickDEAA_TU4",
+              "level": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
