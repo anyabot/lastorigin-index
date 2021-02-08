@@ -10730,7 +10730,7 @@
     "range": "4",
     "AP": "4",
     "attr": "ice",
-    "description": "Deals $(1) damage to a single target, and inflict 'Marked' / Ice Resist- for 2 rounds.",
+    "description": "Deals $(1) Ice damage to a single target, and inflict 'Marked' / Ice Resist- for 2 rounds.",
     "area": [
       5
     ]
@@ -10774,7 +10774,7 @@
     "img": "WideIceShot",
     "range": "0",
     "AP": "0",
-    "description": "At the start of round, inflict enemies in AoE 'Wet' / DEF Pen. reduction.<br>DEF Pen. reduction effect decrease every round.<br>Inflict 'Wet' to all allies when destroyed.",
+    "description": "At the start of round, inflict enemies in AoE 'Wet' / DEF Pen-. reduction.<br>DEF Pen. reduction effect decrease every round.<br>Inflict 'Wet' to all allies when destroyed.",
     "area": [
       1,
       2,
@@ -11014,6 +11014,7 @@
     "img": "BeamShot",
     "range": 3,
     "AP": 6,
+	"attr": "ice",
     "description": "Deals $(1) Ice Damage to target area and inflicts 'Rooted'.<br>Also inflicts 'Stunned' / 'Damage Taken Increased' to and removes buffs from targets affected by 'Wet'.",
     "area": [
       0,
@@ -11070,6 +11071,7 @@
     "img": "BeamShot",
     "range": 4,
     "AP": 7,
+	"attr": "ice",
     "description": "Deals $(1) Ice damage to target area and inflicts 'Wet'",
     "area": [
       4,
@@ -11283,6 +11285,360 @@
     "range": "9",
     "AP": "10",
     "description": "Grants allies AP+ / 'Battle Continuation'. Increases targets ATK / CRIT for 5 rounds. These buffs cannot be removed.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+	},
+  "Hirume_Ev101_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Breath of the Sun",
+    "img": "Particle",
+    "range": 3,
+    "AP": 4,
+    "attr": "fire",
+    "description": "Deals $(1.28) damage to target area, and inflict 'Rooted' for 2 rounds and Fire Resist- / 'Ignite'  for 3 rounds.<br>Decrease damage dealt to target 1 square behind by 25%, and 2 square behind by 50%.",
+    "area": [
+      0,
+      0,
+      0,
+      1,
+      0.75,
+      0.5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Hirume_Ev101_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Exorcism Technique",
+    "img": "Barrier",
+    "range": 6,
+    "AP": 7,
+    "description": "Grant allies in target area Ice Resist+ / Barrier.<br>If Hirume is also in the target area, grant self <Protection Charm> status, and grant all Light allies EVA+.",
+    "area": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  "Hirume_Ev101_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Body that Purges Evil",
+    "img": "SelfDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, grant self Ice Resist+ / DR+.<br>At the start of wave, grant self AP+.",
+    "area": [
+      5
+    ]
+  },
+  "Hirume_Ev101_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Sacred Luminosity",
+    "img": "ShieldWall",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, grant allies in target area Target Protect / Ice Resist+.<br>If the ally's Attacker, grant additional ATK+.<br>If the ally's Support, grant additional SPD+.",
+    "area": [
+      1,
+      3,
+      5,
+      7,
+      9
+    ]
+  },
+  "Hirume_Ev101_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Left Eye of the Creator",
+    "img": "Scan",
+    "range": 0,
+    "AP": 0,
+    "description": "Grant self 'Recon' effect.<br>At the start of wave, if affected by 'Recon' effect, grant self 'Damage Minimize'.<br>At the start of wave, inflict Status Resist- / Fire Resist- to all enemies.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "HLightningBomberEX_Ev101_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Shock Bomb",
+    "img": "Missile",
+    "range": 4,
+    "AP": 4,
+    "attr": "electric",
+    "description": "Deals $(1) damage to target area, and inflicts SPD-.",
+    "area": [
+      0,
+      0,
+      0,
+      0.75,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "HLightningBomberEX_Ev101_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Indiscriminate Bombardment",
+    "img": "MultiMissile",
+    "range": 3,
+    "AP": 9,
+    "attr": "electric",
+    "description": "Deals $(1.25) Electric damage to target area that Ignore Protect.<br>Additional DMG+ to targets affected by SPD-.",
+    "area": [
+      2,
+      4,
+      5,
+      6,
+      8
+    ]
+  },
+  "HLightningBomberEX_Ev101_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Speed Down",
+    "img": "SelfSpdDeBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, inflict self SPD- but grant self CRIT+ for 2 rounds.",
+    "area": [
+      5
+    ]
+  },
+  "HLightningBomberEX_Ev101_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Full Charge",
+    "img": "Shock",
+    "range": 0,
+    "AP": 0,
+    "description": "Converts both Active Skills to Electric Attacks. When Active Skills hit, grants unit SPD+.",
+    "area": [
+      5
+    ]
+  },
+  "HLightningBomberEX_Ev101_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Bomber Opportunity Capture",
+    "img": "DefCounter",
+    "range": 0,
+    "AP": 0,
+    "description": "After unit attack, inflict self EVA- until the end of round. When unit evades, 'Counterattack'.",
+    "area": [
+      5
+    ]
+  },
+  "FryerShooter_Ev101_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Repulsor Shock",
+    "img": "Shock",
+    "range": 3,
+    "AP": 4,
+    "attr": "electric",
+    "description": "Deals $(1.2) Electric Damage to a single target and inflict ATK- / Electric Resist- / 'Damage Taken Increased'.",
+    "area": [
+      5
+    ]
+  },
+  "FryerShooter_Ev101_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Electric Shock Bomb",
+    "img": "GrenadeAttack_1",
+    "range": 4,
+    "AP": 5,
+    "attr": "electric",
+    "description": "Deals $(0.6) Electric Damage to target area, inflicts AP- / Electric Resist- for 2 rounds. If the target is affected by EVA-, inflict Status Resist-.",
+    "area": [
+      4,
+      5
+    ]
+  },
+  "FryerShooter_Ev101_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Bio Radar",
+    "img": "AWACS",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, grants allies in Area of Effect ATK+ / CRIT+ / SPD+. Effects are increased each time Fryer Shooter attacks an enemy.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "FryerShooter_Ev101_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Charging Device",
+    "img": "Shock",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, grant unit SPD+ / Status Resist+ if unit is affected by EVA-.",
+    "area": [
+      5
+    ]
+  },
+  "FryerShell_Ev101_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Repulsor Shock",
+    "img": "Shock",
+    "range": 3,
+    "AP": 4,
+    "attr": "electric",
+    "description": "Deal $(1.2) Electric damage to a single target.<br>Additonal Electric DMG+ to targets affected by EVA-.",
+    "area": [
+      5
+    ]
+  },
+  "FryerShell_Ev101_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Plasma Strike",
+    "img": "WideLightning",
+    "range": 4,
+    "AP": 6,
+    "attr": "electric",
+    "description": "Deals $(1.8) Ice Damage to target area<br>If the target is affected by EVA-, remove DR buffs.",
+    "area": [
+      4,
+      5
+    ]
+  },
+  "FryerShell_Ev101_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Connection Status",
+    "img": "SelfAtkBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, if there's Fryer Head in the same squad, grant self ATK+ / CRIT+ / ACC+.",
+    "area": [
+      5
+    ]
+  },
+  "FryerShell_Ev101_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Charging Device",
+    "img": "Shock",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, grant unit SPD+ / Status Resist+ if unit is affected by EVA-.",
+    "area": [
+      5
+    ]
+  },
+  "FryerHead_Ev101_1_Skill1": {
+    "title": "askill1",
+    "type": "active",
+    "name": "Repulsor Shock",
+    "img": "Shock",
+    "range": 4,
+    "AP": 4,
+    "attr": "electric",
+    "description": "Deals $(1.2) Electric Damage to a single target, and inflict 'Marked' / Electric Resist- for 2 rounds.",
+    "area": [
+      5
+    ]
+  },
+  "FryerHead_Ev101_1_Skill2": {
+    "title": "askill2",
+    "type": "active",
+    "name": "Magnetic Field",
+    "img": "DefCounter",
+    "range": 6,
+    "AP": 4,
+    "description": "Mark self for 5 rounds and increase self Ice Resist / Fire Resist / SPD.",
+    "area": [
+      5
+    ]
+  },
+  "FryerHead_Ev101_1_Skill3": {
+    "title": "pskill1",
+    "type": "passive",
+    "name": "Electromagnetic Wavelength",
+    "img": "TeamDefBuff",
+    "range": 0,
+    "AP": 0,
+    "description": "At start of round, increase Ice Resist / Fire Resist of allies in Area of Effect and grant Fryer-type allies 'Follow Up Attack' (including self).",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "FryerHead_Ev101_1_Skill4": {
+    "title": "pskill2",
+    "type": "passive",
+    "name": "Electrical Radiation",
+    "img": "WideLightning",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of round, inflict enemies in AoE EVA- / DEF Pen-. reduction.<br>DEF Pen. reduction effect decrease every round.<br>Inflict EVA- to all allies when destroyed.",
+    "area": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "FryerHead_Ev101_1_Skill5": {
+    "title": "pskill3",
+    "type": "passive",
+    "name": "Commanding Entity",
+    "img": "Command",
+    "range": 0,
+    "AP": 0,
+    "description": "At the start of wave, if there's 3 or more enemy AGS, grant AP to allies in AoE.<br>At the start of wave, if there's 3 or more enemy Bioroids, inflict enemies in AoE unremovable DEF Pen. reduction.",
     "area": [
       1,
       2,
