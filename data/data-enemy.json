@@ -19808,7 +19808,7 @@
   "LightningBomberP_Ev101_1": {
     "name": "Lighting Bomber Type-X",
     "img": "LightningBomber",
-    "type": "기동 공격기",
+    "type": "Flying Atttacker",
     "info": "<교전 기록 없음>",
     "HP": [
       260,
@@ -19837,6 +19837,40 @@
       "LightningBomber_A7_1_Skill3",
       "LightningBomberP_A8_1_Skill4",
       "LightningBomberP_A8_1_Skill5"
+    ]
+},
+  "LightningBomberP_Ev102_1": {
+    "name": "Lighting Bomber Type-X",
+    "img": "LightningBomber",
+    "type": "Flying Atttacker",
+    "info": "<교전 기록 없음>",
+    "HP": [
+      150,
+      45
+    ],
+    "ATK": [
+      200,
+      10.5
+    ],
+    "DEF": [
+      25,
+      1.25
+    ],
+    "AGI": 4.4,
+    "CRT": 5,
+    "HIT": 180,
+    "DOD": 310,
+    "resist": [
+      0,
+      -50,
+      99
+    ],
+    "skills": [
+      "LightningBomberMP_N_Skill1",
+      "LightningBomberMP_N_Skill2",
+      "LightningBomberMP_N_Skill3",
+      "LightningBomberMP_N_Skill4",
+      "LightningBomberMP_N_Skill5"
     ]
   }	  
 }
